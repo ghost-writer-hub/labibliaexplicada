@@ -1,0 +1,127 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  canonical?: string;
+}
+
+const { title, description = 'Tu recurso en línea para leer la Biblia con explicaciones claras y contexto histórico.', image, canonical } = Astro.props;
+const siteUrl = import.meta.env.SITE_URL || 'https://www.labibliaexplicada.com';
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  {image && <meta property="og:image" content={image} />}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  {image && <meta name="twitter:image" content={image} />}
+
+  <!-- Canonical -->
+  {canonical && <link rel="canonical" href={canonical} />}
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet" />
+
+  <title>{title}</title>
+</head>
+<body class="min-h-screen bg-white text-gray-900 font-sans">
+  <header class="navigation">
+    <div class="navigation-container max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
+      <a href="/" class="logo">
+        <img src="/images/logo.webp" alt="La Biblia Explicada" class="h-10" />
+      </a>
+
+      <nav class="nav-menu hidden md:flex items-center space-x-8">
+        <a href="/conceptos-biblicos" class="navigation-link hover:text-primary-600">Conceptos</a>
+        <a href="/libros-de-la-biblia" class="navigation-link hover:text-primary-600">Libros</a>
+        <a href="/sobre-nosotros" class="navigation-link hover:text-primary-600">Nosotros</a>
+      </nav>
+
+      <form action="/search" method="GET" class="search hidden md:flex">
+        <input
+          type="search"
+          name="query"
+          placeholder="¿Qué deseas saber?"
+          class="search-input border rounded-l-lg px-4 py-2"
+        />
+        <button type="submit" class="search-button bg-primary-600 text-white px-4 py-2 rounded-r-lg">
+          Buscar
+        </button>
+      </form>
+
+      <button class="menu-button md:hidden p-2" aria-label="Menu">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="footer bg-gray-900 text-white py-12">
+    <div class="container max-w-7xl mx-auto px-4">
+      <div class="top-section flex flex-col md:flex-row items-center justify-between mb-8">
+        <a href="/" class="logo mb-4 md:mb-0">
+          <img src="/images/logo.webp" alt="La Biblia Explicada" class="h-10 brightness-0 invert" />
+        </a>
+        <div class="footer-small-text text-gray-400">
+          2025 LA BIBLIA EXPLICADA
+        </div>
+      </div>
+
+      <div class="separator-footer border-t border-gray-700 my-8"></div>
+
+      <div class="bottom flex flex-col md:flex-row justify-between">
+        <div class="footer-categories mb-8 md:mb-0">
+          <h4 class="footer-title-text text-sm font-bold mb-4 text-gray-300">CATEGORÍAS</h4>
+          <ul class="space-y-2">
+            <li><a href="/categoria/historia" class="link-footer text-gray-400 hover:text-white">Artículos</a></li>
+            <li><a href="/categoria/curiosidades" class="link-footer text-gray-400 hover:text-white">Curiosidades y conceptos</a></li>
+            <li><a href="/categoria/reflexiones-sobre-la-biblia" class="link-footer text-gray-400 hover:text-white">Reflexiones sobre La Biblia</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
+
+<style is:global>
+  :root {
+    --color-primary-600: #2563eb;
+  }
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .font-serif {
+    font-family: 'Source Serif Pro', serif;
+  }
+
+  .text-primary-600 {
+    color: var(--color-primary-600);
+  }
+
+  .bg-primary-600 {
+    background-color: var(--color-primary-600);
+  }
+</style>

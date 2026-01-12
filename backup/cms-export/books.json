@@ -1,0 +1,5420 @@
+[
+  {
+    "_id": "book-0",
+    "slug": "apocalipsis",
+    "url": "https://www.labibliaexplicada.com/libro/apocalipsis",
+    "name": "Apocalipsis",
+    "metaTitle": "Apocalipsis",
+    "metaDescription": "El Apocalipsis es la revelación final de Dios que nos muestra el triunfo del bien sobre el mal y la promesa de una nueva creación.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/apocalipsis-1-la-revelacion-de-jesucristo",
+        "text": "La revelación de Jesucristo"
+      },
+      {
+        "href": "/capitulos/apocalipsis-2-mensajes-a-las-siete-iglesias-el-mensaje-a-efeso",
+        "text": "Mensajes a las siete iglesias: El mensaje a Efeso"
+      },
+      {
+        "href": "/capitulos/apocalipsis-3-el-mensaje-a-sardis",
+        "text": "El mensaje a Sardis"
+      },
+      {
+        "href": "/capitulos/apocalipsis-4-la-adoracion-celestial",
+        "text": "La adoración celestial"
+      },
+      {
+        "href": "/capitulos/apocalipsis-5-el-rollo-y-el-cordero",
+        "text": "El rollo y el Cordero"
+      },
+      {
+        "href": "/capitulos/apocalipsis-6-los-sellos",
+        "text": "Los sellos"
+      },
+      {
+        "href": "/capitulos/apocalipsis-7-los-144000-sellados",
+        "text": "Los 144.000 sellados"
+      },
+      {
+        "href": "/capitulos/apocalipsis-8-el-septimo-sello",
+        "text": "El séptimo sello"
+      },
+      {
+        "href": "/capitulos/apocalipsis-9",
+        "text": "Apocalipsis 9"
+      },
+      {
+        "href": "/capitulos/apocalipsis-10-el-angel-con-el-librito",
+        "text": "El ángel con el librito"
+      },
+      {
+        "href": "/capitulos/apocalipsis-11-los-dos-testigos",
+        "text": "Los dos testigos"
+      },
+      {
+        "href": "/capitulos/apocalipsis-12-la-mujer-y-el-dragon",
+        "text": "La mujer y el dragón"
+      },
+      {
+        "href": "/capitulos/apocalipsis-13-las-dos-bestias",
+        "text": "Las dos bestias"
+      },
+      {
+        "href": "/capitulos/apocalipsis-14-el-cantico-de-los-144000",
+        "text": "El cántico de los 144.000"
+      },
+      {
+        "href": "/capitulos/apocalipsis-15-los-angeles-con-las-siete-postreras-plagas",
+        "text": "Los ángeles con las siete postreras plagas"
+      },
+      {
+        "href": "/capitulos/apocalipsis-16-las-copas-de-ira",
+        "text": "Las copas de ira"
+      },
+      {
+        "href": "/capitulos/apocalipsis-17-condenacion-de-la-gran-ramera",
+        "text": "Condenación de la gran ramera"
+      },
+      {
+        "href": "/capitulos/apocalipsis-18-la-caida-de-babilonia",
+        "text": "La caída de Babilonia"
+      },
+      {
+        "href": "/capitulos/apocalipsis-19-alabanzas-en-el-cielo",
+        "text": "Alabanzas en el cielo"
+      },
+      {
+        "href": "/capitulos/apocalipsis-20-los-mil-anos",
+        "text": "Los mil años"
+      },
+      {
+        "href": "/capitulos/apocalipsis-21-cielo-nuevo-y-tierra-nueva",
+        "text": "Cielo nuevo y tierra nueva"
+      },
+      {
+        "href": "/capitulos/apocalipsis-22-la-venida-de-cristo-esta-cerca",
+        "text": "La venida de Cristo está cerca"
+      }
+    ],
+    "chapterCount": 22
+  },
+  {
+    "_id": "book-1",
+    "slug": "cantar-de-los-cantares",
+    "url": "https://www.labibliaexplicada.com/libro/cantar-de-los-cantares",
+    "name": "Cantar de los Cantares",
+    "metaTitle": "Cantar de los Cantares",
+    "metaDescription": "El Cantar de los Cantares es una obra poética bíblica que celebra el amor y la intimidad humana con profundas interpretaciones espirituales.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66e6a5dbffd21b1f31efecae_22_image.jpg",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/cantares-1-la-esposa-y-las-hijas-de-jerusalen",
+        "text": "La esposa y las hijas de Jerusalén"
+      },
+      {
+        "href": "/capitulos/cantares-2",
+        "text": "Cantar de los Cantares 2"
+      },
+      {
+        "href": "/capitulos/cantares-3-el-ensueno-de-la-esposa",
+        "text": "El ensueño de la esposa"
+      },
+      {
+        "href": "/capitulos/cantares-4-el-esposo-alaba-a-la-esposa",
+        "text": "El esposo alaba a la esposa"
+      },
+      {
+        "href": "/capitulos/cantares-5-el-tormento-de-la-separacion",
+        "text": "El tormento de la separación"
+      },
+      {
+        "href": "/capitulos/cantares-6-mutuo-encanto-del-esposo-y-de-la-esposa",
+        "text": "Mutuo encanto del esposo y de la esposa"
+      },
+      {
+        "href": "/capitulos/cantares-7",
+        "text": "Cantar de los Cantares 7"
+      },
+      {
+        "href": "/capitulos/cantares-8-el-poder-del-amor",
+        "text": "El poder del amor"
+      }
+    ],
+    "chapterCount": 8
+  },
+  {
+    "_id": "book-2",
+    "slug": "deuteronomio",
+    "url": "https://www.labibliaexplicada.com/libro/deuteronomio",
+    "name": "Deuteronomio",
+    "metaTitle": "Deuteronomio",
+    "metaDescription": "El Libro de Deuteronomio es una invitación a renovar el pacto con Dios, destacando el amor, la obediencia y la justicia como pilares de una vida plena.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/deuteronomio-1-moises-recuerda-a-israel-las-promesas-de-jehova-en-horeb",
+        "text": "Moisés recuerda a Israel las promesas de Jehová en Horeb"
+      },
+      {
+        "href": "/capitulos/deuteronomio-2-los-anos-en-el-desierto",
+        "text": "Los años en el desierto"
+      },
+      {
+        "href": "/capitulos/deuteronomio-3-israel-derrota-a-og-rey-de-basan",
+        "text": "Israel derrota a Og rey de Basán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-4-moises-exhorta-a-la-obediencia",
+        "text": "Moisés exhorta a la obediencia"
+      },
+      {
+        "href": "/capitulos/deuteronomio-5-los-diez-mandamientos",
+        "text": "Los Diez Mandamientos"
+      },
+      {
+        "href": "/capitulos/deuteronomio-6-el-gran-mandamiento",
+        "text": "El gran mandamiento"
+      },
+      {
+        "href": "/capitulos/deuteronomio-7-advertencias-contra-la-idolatria-de-canaan",
+        "text": "Advertencias contra la idolatría de Canaán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-8-la-buena-tierra-que-han-de-poseer",
+        "text": "La buena tierra que han de poseer"
+      },
+      {
+        "href": "/capitulos/deuteronomio-9-dios-destruira-a-las-naciones-de-canaan",
+        "text": "Dios destruirá a las naciones de Canaán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-10-el-pacto-renovado",
+        "text": "El pacto renovado"
+      },
+      {
+        "href": "/capitulos/deuteronomio-11-la-grandeza-de-jehova",
+        "text": "La grandeza de Jehová"
+      },
+      {
+        "href": "/capitulos/deuteronomio-12-el-santuario-unico",
+        "text": "El santuario único"
+      },
+      {
+        "href": "/capitulos/deuteronomio-13",
+        "text": "Deuteronomio 13"
+      },
+      {
+        "href": "/capitulos/deuteronomio-14-animales-limpios-e-inmundos",
+        "text": "Animales limpios e inmundos"
+      },
+      {
+        "href": "/capitulos/deuteronomio-15-el-ano-de-remision",
+        "text": "El año de remisión"
+      },
+      {
+        "href": "/capitulos/deuteronomio-16-fiestas-anuales",
+        "text": "Fiestas anuales"
+      },
+      {
+        "href": "/capitulos/deuteronomio-17-instrucciones-acerca-de-un-rey",
+        "text": "Instrucciones acerca de un rey"
+      },
+      {
+        "href": "/capitulos/deuteronomio-18-las-porciones-de-los-levitas",
+        "text": "Las porciones de los levitas"
+      },
+      {
+        "href": "/capitulos/deuteronomio-19-las-ciudades-de-refugio",
+        "text": "Las ciudades de refugio"
+      },
+      {
+        "href": "/capitulos/deuteronomio-20-leyes-sobre-la-guerra",
+        "text": "Leyes sobre la guerra"
+      },
+      {
+        "href": "/capitulos/deuteronomio-21-expiacion-de-un-asesinato-cuyo-autor-se-desconoce",
+        "text": "Expiación de un asesinato cuyo autor se desconoce"
+      },
+      {
+        "href": "/capitulos/deuteronomio-22-leyes-sobre-la-castidad",
+        "text": "Leyes sobre la castidad"
+      },
+      {
+        "href": "/capitulos/deuteronomio-23-los-excluidos-de-la-congregacion",
+        "text": "Los excluidos de la congregación"
+      },
+      {
+        "href": "/capitulos/deuteronomio-24",
+        "text": "Deuteronomio 24"
+      },
+      {
+        "href": "/capitulos/deuteronomio-25-orden-de-exterminar-a-amalec",
+        "text": "Orden de exterminar a Amalec"
+      },
+      {
+        "href": "/capitulos/deuteronomio-26-primicias-y-diezmos",
+        "text": "Primicias y diezmos"
+      },
+      {
+        "href": "/capitulos/deuteronomio-27-orden-de-escribir-la-ley-en-piedras-sobre-el-monte-ebal",
+        "text": "Orden de escribir la ley en piedras sobre el Monte Ebal"
+      },
+      {
+        "href": "/capitulos/deuteronomio-28-bendiciones-de-la-obediencia",
+        "text": "Bendiciones de la obediencia"
+      },
+      {
+        "href": "/capitulos/deuteronomio-29-pacto-de-jehova-con-israel-en-moab",
+        "text": "Pacto de Jehová con Israel en Moab"
+      },
+      {
+        "href": "/capitulos/deuteronomio-30-condiciones-para-la-restauracion-y-la-bendicion",
+        "text": "Condiciones para la restauración y la bendición"
+      },
+      {
+        "href": "/capitulos/deuteronomio-31-josue-es-instalado-como-sucesor-de-moises",
+        "text": "Josué es instalado como sucesor de Moisés"
+      },
+      {
+        "href": "/capitulos/deuteronomio-32-se-le-permite-a-moises-contemplar-la-tierra-de-canaan",
+        "text": "Se le permite a Moisés contemplar la tierra de Canaán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-33-moises-bendice-a-las-doce-tribus-de-israel",
+        "text": "Moisés bendice a las doce tribus de Israel"
+      },
+      {
+        "href": "/capitulos/deuteronomio-34-muerte-y-sepultura-de-moises",
+        "text": "Muerte y sepultura de Moisés"
+      }
+    ],
+    "chapterCount": 34
+  },
+  {
+    "_id": "book-3",
+    "slug": "epistola-a-filemon",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-filemon",
+    "name": "Epístola a Filemón",
+    "metaTitle": "Epístola a Filemón",
+    "metaDescription": "La Epístola a Filemón es una carta personal de Pablo que pide la reconciliación y el perdón entre un amo cristiano y su esclavo convertido.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/filemon-1-salutacion",
+        "text": "Salutación"
+      }
+    ],
+    "chapterCount": 1
+  },
+  {
+    "_id": "book-4",
+    "slug": "epistola-a-los-colosenses",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-los-colosenses",
+    "name": "Epístola a los colosenses",
+    "metaTitle": "Epístola a los colosenses",
+    "metaDescription": "La Epístola a los colosenses proclama la supremacía de Cristo como la plenitud de Dios, en quien encontramos todo lo necesario para nuestra salvación y vida espiritual.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/colosenses-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/colosenses-2-plenitud-de-vida-en-cristo",
+        "text": "Plenitud de vida en Cristo"
+      },
+      {
+        "href": "/capitulos/colosenses-3-la-vida-antigua-y-la-nueva",
+        "text": "La vida antigua y la nueva"
+      },
+      {
+        "href": "/capitulos/colosenses-4-salutaciones-finales",
+        "text": "Salutaciones finales"
+      }
+    ],
+    "chapterCount": 4
+  },
+  {
+    "_id": "book-5",
+    "slug": "epistola-a-los-efesios",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-los-efesios",
+    "name": "Epístola a los efesios",
+    "metaTitle": "Epístola a los efesios",
+    "metaDescription": "La Epístola a los Efesios revela la unidad de todos los creyentes en Cristo y el poder transformador de su amor para la Iglesia.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/efesios-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/efesios-2-salvos-por-gracia",
+        "text": "Salvos por gracia"
+      },
+      {
+        "href": "/capitulos/efesios-3-ministerio-de-pablo-a-los-gentiles",
+        "text": "Ministerio de Pablo a los gentiles"
+      },
+      {
+        "href": "/capitulos/efesios-4-la-unidad-del-espiritu",
+        "text": "La unidad del Espíritu"
+      },
+      {
+        "href": "/capitulos/efesios-5-andad-como-hijos-de-luz",
+        "text": "Andad como hijos de luz"
+      },
+      {
+        "href": "/capitulos/efesios-6-la-armadura-de-dios",
+        "text": "La armadura de Dios"
+      }
+    ],
+    "chapterCount": 6
+  },
+  {
+    "_id": "book-6",
+    "slug": "epistola-a-los-filipenses",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-los-filipenses",
+    "name": "Epístola a los filipenses",
+    "metaTitle": "Epístola a los filipenses",
+    "metaDescription": "La Epístola a los filipenses es una carta que resalta el gozo y la paz en Cristo, incluso en medio de la adversidad.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/filipenses-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/filipenses-2-humillacion-y-exaltacion-de-cristo",
+        "text": "Humillación y exaltación de Cristo"
+      },
+      {
+        "href": "/capitulos/filipenses-3-prosigo-al-blanco",
+        "text": "Prosigo al blanco"
+      },
+      {
+        "href": "/capitulos/filipenses-4-regocijaos-en-el-senor-siempre",
+        "text": "Regocijaos en el Señor siempre"
+      }
+    ],
+    "chapterCount": 4
+  },
+  {
+    "_id": "book-7",
+    "slug": "epistola-a-los-galatas",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-los-galatas",
+    "name": "Epístola a los gálatas",
+    "metaTitle": "Epístola a los gálatas",
+    "metaDescription": "La Epístola a los Gálatas es un llamado de Pablo a vivir en la libertad de la gracia de Cristo, sin las ataduras de la Ley.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/galatas-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/galatas-2-pablo-reprende-a-pedro-en-antioquia",
+        "text": "Pablo reprende a Pedro en Antioquía"
+      },
+      {
+        "href": "/capitulos/galatas-3-el-espiritu-se-recibe-por-la-fe",
+        "text": "El Espíritu se recibe por la fe"
+      },
+      {
+        "href": "/capitulos/galatas-4-exhortacion-contra-el-volver-a-la-esclavitud",
+        "text": "Exhortación contra el volver a la esclavitud"
+      },
+      {
+        "href": "/capitulos/galatas-5-estad-firmes-en-la-libertad",
+        "text": "Estad firmes en la libertad"
+      },
+      {
+        "href": "/capitulos/galatas-6-pablo-se-gloria-en-la-cruz-de-cristo",
+        "text": "Pablo se gloría en la cruz de Cristo"
+      }
+    ],
+    "chapterCount": 6
+  },
+  {
+    "_id": "book-8",
+    "slug": "epistola-a-los-hebreos",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-los-hebreos",
+    "name": "Epístola a los hebreos",
+    "metaTitle": "Epístola a los hebreos",
+    "metaDescription": "La Epístola a los hebreos revela la superioridad de Cristo como Sumo Sacerdote y Salvador, llamando a la fe y perseverancia.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/hebreos-1-dios-ha-hablado-por-su-hijo",
+        "text": "Dios ha hablado por su Hijo"
+      },
+      {
+        "href": "/capitulos/hebreos-2-una-salvacion-tan-grande",
+        "text": "Una salvación tan grande"
+      },
+      {
+        "href": "/capitulos/hebreos-3-jesus-es-superior-a-moises",
+        "text": "Jesús es superior a Moisés"
+      },
+      {
+        "href": "/capitulos/hebreos-4-jesus-el-gran-sumo-sacerdote",
+        "text": "Jesús el gran sumo sacerdote"
+      },
+      {
+        "href": "/capitulos/hebreos-5-advertencia-contra-la-apostasia",
+        "text": "Advertencia contra la apostasía"
+      },
+      {
+        "href": "/capitulos/hebreos-6",
+        "text": "Epístola a los hebreos 6"
+      },
+      {
+        "href": "/capitulos/hebreos-7-el-sacerdocio-de-melquisedec",
+        "text": "El sacerdocio de Melquisedec"
+      },
+      {
+        "href": "/capitulos/hebreos-8-el-mediador-de-un-nuevo-pacto",
+        "text": "El mediador de un nuevo pacto"
+      },
+      {
+        "href": "/capitulos/hebreos-9-el-sacrificio-de-cristo-quita-el-pecado",
+        "text": "El sacrificio de Cristo quita el pecado"
+      },
+      {
+        "href": "/capitulos/hebreos-10-advertencia-al-que-peca-deliberadamente",
+        "text": "Advertencia al que peca deliberadamente"
+      },
+      {
+        "href": "/capitulos/hebreos-11-la-fe",
+        "text": "La fe"
+      },
+      {
+        "href": "/capitulos/hebreos-12-puestos-los-ojos-en-jesus",
+        "text": "Puestos los ojos en Jesús"
+      },
+      {
+        "href": "/capitulos/hebreos-13-deberes-cristianos",
+        "text": "Deberes cristianos"
+      }
+    ],
+    "chapterCount": 13
+  },
+  {
+    "_id": "book-9",
+    "slug": "epistola-a-los-romanos",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-los-romanos",
+    "name": "Epístola a los romanos",
+    "metaTitle": "Epístola a los romanos",
+    "metaDescription": "La Epístola a los Romanos es una profunda exposición de la justificación por la fe y la gracia divina, revelando el plan de salvación para toda la humanidad.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/romanos-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/romanos-2-el-justo-juicio-de-dios",
+        "text": "El justo juicio de Dios"
+      },
+      {
+        "href": "/capitulos/romanos-3-no-hay-justo",
+        "text": "No hay justo"
+      },
+      {
+        "href": "/capitulos/romanos-4-el-ejemplo-de-abraham",
+        "text": "El ejemplo de Abraham"
+      },
+      {
+        "href": "/capitulos/romanos-5-resultados-de-la-justificacion",
+        "text": "Resultados de la justificación"
+      },
+      {
+        "href": "/capitulos/romanos-6-muertos-al-pecado",
+        "text": "Muertos al pecado"
+      },
+      {
+        "href": "/capitulos/romanos-7-analogia-tomada-del-matrimonio",
+        "text": "Analogía tomada del matrimonio"
+      },
+      {
+        "href": "/capitulos/romanos-8-viviendo-en-el-espiritu",
+        "text": "Viviendo en el Espíritu"
+      },
+      {
+        "href": "/capitulos/romanos-9-la-eleccion-de-israel",
+        "text": "La elección de Israel"
+      },
+      {
+        "href": "/capitulos/romanos-10",
+        "text": "Epístola a los romanos 10"
+      },
+      {
+        "href": "/capitulos/romanos-11-el-remanente-de-israel",
+        "text": "El remanente de Israel"
+      },
+      {
+        "href": "/capitulos/romanos-12-deberes-cristianos",
+        "text": "Deberes cristianos"
+      },
+      {
+        "href": "/capitulos/romanos-13",
+        "text": "Epístola a los romanos 13"
+      },
+      {
+        "href": "/capitulos/romanos-14-los-debiles-en-la-fe",
+        "text": "Los débiles en la fe"
+      },
+      {
+        "href": "/capitulos/romanos-15-el-evangelio-a-los-gentiles",
+        "text": "El evangelio a los gentiles"
+      },
+      {
+        "href": "/capitulos/romanos-16-saludos-personales",
+        "text": "Saludos personales"
+      }
+    ],
+    "chapterCount": 16
+  },
+  {
+    "_id": "book-10",
+    "slug": "epistola-a-tito",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-a-tito",
+    "name": "Epístola a Tito",
+    "metaTitle": "Epístola a Tito",
+    "metaDescription": "La Epístola a Tito es una guía sobre el liderazgo cristiano y la importancia de vivir una fe auténtica, reflejada en buenas obras.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/tito-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/tito-2-ensenanza-de-la-sana-doctrina",
+        "text": "Enseñanza de la sana doctrina"
+      },
+      {
+        "href": "/capitulos/tito-3-justificados-por-gracia",
+        "text": "Justificados por gracia"
+      }
+    ],
+    "chapterCount": 3
+  },
+  {
+    "_id": "book-11",
+    "slug": "epistola-de-judas",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-de-judas",
+    "name": "Epístola de Judas",
+    "metaTitle": "Epístola de Judas",
+    "metaDescription": "La Epístola de Judas es un llamado urgente a defender la fe contra falsos maestros y a confiar en el juicio y la protección de Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/judas-1-salutacion",
+        "text": "Salutación"
+      }
+    ],
+    "chapterCount": 1
+  },
+  {
+    "_id": "book-12",
+    "slug": "epistola-de-santiago",
+    "url": "https://www.labibliaexplicada.com/libro/epistola-de-santiago",
+    "name": "Epístola de Santiago",
+    "metaTitle": "Epístola de Santiago",
+    "metaDescription": "La Epístola de Santiago nos enseña que la fe verdadera se demuestra a través de acciones justas y compasivas en la vida diaria.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/santiago-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/santiago-2-amonestacion-contra-la-parcialidad",
+        "text": "Amonestación contra la parcialidad"
+      },
+      {
+        "href": "/capitulos/santiago-3-la-lengua",
+        "text": "La lengua"
+      },
+      {
+        "href": "/capitulos/santiago-4-la-amistad-con-el-mundo",
+        "text": "La amistad con el mundo"
+      },
+      {
+        "href": "/capitulos/santiago-5-contra-los-ricos-opresores",
+        "text": "Contra los ricos opresores"
+      }
+    ],
+    "chapterCount": 5
+  },
+  {
+    "_id": "book-13",
+    "slug": "evangelio-de-juan",
+    "url": "https://www.labibliaexplicada.com/libro/evangelio-de-juan",
+    "name": "Evangelio de Juan",
+    "metaTitle": "Evangelio de Juan",
+    "metaDescription": "El Evangelio de Juan revela a Jesús como el Verbo eterno de Dios, invitándonos a creer en Él para tener vida eterna.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/juan-1-el-verbo-hecho-carne",
+        "text": "El Verbo hecho carne"
+      },
+      {
+        "href": "/capitulos/juan-2-las-bodas-de-cana",
+        "text": "Las bodas de Caná"
+      },
+      {
+        "href": "/capitulos/juan-3-jesus-y-nicodemo",
+        "text": "Jesús y Nicodemo"
+      },
+      {
+        "href": "/capitulos/juan-4-jesus-y-la-mujer-samaritana",
+        "text": "Jesús y la mujer samaritana"
+      },
+      {
+        "href": "/capitulos/juan-5-el-paralitico-de-betesda",
+        "text": "El paralítico de Betesda"
+      },
+      {
+        "href": "/capitulos/juan-6-alimentacion-de-los-cinco-mil",
+        "text": "Alimentación de los cinco mil"
+      },
+      {
+        "href": "/capitulos/juan-7-incredulidad-de-los-hermanos-de-jesus",
+        "text": "Incredulidad de los hermanos de Jesús"
+      },
+      {
+        "href": "/capitulos/juan-8-la-mujer-adultera",
+        "text": "La mujer adúltera"
+      },
+      {
+        "href": "/capitulos/juan-9-jesus-sana-a-un-ciego-de-nacimiento",
+        "text": "Jesús sana a un ciego de nacimiento"
+      },
+      {
+        "href": "/capitulos/juan-10-parabola-del-redil",
+        "text": "Parábola del redil"
+      },
+      {
+        "href": "/capitulos/juan-11-muerte-de-lazaro",
+        "text": "Muerte de Lázaro"
+      },
+      {
+        "href": "/capitulos/juan-12-jesus-es-ungido-en-betania",
+        "text": "Jesús es ungido en Betania"
+      },
+      {
+        "href": "/capitulos/juan-13-jesus-lava-los-pies-de-sus-discipulos",
+        "text": "Jesús lava los pies de sus discípulos"
+      },
+      {
+        "href": "/capitulos/juan-14-jesus-el-camino-al-padre",
+        "text": "Jesús, el camino al Padre"
+      },
+      {
+        "href": "/capitulos/juan-15-jesus-la-vid-verdadera",
+        "text": "Jesús, la vid verdadera"
+      },
+      {
+        "href": "/capitulos/juan-16-la-obra-del-espiritu-santo",
+        "text": "La obra del Espíritu Santo"
+      },
+      {
+        "href": "/capitulos/juan-17-jesus-ora-por-sus-discipulos",
+        "text": "Jesús ora por sus discípulos"
+      },
+      {
+        "href": "/capitulos/juan-18-arresto-de-jesus",
+        "text": "Arresto de Jesús"
+      },
+      {
+        "href": "/capitulos/juan-19-crucifixion-y-muerte-de-jesus",
+        "text": "Crucifixión y muerte de Jesús"
+      },
+      {
+        "href": "/capitulos/juan-20-la-resurreccion",
+        "text": "La resurrección"
+      },
+      {
+        "href": "/capitulos/juan-21-jesus-se-aparece-a-siete-de-sus-discipulos",
+        "text": "Jesús se aparece a siete de sus discípulos"
+      }
+    ],
+    "chapterCount": 21
+  },
+  {
+    "_id": "book-14",
+    "slug": "evangelio-de-lucas",
+    "url": "https://www.labibliaexplicada.com/libro/evangelio-de-lucas",
+    "name": "Evangelio de Lucas",
+    "metaTitle": "Evangelio de Lucas",
+    "metaDescription": "El Evangelio de Lucas revela el amor y la compasión de Jesús hacia los marginados, destacando la oración y la obra del Espíritu Santo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/lucas-1-dedicatoria-a-teofilo",
+        "text": "Dedicatoria a Teófilo"
+      },
+      {
+        "href": "/capitulos/lucas-2-nacimiento-de-jesus",
+        "text": "Nacimiento de Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-3-predicacion-de-juan-el-bautista",
+        "text": "Predicación de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/lucas-4-tentacion-de-jesus",
+        "text": "Tentación de Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-5-la-pesca-milagrosa",
+        "text": "La pesca milagrosa"
+      },
+      {
+        "href": "/capitulos/lucas-6-los-discipulos-recogen-espigas-en-el-dia-de-reposo",
+        "text": "Los discípulos recogen espigas en el día de reposo"
+      },
+      {
+        "href": "/capitulos/lucas-7-jesus-sana-al-siervo-de-un-centurion",
+        "text": "Jesús sana al siervo de un centurión"
+      },
+      {
+        "href": "/capitulos/lucas-8-mujeres-que-sirven-a-jesus",
+        "text": "Mujeres que sirven a Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-9-mision-de-los-doce-discipulos",
+        "text": "Misión de los doce discípulos"
+      },
+      {
+        "href": "/capitulos/lucas-10-mision-de-los-setenta",
+        "text": "Misión de los setenta"
+      },
+      {
+        "href": "/capitulos/lucas-11-jesus-y-la-oracion",
+        "text": "Jesús y la oración"
+      },
+      {
+        "href": "/capitulos/lucas-12-la-levadura-de-los-fariseos",
+        "text": "La levadura de los fariseos"
+      },
+      {
+        "href": "/capitulos/lucas-13-arrepentios-o-perecereis",
+        "text": "Arrepentíos o pereceréis"
+      },
+      {
+        "href": "/capitulos/lucas-14-jesus-sana-a-un-hidropico",
+        "text": "Jesús sana a un hidrópico"
+      },
+      {
+        "href": "/capitulos/lucas-15-parabola-de-la-oveja-perdida",
+        "text": "Parábola de la oveja perdida"
+      },
+      {
+        "href": "/capitulos/lucas-16-parabola-del-mayordomo-infiel",
+        "text": "Parábola del mayordomo infiel"
+      },
+      {
+        "href": "/capitulos/lucas-17-ocasiones-de-caer",
+        "text": "ocasiones de caer"
+      },
+      {
+        "href": "/capitulos/lucas-18-parabola-de-la-viuda-y-el-juez-injusto",
+        "text": "Parábola de la viuda y el juez injusto"
+      },
+      {
+        "href": "/capitulos/lucas-19-jesus-y-zaqueo",
+        "text": "Jesús y Zaqueo"
+      },
+      {
+        "href": "/capitulos/lucas-20-la-autoridad-de-jesus",
+        "text": "La autoridad de Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-21-la-ofrenda-de-la-viuda",
+        "text": "La ofrenda de la viuda"
+      },
+      {
+        "href": "/capitulos/lucas-22-el-complot-para-matar-a-jesus",
+        "text": "El complot para matar a Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-23-jesus-ante-pilato",
+        "text": "Jesús ante Pilato"
+      },
+      {
+        "href": "/capitulos/lucas-24-la-resurreccion",
+        "text": "La resurrección"
+      }
+    ],
+    "chapterCount": 24
+  },
+  {
+    "_id": "book-15",
+    "slug": "evangelio-de-marcos",
+    "url": "https://www.labibliaexplicada.com/libro/evangelio-de-marcos",
+    "name": "Evangelio de Marcos",
+    "metaTitle": "Evangelio de Marcos",
+    "metaDescription": "El Evangelio de Marcos narra la vida de Jesús con un enfoque directo en sus milagros y su misión salvadora, mostrando su humanidad y poder divino.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/marcos-1-predicacion-de-juan-el-bautista",
+        "text": "Predicación de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/marcos-2-jesus-sana-a-un-paralitico",
+        "text": "Jesús sana a un paralítico"
+      },
+      {
+        "href": "/capitulos/marcos-3-el-hombre-de-la-mano-seca",
+        "text": "El hombre de la mano seca"
+      },
+      {
+        "href": "/capitulos/marcos-4-parabola-del-sembrador",
+        "text": "Parábola del sembrador"
+      },
+      {
+        "href": "/capitulos/marcos-5-el-endomoniado-gadareno",
+        "text": "El endomoniado gadareno"
+      },
+      {
+        "href": "/capitulos/marcos-6-jesus-en-nazaret",
+        "text": "Jesús en Nazaret"
+      },
+      {
+        "href": "/capitulos/marcos-7-lo-que-contamina-al-hombre",
+        "text": "Lo que contamina al hombre"
+      },
+      {
+        "href": "/capitulos/marcos-8-alimentacion-de-los-cuatro-mil",
+        "text": "Alimentación de los cuatro mil"
+      },
+      {
+        "href": "/capitulos/marcos-9-la-transfiguracion",
+        "text": "La transfiguración"
+      },
+      {
+        "href": "/capitulos/marcos-10-jesus-ensena-sobre-el-divorcio",
+        "text": "Jesús enseña sobre el divorcio"
+      },
+      {
+        "href": "/capitulos/marcos-11-la-entrada-triunfal-en-jerusalen",
+        "text": "La entrada triunfal en Jerusalén"
+      },
+      {
+        "href": "/capitulos/marcos-12-los-labradores-malvados",
+        "text": "Los labradores malvados"
+      },
+      {
+        "href": "/capitulos/marcos-13-jesus-predice-la-destruccion-del-templo",
+        "text": "Jesús predice la destrucción del templo"
+      },
+      {
+        "href": "/capitulos/marcos-14-el-complot-para-prender-a-jesus",
+        "text": "El complot para prender a Jesús"
+      },
+      {
+        "href": "/capitulos/marcos-15-jesus-ante-pilato",
+        "text": "Jesús ante Pilato"
+      },
+      {
+        "href": "/capitulos/marcos-16-la-resurreccion",
+        "text": "La resurrección"
+      }
+    ],
+    "chapterCount": 16
+  },
+  {
+    "_id": "book-16",
+    "slug": "evangelio-de-mateo",
+    "url": "https://www.labibliaexplicada.com/libro/evangelio-de-mateo",
+    "name": "Evangelio de Mateo",
+    "metaTitle": "Evangelio de Mateo",
+    "metaDescription": "El Evangelio de Mateo revela a Jesús como el Mesías prometido, el Salvador que cumple las profecías del Antiguo Testamento y nos guía hacia el Reino de los Cielos.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/mateo-1-genealogia-de-jesucristo",
+        "text": "Genealogía de Jesucristo"
+      },
+      {
+        "href": "/capitulos/mateo-2-la-visita-de-los-magos",
+        "text": "La visita de los magos"
+      },
+      {
+        "href": "/capitulos/mateo-3-predicacion-de-juan-el-bautista",
+        "text": "Predicación de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/mateo-4-tentacion-de-jesus",
+        "text": "Tentación de Jesús"
+      },
+      {
+        "href": "/capitulos/mateo-5-el-sermon-del-monte-las-bienaventuranzas",
+        "text": "El Sermón del monte: Las bienaventuranzas"
+      },
+      {
+        "href": "/capitulos/mateo-6-jesus-y-la-limosna",
+        "text": "Jesús y la limosna"
+      },
+      {
+        "href": "/capitulos/mateo-7-el-juzgar-a-los-demas",
+        "text": "El juzgar a los demás"
+      },
+      {
+        "href": "/capitulos/mateo-8-jesus-sana-a-un-leproso",
+        "text": "Jesús sana a un leproso"
+      },
+      {
+        "href": "/capitulos/mateo-9-jesus-sana-a-un-paralitico",
+        "text": "Jesús sana a un paralítico"
+      },
+      {
+        "href": "/capitulos/mateo-10-eleccion-de-los-doce-apostoles",
+        "text": "Elección de los doce apóstoles"
+      },
+      {
+        "href": "/capitulos/mateo-11-los-mensajeros-de-juan-el-bautista",
+        "text": "Los mensajeros de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/mateo-12-los-discipulos-recogen-espigas-en-el-dia-de-reposo",
+        "text": "Los discípulos recogen espigas en el día de reposo"
+      },
+      {
+        "href": "/capitulos/mateo-13-parabola-del-sembrador",
+        "text": "Parábola del sembrador"
+      },
+      {
+        "href": "/capitulos/mateo-14-muerte-de-juan-el-bautista",
+        "text": "Muerte de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/mateo-15-lo-que-contamina-al-hombre",
+        "text": "Lo que contamina al hombre"
+      },
+      {
+        "href": "/capitulos/mateo-16-la-demanda-de-una-senal",
+        "text": "La demanda de una señal"
+      },
+      {
+        "href": "/capitulos/mateo-17-la-transfiguracion",
+        "text": "La transfiguración"
+      },
+      {
+        "href": "/capitulos/mateo-18-quien-es-el-mayor",
+        "text": "¿Quién es el mayor?"
+      },
+      {
+        "href": "/capitulos/mateo-19-jesus-ensena-sobre-el-divorcio",
+        "text": "Jesús enseña sobre el divorcio"
+      },
+      {
+        "href": "/capitulos/mateo-20-los-obreros-de-la-vina",
+        "text": "Los obreros de la viña"
+      },
+      {
+        "href": "/capitulos/mateo-21-la-entrada-triunfal-en-jerusalen",
+        "text": "La entrada triunfal en Jerusalén"
+      },
+      {
+        "href": "/capitulos/mateo-22-parabola-de-la-fiesta-de-bodas",
+        "text": "Parábola de la fiesta de bodas"
+      },
+      {
+        "href": "/capitulos/mateo-23-jesus-acusa-a-escribas-y-fariseos",
+        "text": "Jesús acusa a escribas y fariseos"
+      },
+      {
+        "href": "/capitulos/mateo-24-jesus-predice-la-destruccion-del-templo",
+        "text": "Jesús predice la destrucción del templo"
+      },
+      {
+        "href": "/capitulos/mateo-25-parabola-de-las-diez-virgenes",
+        "text": "Parábola de las diez vírgenes"
+      },
+      {
+        "href": "/capitulos/mateo-26-el-complot-para-prender-a-jesus",
+        "text": "El complot para prender a Jesús"
+      },
+      {
+        "href": "/capitulos/mateo-27-jesus-ante-pilato",
+        "text": "Jesús ante Pilato"
+      },
+      {
+        "href": "/capitulos/mateo-28-la-resurreccion",
+        "text": "La resurrección"
+      }
+    ],
+    "chapterCount": 28
+  },
+  {
+    "_id": "book-17",
+    "slug": "exodo",
+    "url": "https://www.labibliaexplicada.com/libro/exodo",
+    "name": "Éxodo",
+    "metaTitle": "Éxodo",
+    "metaDescription": "El libro de Éxodo relata la liberación del pueblo de Israel de la esclavitud en Egipto y su viaje hacia la tierra prometida bajo la guía de Moisés.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66e6b0b4ffd21b1f31f994c0_exodo-biblia-moises-cruzando-mar-rojo_777271-4714.avif",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/exodo-1-afliccion-de-los-israelitas-en-egipto",
+        "text": "Aflicción de los israelitas en Egipto"
+      },
+      {
+        "href": "/capitulos/exodo-2-nacimiento-de-moises",
+        "text": "Nacimiento de Moisés"
+      },
+      {
+        "href": "/capitulos/exodo-3-llamamiento-de-moises",
+        "text": "Llamamiento de Moisés"
+      },
+      {
+        "href": "/capitulos/exodo-4-moises-vuelve-a-egipto",
+        "text": "Moisés vuelve a Egipto"
+      },
+      {
+        "href": "/capitulos/exodo-5-moises-y-aaron-ante-faraon",
+        "text": "Moisés y Aarón ante Faraón"
+      },
+      {
+        "href": "/capitulos/exodo-6",
+        "text": "Éxodo 6"
+      },
+      {
+        "href": "/capitulos/exodo-7-la-vara-de-aaron",
+        "text": "La vara de Aarón"
+      },
+      {
+        "href": "/capitulos/exodo-8-la-plaga-de-ranas",
+        "text": "La plaga de ranas"
+      },
+      {
+        "href": "/capitulos/exodo-9-la-plaga-en-el-ganado",
+        "text": "La plaga en el ganado"
+      },
+      {
+        "href": "/capitulos/exodo-10-la-plaga-de-langostas",
+        "text": "La plaga de langostas"
+      },
+      {
+        "href": "/capitulos/exodo-11-anunciada-la-muerte-de-los-primogenitos",
+        "text": "Anunciada la muerte de los primogénitos"
+      },
+      {
+        "href": "/capitulos/exodo-12-la-pascua",
+        "text": "La Pascua"
+      },
+      {
+        "href": "/capitulos/exodo-13-consagracion-de-los-primogenitos",
+        "text": "Consagración de los primogénitos"
+      },
+      {
+        "href": "/capitulos/exodo-14-los-israelitas-cruzan-el-mar-rojo",
+        "text": "Los israelitas cruzan el Mar Rojo"
+      },
+      {
+        "href": "/capitulos/exodo-15-cantico-de-moises-y-de-maria",
+        "text": "Cántico de Moisés y de María"
+      },
+      {
+        "href": "/capitulos/exodo-16-dios-da-el-mana",
+        "text": "Dios da el maná"
+      },
+      {
+        "href": "/capitulos/exodo-17-agua-de-la-roca",
+        "text": "Agua de la roca"
+      },
+      {
+        "href": "/capitulos/exodo-18-jetro-visita-a-moises",
+        "text": "Jetro visita a Moisés"
+      },
+      {
+        "href": "/capitulos/exodo-19-israel-en-sinai",
+        "text": "Israel en Sinaí"
+      },
+      {
+        "href": "/capitulos/exodo-20-los-diez-mandamientos",
+        "text": "Los Diez Mandamientos"
+      },
+      {
+        "href": "/capitulos/exodo-21-leyes-sobre-los-esclavos",
+        "text": "Leyes sobre los esclavos"
+      },
+      {
+        "href": "/capitulos/exodo-22-leyes-sobre-la-restitucion",
+        "text": "Leyes sobre la restitución"
+      },
+      {
+        "href": "/capitulos/exodo-23-las-tres-fiestas-anuales",
+        "text": "Las tres fiestas anuales"
+      },
+      {
+        "href": "/capitulos/exodo-24-moises-y-los-ancianos-en-el-monte-sinai",
+        "text": "Moisés y los ancianos en el Monte Sinaí"
+      },
+      {
+        "href": "/capitulos/exodo-25-la-ofrenda-para-el-tabernaculo",
+        "text": "La ofrenda para el tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-26-el-tabernaculo",
+        "text": "El tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-27-el-altar-de-bronce",
+        "text": "El altar de bronce"
+      },
+      {
+        "href": "/capitulos/exodo-28-las-vestiduras-de-los-sacerdotes",
+        "text": "Las vestiduras de los sacerdotes"
+      },
+      {
+        "href": "/capitulos/exodo-29-consagracion-de-aaron-y-de-sus-hijos",
+        "text": "Consagración de Aarón y de sus hijos"
+      },
+      {
+        "href": "/capitulos/exodo-30-el-altar-del-incienso",
+        "text": "El altar del incienso"
+      },
+      {
+        "href": "/capitulos/exodo-31-llamamiento-de-bezaleel-y-de-aholiab",
+        "text": "Llamamiento de Bezaleel y de Aholiab"
+      },
+      {
+        "href": "/capitulos/exodo-32",
+        "text": "Éxodo 32"
+      },
+      {
+        "href": "/capitulos/exodo-33-la-presencia-de-dios-prometida",
+        "text": "La presencia de Dios prometida"
+      },
+      {
+        "href": "/capitulos/exodo-34-el-pacto-renovado",
+        "text": "El pacto renovado"
+      },
+      {
+        "href": "/capitulos/exodo-35-reglamento-del-dia-de-reposo",
+        "text": "Reglamento del día de reposo"
+      },
+      {
+        "href": "/capitulos/exodo-36-moises-suspende-la-ofrenda-del-pueblo",
+        "text": "Moisés suspende la ofrenda del pueblo"
+      },
+      {
+        "href": "/capitulos/exodo-37-mobiliario-del-tabernaculo",
+        "text": "Mobiliario del tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-38-el-atrio-del-tabernaculo",
+        "text": "El atrio del tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-39-hechura-de-las-vestiduras-de-los-sacerdotes",
+        "text": "Hechura de las vestiduras de los sacerdotes"
+      },
+      {
+        "href": "/capitulos/exodo-40-moises-erige-el-tabernaculo",
+        "text": "Moisés erige el tabernáculo"
+      }
+    ],
+    "chapterCount": 40
+  },
+  {
+    "_id": "book-18",
+    "slug": "genesis",
+    "url": "https://www.labibliaexplicada.com/libro/genesis",
+    "name": "Génesis",
+    "metaTitle": "Génesis",
+    "metaDescription": "El Génesis narra los orígenes del universo y la humanidad",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66e6a8d3f04fad8bb50463ed_1_image.jpg",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/genesis-1-la-creacion",
+        "text": "La Creación"
+      },
+      {
+        "href": "/capitulos/genesis-2-el-hombre-en-el-huerto-del-eden",
+        "text": "El hombre en el huerto del Edén"
+      },
+      {
+        "href": "/capitulos/genesis-2-el-hombre-en-el-huerto-del-eden-027e0",
+        "text": "El hombre en el huerto del Edén"
+      },
+      {
+        "href": "/capitulos/genesis-3-desobediencia-del-hombre",
+        "text": "Desobediencia del hombre"
+      },
+      {
+        "href": "/capitulos/genesis-4-cain-y-abel",
+        "text": "Caín y Abel"
+      },
+      {
+        "href": "/capitulos/genesis-5-los-descendientes-de-adan",
+        "text": "Los descendientes de Adán"
+      },
+      {
+        "href": "/capitulos/genesis-6-la-maldad-de-los-hombres",
+        "text": "La maldad de los hombres"
+      },
+      {
+        "href": "/capitulos/genesis-7-el-diluvio",
+        "text": "El diluvio"
+      },
+      {
+        "href": "/capitulos/genesis-8",
+        "text": "Génesis 8"
+      },
+      {
+        "href": "/capitulos/genesis-9-pacto-de-dios-con-noe",
+        "text": "Pacto de Dios con Noé"
+      },
+      {
+        "href": "/capitulos/genesis-10-los-descendientes-de-los-hijos-de-noe",
+        "text": "Los descendientes de los hijos de Noé"
+      },
+      {
+        "href": "/capitulos/genesis-11-la-torre-de-babel",
+        "text": "La torre de Babel"
+      },
+      {
+        "href": "/capitulos/genesis-12-dios-llama-a-abram",
+        "text": "Dios llama a Abram"
+      },
+      {
+        "href": "/capitulos/genesis-13-abram-y-lot-se-separan",
+        "text": "Abram y Lot se separan"
+      },
+      {
+        "href": "/capitulos/genesis-14-abram-liberta-a-lot",
+        "text": "Abram liberta a Lot"
+      },
+      {
+        "href": "/capitulos/genesis-15-dios-promete-a-abram-un-hijo",
+        "text": "Dios promete a Abram un hijo"
+      },
+      {
+        "href": "/capitulos/genesis-16-agar-e-ismael",
+        "text": "Agar e Ismael"
+      },
+      {
+        "href": "/capitulos/genesis-17-la-circuncision-senal-del-pacto",
+        "text": "La circuncisión, señal del pacto"
+      },
+      {
+        "href": "/capitulos/genesis-18-promesa-del-nacimiento-de-isaac",
+        "text": "Promesa del nacimiento de Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-19-destruccion-de-sodoma-y-gomorra",
+        "text": "Destrucción de Sodoma y Gomorra"
+      },
+      {
+        "href": "/capitulos/genesis-20-abraham-y-abimelec",
+        "text": "Abraham y Abimelec"
+      },
+      {
+        "href": "/capitulos/genesis-21-nacimiento-de-isaac",
+        "text": "Nacimiento de Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-22-dios-ordena-a-abraham-que-sacrifique-a-isaac",
+        "text": "Dios ordena a Abraham que sacrifique a Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-23-muerte-y-sepultura-de-sara",
+        "text": "Muerte y sepultura de Sara"
+      },
+      {
+        "href": "/capitulos/genesis-24-abraham-busca-esposa-para-isaac",
+        "text": "Abraham busca esposa para Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-25-los-descendientes-de-abraham-y-cetura",
+        "text": "Los descendientes de Abraham y Cetura"
+      },
+      {
+        "href": "/capitulos/genesis-26-isaac-en-gerar",
+        "text": "Isaac en Gerar"
+      },
+      {
+        "href": "/capitulos/genesis-27-jacob-obtiene-la-bendicion-de-isaac",
+        "text": "Jacob obtiene la bendición de Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-28-dios-se-aparece-a-jacob-en-bet-el",
+        "text": "Dios se aparece a Jacob en Bet-el"
+      },
+      {
+        "href": "/capitulos/genesis-29-jacob-sirve-a-laban-por-raquel-y-lea",
+        "text": "Jacob sirve a Labán por Raquel y Lea"
+      },
+      {
+        "href": "/capitulos/genesis-30-tretas-de-jacob-y-de-laban",
+        "text": "Tretas de Jacob y de Labán"
+      },
+      {
+        "href": "/capitulos/genesis-31-jacob-huye-de-laban",
+        "text": "Jacob huye de Labán"
+      },
+      {
+        "href": "/capitulos/genesis-32-jacob-se-prepara-para-el-encuentro-con-esau",
+        "text": "Jacob se prepara para el encuentro con Esaú"
+      },
+      {
+        "href": "/capitulos/genesis-33-reconciliacion-entre-jacob-y-esau",
+        "text": "Reconciliación entre Jacob y Esaú"
+      },
+      {
+        "href": "/capitulos/genesis-34-la-deshonra-de-dina-vengada",
+        "text": "La deshonra de Dina vengada"
+      },
+      {
+        "href": "/capitulos/genesis-35-dios-bendice-a-jacob-en-bet-el",
+        "text": "Dios bendice a Jacob en Bet-el"
+      },
+      {
+        "href": "/capitulos/genesis-36-los-descendientes-de-esau",
+        "text": "Los descendientes de Esaú"
+      },
+      {
+        "href": "/capitulos/genesis-37-jose-es-vendido-por-sus-hermanos",
+        "text": "José es vendido por sus hermanos"
+      },
+      {
+        "href": "/capitulos/genesis-38-juda-y-tamar",
+        "text": "Judá y Tamar"
+      },
+      {
+        "href": "/capitulos/genesis-39-jose-y-la-esposa-de-potifar",
+        "text": "José y la esposa de Potifar"
+      },
+      {
+        "href": "/capitulos/genesis-40-jose-interpreta-dos-suenos",
+        "text": "José interpreta dos sueños"
+      },
+      {
+        "href": "/capitulos/genesis-41-jose-interpreta-el-sueno-de-faraon",
+        "text": "José interpreta el sueño de Faraón"
+      },
+      {
+        "href": "/capitulos/genesis-42-los-hermanos-de-jose-vienen-por-alimentos",
+        "text": "Los hermanos de José vienen por alimentos"
+      },
+      {
+        "href": "/capitulos/genesis-43-los-hermanos-de-jose-regresan-con-benjamin",
+        "text": "Los hermanos de José regresan con Benjamín"
+      },
+      {
+        "href": "/capitulos/genesis-44-la-copa-de-jose",
+        "text": "La copa de José"
+      },
+      {
+        "href": "/capitulos/genesis-45-jose-se-da-a-conocer-a-sus-hermanos",
+        "text": "José se da a conocer a sus hermanos"
+      },
+      {
+        "href": "/capitulos/genesis-46-jacob-y-su-familia-en-egipto",
+        "text": "Jacob y su familia en Egipto"
+      },
+      {
+        "href": "/capitulos/genesis-47",
+        "text": "Génesis 47"
+      },
+      {
+        "href": "/capitulos/genesis-48-jacob-bendice-a-efrain-y-a-manases",
+        "text": "Jacob bendice a Efraín y a Manasés"
+      },
+      {
+        "href": "/capitulos/genesis-49-profecia-de-jacob-acerca-de-sus-hijos",
+        "text": "Profecía de Jacob acerca de sus hijos"
+      },
+      {
+        "href": "/capitulos/genesis-50-muerte-de-jose",
+        "text": "Muerte de José"
+      }
+    ],
+    "chapterCount": 51
+  },
+  {
+    "_id": "book-19",
+    "slug": "hechos-de-los-apostoles",
+    "url": "https://www.labibliaexplicada.com/libro/hechos-de-los-apostoles",
+    "name": "Hechos de los Apóstoles",
+    "metaTitle": "Hechos de los Apóstoles",
+    "metaDescription": "El Hechos de los Apóstoles narra el inicio de la Iglesia, guiada por el Espíritu Santo y la expansión del Evangelio a través de los primeros discípulos.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/hechos-1-la-promesa-del-espiritu-santo",
+        "text": "La promesa del Espíritu Santo"
+      },
+      {
+        "href": "/capitulos/hechos-2-la-venida-del-espiritu-santo",
+        "text": "La venida del Espíritu Santo"
+      },
+      {
+        "href": "/capitulos/hechos-3-curacion-de-un-cojo",
+        "text": "Curación de un cojo"
+      },
+      {
+        "href": "/capitulos/hechos-4-pedro-y-juan-ante-el-concilio",
+        "text": "Pedro y Juan ante el concilio"
+      },
+      {
+        "href": "/capitulos/hechos-5-ananias-y-safira",
+        "text": "Ananías y Safira"
+      },
+      {
+        "href": "/capitulos/hechos-6-eleccion-de-siete-diaconos",
+        "text": "Elección de siete diáconos"
+      },
+      {
+        "href": "/capitulos/hechos-7-defensa-y-muerte-de-esteban",
+        "text": "Defensa y muerte de Esteban"
+      },
+      {
+        "href": "/capitulos/hechos-8-saulo-persigue-a-la-iglesia",
+        "text": "Saulo persigue a la iglesia"
+      },
+      {
+        "href": "/capitulos/hechos-9-conversion-de-saulo",
+        "text": "Conversión de Saulo"
+      },
+      {
+        "href": "/capitulos/hechos-10-pedro-y-cornelio",
+        "text": "Pedro y Cornelio"
+      },
+      {
+        "href": "/capitulos/hechos-11-informe-de-pedro-a-la-iglesia-de-jerusalen",
+        "text": "Informe de Pedro a la iglesia de Jerusalén"
+      },
+      {
+        "href": "/capitulos/hechos-12-jacobo-muerto-pedro-encarcelado",
+        "text": "Jacobo, muerto; Pedro, encarcelado"
+      },
+      {
+        "href": "/capitulos/hechos-13-bernabe-y-saulo-comienzan-su-primer-viaje-misionero",
+        "text": "Bernabé y Saulo comienzan su primer viaje misionero"
+      },
+      {
+        "href": "/capitulos/hechos-14-pablo-y-bernabe-en-iconio",
+        "text": "Pablo y Bernabé en iconio"
+      },
+      {
+        "href": "/capitulos/hechos-15-el-concilio-en-jerusalen",
+        "text": "El concilio en Jerusalén"
+      },
+      {
+        "href": "/capitulos/hechos-16-timoteo-acompana-a-pablo-y-a-silas",
+        "text": "Timoteo acompaña a Pablo y a Silas"
+      },
+      {
+        "href": "/capitulos/hechos-17-el-alboroto-en-tesalonica",
+        "text": "El alboroto en Tesalónica"
+      },
+      {
+        "href": "/capitulos/hechos-18-pablo-en-corinto",
+        "text": "Pablo en Corinto"
+      },
+      {
+        "href": "/capitulos/hechos-19-pablo-en-efeso",
+        "text": "Pablo en Efeso"
+      },
+      {
+        "href": "/capitulos/hechos-20-viaje-de-pablo-a-macedonia-y-grecia",
+        "text": "Viaje de Pablo a Macedonia y Grecia"
+      },
+      {
+        "href": "/capitulos/hechos-21-viaje-de-pablo-a-jerusalen",
+        "text": "Viaje de Pablo a Jerusalén"
+      },
+      {
+        "href": "/capitulos/hechos-22-pablo-relata-su-conversion",
+        "text": "Pablo relata su conversión"
+      },
+      {
+        "href": "/capitulos/hechos-23-complot-contra-pablo",
+        "text": "Complot contra Pablo"
+      },
+      {
+        "href": "/capitulos/hechos-24-defensa-de-pablo-ante-felix",
+        "text": "Defensa de Pablo ante Félix"
+      },
+      {
+        "href": "/capitulos/hechos-25-pablo-apela-a-cesar",
+        "text": "Pablo apela a César"
+      },
+      {
+        "href": "/capitulos/hechos-26-defensa-de-pablo-ante-agripa",
+        "text": "Defensa de Pablo ante Agripa"
+      },
+      {
+        "href": "/capitulos/hechos-27-pablo-es-enviado-a-roma",
+        "text": "Pablo es enviado a Roma"
+      },
+      {
+        "href": "/capitulos/hechos-28-pablo-en-la-isla-de-malta",
+        "text": "Pablo en la isla de Malta"
+      }
+    ],
+    "chapterCount": 28
+  },
+  {
+    "_id": "book-20",
+    "slug": "i-cronicas",
+    "url": "https://www.labibliaexplicada.com/libro/i-cronicas",
+    "name": "I Crónicas",
+    "metaTitle": "I Crónicas",
+    "metaDescription": "El Libro de I Crónicas narra la historia de Israel destacando la fidelidad de Dios, el linaje de David y la centralidad del templo en la vida del pueblo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-cronicas-1-descendientes-de-adan",
+        "text": "Descendientes de Adán"
+      },
+      {
+        "href": "/capitulos/1-cronicas-2-los-hijos-de-israel",
+        "text": "Los hijos de Israel"
+      },
+      {
+        "href": "/capitulos/1-cronicas-3-los-hijos-de-david",
+        "text": "Los hijos de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-4-descendientes-de-juda",
+        "text": "Descendientes de Judá"
+      },
+      {
+        "href": "/capitulos/1-cronicas-5-descendientes-de-ruben",
+        "text": "Descendientes de Rubén"
+      },
+      {
+        "href": "/capitulos/1-cronicas-6-descendientes-de-levi",
+        "text": "Descendientes de Leví"
+      },
+      {
+        "href": "/capitulos/1-cronicas-7-descendientes-de-isacar",
+        "text": "Descendientes de Isacar"
+      },
+      {
+        "href": "/capitulos/1-cronicas-8-descendientes-de-benjamin",
+        "text": "Descendientes de Benjamín"
+      },
+      {
+        "href": "/capitulos/1-cronicas-9-los-que-regresaron-de-babilonia",
+        "text": "Los que regresaron de Babilonia"
+      },
+      {
+        "href": "/capitulos/1-cronicas-10-muerte-de-saul-y-de-sus-hijos",
+        "text": "Muerte de Saúl y de sus hijos"
+      },
+      {
+        "href": "/capitulos/1-cronicas-11-david-es-proclamado-rey-de-israel",
+        "text": "David es proclamado rey de Israel"
+      },
+      {
+        "href": "/capitulos/1-cronicas-12-el-ejercito-de-david",
+        "text": "El ejército de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-13-david-propone-trasladar-el-arca-a-jerusalen",
+        "text": "David propone trasladar el arca a Jerusalén"
+      },
+      {
+        "href": "/capitulos/1-cronicas-14-hiram-envia-enbajadores-a-david",
+        "text": "Hiram envía enbajadores a David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-15-david-trae-el-arca-a-jerusalen",
+        "text": "David trae el arca a Jerusalén"
+      },
+      {
+        "href": "/capitulos/1-cronicas-16-salmo-de-accion-de-gracias-de-david",
+        "text": "Salmo de acción de gracias de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-17-pacto-de-dios-con-david",
+        "text": "Pacto de Dios con David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-18-david-extiende-sus-dominios",
+        "text": "David extiende sus dominios"
+      },
+      {
+        "href": "/capitulos/1-cronicas-19-derrotas-de-los-amonitas-y-sirios",
+        "text": "Derrotas de los amonitas y sirios"
+      },
+      {
+        "href": "/capitulos/1-cronicas-20-david-captura-a-raba",
+        "text": "David captura a Rabá"
+      },
+      {
+        "href": "/capitulos/1-cronicas-21-david-censa-al-pueblo",
+        "text": "David censa al pueblo"
+      },
+      {
+        "href": "/capitulos/1-cronicas-22-preparativos-para-el-templo",
+        "text": "Preparativos para el templo"
+      },
+      {
+        "href": "/capitulos/1-cronicas-23-distribucion-y-deberes-de-los-levitas",
+        "text": "Distribución y deberes de los levitas"
+      },
+      {
+        "href": "/capitulos/1-cronicas-24",
+        "text": "I Crónicas 24"
+      },
+      {
+        "href": "/capitulos/1-cronicas-25-distribucion-de-musicos-y-cantores",
+        "text": "Distribución de músicos y cantores"
+      },
+      {
+        "href": "/capitulos/1-cronicas-26-porteros-y-oficiales",
+        "text": "Porteros y oficiales"
+      },
+      {
+        "href": "/capitulos/1-cronicas-27-otros-oficiales-de-david",
+        "text": "Otros oficiales de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-28-salomon-sucede-a-david",
+        "text": "Salomón sucede a David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-29-muerte-de-david",
+        "text": "Muerte de David"
+      }
+    ],
+    "chapterCount": 29
+  },
+  {
+    "_id": "book-21",
+    "slug": "i-reyes",
+    "url": "https://www.labibliaexplicada.com/libro/i-reyes",
+    "name": "I Reyes",
+    "metaTitle": "I Reyes",
+    "metaDescription": "El Libro de I Reyes relata la división del reino de Israel, la construcción del Templo de Salomón y las advertencias de Dios a través del profeta Elías frente a la idolatría del pueblo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-reyes-1-abisag-sirve-a-david",
+        "text": "Abisag sirve a David"
+      },
+      {
+        "href": "/capitulos/1-reyes-2-mandato-de-david-a-salomon",
+        "text": "Mandato de David a Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-3-salomon-se-casa-con-la-hija-de-faraon",
+        "text": "Salomón se casa con la hija de Faraón"
+      },
+      {
+        "href": "/capitulos/1-reyes-4",
+        "text": "I Reyes 4"
+      },
+      {
+        "href": "/capitulos/1-reyes-5-pacto-de-salomon-con-hiram",
+        "text": "Pacto de Salomón con Hiram"
+      },
+      {
+        "href": "/capitulos/1-reyes-6-salomon-edifica-el-templo",
+        "text": "Salomón edifica el templo"
+      },
+      {
+        "href": "/capitulos/1-reyes-7-otros-edificios-de-salomon",
+        "text": "Otros edificios de Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-8-salomon-traslada-el-arca-al-templo",
+        "text": "Salomón traslada el arca al templo"
+      },
+      {
+        "href": "/capitulos/1-reyes-9-pacto-de-dios-con-salomon",
+        "text": "Pacto de Dios con Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-10-la-reina-de-saba-visita-a-salomon",
+        "text": "La reina de Sabá visita a Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-11-apostasia-y-dificultades-de-salomon",
+        "text": "Apostasía y dificultades de Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-12-rebelion-de-israel",
+        "text": "Rebelión de Israel"
+      },
+      {
+        "href": "/capitulos/1-reyes-13-un-profeta-de-juda-amonesta-a-jeroboam",
+        "text": "Un profeta de Judá amonesta a Jeroboam"
+      },
+      {
+        "href": "/capitulos/1-reyes-14-profecia-de-ahias-contra-jeroboam",
+        "text": "Profecía de Ahías contra Jeroboam"
+      },
+      {
+        "href": "/capitulos/1-reyes-15-reinado-de-abiam",
+        "text": "Reinado de Abiam"
+      },
+      {
+        "href": "/capitulos/1-reyes-16-reinados-de-ela-y-de-zimri",
+        "text": "Reinados de Ela y de Zimri"
+      },
+      {
+        "href": "/capitulos/1-reyes-17-elias-predice-la-sequia",
+        "text": "Elías predice la sequía"
+      },
+      {
+        "href": "/capitulos/1-reyes-18-elias-regresa-a-ver-a-acab",
+        "text": "Elías regresa a ver a Acab"
+      },
+      {
+        "href": "/capitulos/1-reyes-19-elias-huye-a-horeb",
+        "text": "Elías huye a Horeb"
+      },
+      {
+        "href": "/capitulos/1-reyes-20-acab-derrota-a-los-sirios",
+        "text": "Acab derrota a los sirios"
+      },
+      {
+        "href": "/capitulos/1-reyes-21-acab-y-la-vina-de-nabot",
+        "text": "Acab y la viña de Nabot"
+      },
+      {
+        "href": "/capitulos/1-reyes-22-micaias-profetiza-la-derrota-de-acab",
+        "text": "Micaías profetiza la derrota de Acab"
+      }
+    ],
+    "chapterCount": 22
+  },
+  {
+    "_id": "book-22",
+    "slug": "i-samuel",
+    "url": "https://www.labibliaexplicada.com/libro/i-samuel",
+    "name": "I Samuel",
+    "metaTitle": "I Samuel",
+    "metaDescription": "El Libro de I Samuel relata la transición de Israel de una teocracia a una monarquía, mostrando cómo Dios elige y guía a sus líderes a través de la obediencia y la fe.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-samuel-1-nacimiento-de-samuel",
+        "text": "Nacimiento de Samuel"
+      },
+      {
+        "href": "/capitulos/1-samuel-2-cantico-de-ana",
+        "text": "Cántico de Ana"
+      },
+      {
+        "href": "/capitulos/1-samuel-3-jehova-llama-a-samuel",
+        "text": "Jehová llama a Samuel"
+      },
+      {
+        "href": "/capitulos/1-samuel-4-los-filisteos-capturan-el-arca",
+        "text": "Los filisteos capturan el arca"
+      },
+      {
+        "href": "/capitulos/1-samuel-5-el-arca-en-tierra-de-los-filisteos",
+        "text": "El arca en tierra de los filisteos"
+      },
+      {
+        "href": "/capitulos/1-samuel-6-los-filisteos-devuelven-el-arca",
+        "text": "Los filisteos devuelven el arca"
+      },
+      {
+        "href": "/capitulos/1-samuel-7-samuel-juez-de-israel",
+        "text": "Samuel, juez de Israel"
+      },
+      {
+        "href": "/capitulos/1-samuel-8-israel-pide-rey",
+        "text": "Israel pide rey"
+      },
+      {
+        "href": "/capitulos/1-samuel-9-saul-es-elegido-rey",
+        "text": "Saúl es elegido rey"
+      },
+      {
+        "href": "/capitulos/1-samuel-10",
+        "text": "I Samuel 10"
+      },
+      {
+        "href": "/capitulos/1-samuel-11-saul-derrota-a-los-amonitas",
+        "text": "Saúl derrota a los amonitas"
+      },
+      {
+        "href": "/capitulos/1-samuel-12-discurso-de-samuel-al-pueblo",
+        "text": "Discurso de Samuel al pueblo"
+      },
+      {
+        "href": "/capitulos/1-samuel-13-guerra-contra-los-filisteos",
+        "text": "Guerra contra los filisteos"
+      },
+      {
+        "href": "/capitulos/1-samuel-14",
+        "text": "I Samuel 14"
+      },
+      {
+        "href": "/capitulos/1-samuel-15-saul-desobedece-y-es-desechado",
+        "text": "Saúl desobedece y es desechado"
+      },
+      {
+        "href": "/capitulos/1-samuel-16-samuel-unge-a-david",
+        "text": "Samuel unge a David"
+      },
+      {
+        "href": "/capitulos/1-samuel-17-david-mata-a-goliat",
+        "text": "David mata a Goliat"
+      },
+      {
+        "href": "/capitulos/1-samuel-18-pacto-de-jonatan-y-david",
+        "text": "Pacto de Jonatán y David"
+      },
+      {
+        "href": "/capitulos/1-samuel-19-saul-procura-matar-a-david",
+        "text": "Saúl procura matar a David"
+      },
+      {
+        "href": "/capitulos/1-samuel-20-amistad-de-david-y-jonatan",
+        "text": "Amistad de David y Jonatán"
+      },
+      {
+        "href": "/capitulos/1-samuel-21-david-huy-de-saul",
+        "text": "David huy de Saúl"
+      },
+      {
+        "href": "/capitulos/1-samuel-22-saul-mata-a-los-sacerdotes-de-nob",
+        "text": "Saúl mata a los sacerdotes de Nob"
+      },
+      {
+        "href": "/capitulos/1-samuel-23-david-en-el-desierto",
+        "text": "David en el desierto"
+      },
+      {
+        "href": "/capitulos/1-samuel-24-david-perdona-la-vida-a-saul-en-en-gadi",
+        "text": "David perdona la vida a Saúl en En-gadi"
+      },
+      {
+        "href": "/capitulos/1-samuel-25-david-y-abigail",
+        "text": "David y Abigail"
+      },
+      {
+        "href": "/capitulos/1-samuel-26-david-perdona-la-vida-a-saul-en-zif",
+        "text": "David perdona la vida a Saúl en Zif"
+      },
+      {
+        "href": "/capitulos/1-samuel-27-david-entre-los-filisteos",
+        "text": "David entre los filisteos"
+      },
+      {
+        "href": "/capitulos/1-samuel-28-saul-y-la-adivina-de-endor",
+        "text": "Saúl y la adivina de Endor"
+      },
+      {
+        "href": "/capitulos/1-samuel-29-los-filisteos-desconfian-de-david",
+        "text": "Los filisteos desconfían de David"
+      },
+      {
+        "href": "/capitulos/1-samuel-30-david-derrota-a-los-amalecitas",
+        "text": "David derrota a los amalecitas"
+      },
+      {
+        "href": "/capitulos/1-samuel-31-muerte-de-saul-y-de-sus-hijos",
+        "text": "Muerte de Saúl y de sus hijos"
+      }
+    ],
+    "chapterCount": 31
+  },
+  {
+    "_id": "book-23",
+    "slug": "ii-cronicas",
+    "url": "https://www.labibliaexplicada.com/libro/ii-cronicas",
+    "name": "II Crónicas",
+    "metaTitle": "II Crónicas",
+    "metaDescription": "El Libro de II Crónicas narra la fidelidad de Dios hacia Judá a través de sus reyes, mostrando el poder del arrepentimiento y la restauración.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-cronicas-1-salomon-pide-sabiduria",
+        "text": "Salomón pide sabiduría"
+      },
+      {
+        "href": "/capitulos/2-cronicas-2-pacto-de-salomon-con-hiram",
+        "text": "Pacto de Salomón con Hiram"
+      },
+      {
+        "href": "/capitulos/2-cronicas-3-salomon-edifica-el-templo",
+        "text": "Salomón edifica el templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-4-mobiliario-del-templo",
+        "text": "Mobiliario del templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-5-salomon-traslada-el-arca-al-templo",
+        "text": "Salomón traslada el arca al templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-6-dedicacion-del-templo",
+        "text": "Dedicación del templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-7-pacto-de-dios-con-salomon",
+        "text": "Pacto de Dios con Salomón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-8-otras-actividades-de-salomon",
+        "text": "Otras actividades de Salomón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-9-la-reina-de-saba-visita-a-salomon",
+        "text": "La reina de Sabá visita a Salomón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-10-rebelion-de-israel",
+        "text": "Rebelión de Israel"
+      },
+      {
+        "href": "/capitulos/2-cronicas-11-prosperidad-de-roboam",
+        "text": "Prosperidad de Roboam"
+      },
+      {
+        "href": "/capitulos/2-cronicas-12-sisac-invade-juda",
+        "text": "Sisac invade Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-13-reinado-de-abias",
+        "text": "Reinado de Abías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-14-reinado-de-asa",
+        "text": "Reinado de Asa"
+      },
+      {
+        "href": "/capitulos/2-cronicas-15-reformas-religiosas-de-asa",
+        "text": "Reformas religiosas de Asa"
+      },
+      {
+        "href": "/capitulos/2-cronicas-16-alianza-de-asa-con-ben-adad",
+        "text": "Alianza de Asa con Ben-adad"
+      },
+      {
+        "href": "/capitulos/2-cronicas-17-reinado-de-josafat",
+        "text": "Reinado de Josafat"
+      },
+      {
+        "href": "/capitulos/2-cronicas-18-micaias-profetiza-la-derrota-de-acab",
+        "text": "Micaías profetiza la derrota de Acab"
+      },
+      {
+        "href": "/capitulos/2-cronicas-19-el-profeta-jehu-amonesta-a-josafat",
+        "text": "El profeta Jehú amonesta a Josafat"
+      },
+      {
+        "href": "/capitulos/2-cronicas-20-victoria-sobre-moab-y-amon",
+        "text": "Victoria sobre Moab y Amón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-21-reinado-de-joram-de-juda",
+        "text": "Reinado de Joram de Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-22-reinado-de-ocozias-de-juda",
+        "text": "Reinado de Ocozías de Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-23",
+        "text": "II Crónicas 23"
+      },
+      {
+        "href": "/capitulos/2-cronicas-24-reinado-de-joas-de-juda",
+        "text": "Reinado de Joás de Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-25-reinado-de-amasias",
+        "text": "Reinado de Amasías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-26-reinado-de-uzias",
+        "text": "Reinado de Uzías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-27-reinado-de-jotam",
+        "text": "Reinado de Jotam"
+      },
+      {
+        "href": "/capitulos/2-cronicas-28",
+        "text": "II Crónicas 28"
+      },
+      {
+        "href": "/capitulos/2-cronicas-29-reinado-de-acaz",
+        "text": "Reinado de Acaz"
+      },
+      {
+        "href": "/capitulos/2-cronicas-30-ezequias-celebra-la-pascua",
+        "text": "Ezequías celebra la pascua"
+      },
+      {
+        "href": "/capitulos/2-cronicas-31-ezequias-reorganiza-el-servicio-de-los-sacerdotes-y-levitas",
+        "text": "Ezequías reorganiza el servicio de los sacerdotes y levitas"
+      },
+      {
+        "href": "/capitulos/2-cronicas-32-senaquerib-invade-a-juda",
+        "text": "Senaquerib invade a Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-33-reinado-de-manases",
+        "text": "Reinado de Manasés"
+      },
+      {
+        "href": "/capitulos/2-cronicas-34-reinado-de-josias",
+        "text": "Reinado de Josías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-35-josias-celebra-la-pascua",
+        "text": "Josías celebra la pascua"
+      },
+      {
+        "href": "/capitulos/2-cronicas-36-reinado-y-destronamiento-de-joacaz",
+        "text": "Reinado y destronamiento de Joacaz"
+      }
+    ],
+    "chapterCount": 36
+  },
+  {
+    "_id": "book-24",
+    "slug": "ii-reyes",
+    "url": "https://www.labibliaexplicada.com/libro/ii-reyes",
+    "name": "II Reyes",
+    "metaTitle": "II Reyes",
+    "metaDescription": "El Libro de II Reyes narra la caída de los reinos de Israel y Judá, destacando el juicio divino, la fidelidad de Dios y su inquebrantable misericordia.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-reyes-1-muerte-de-ocozias",
+        "text": "Muerte de Ocozías"
+      },
+      {
+        "href": "/capitulos/2-reyes-2-eliseo-sucede-a-elias",
+        "text": "Eliseo sucede a Elías"
+      },
+      {
+        "href": "/capitulos/2-reyes-3-reinado-de-joram-de-israel",
+        "text": "Reinado de Joram de Israel"
+      },
+      {
+        "href": "/capitulos/2-reyes-4-el-aceite-de-la-viuda",
+        "text": "El aceite de la viuda"
+      },
+      {
+        "href": "/capitulos/2-reyes-5-eliseo-y-naaman",
+        "text": "Eliseo y Naamán"
+      },
+      {
+        "href": "/capitulos/2-reyes-6-eliseo-hace-flotar-el-hacha",
+        "text": "Eliseo hace flotar el hacha"
+      },
+      {
+        "href": "/capitulos/2-reyes-7",
+        "text": "II Reyes 7"
+      },
+      {
+        "href": "/capitulos/2-reyes-8-los-bienes-de-la-sunamita-devueltos",
+        "text": "Los bienes de la sunamita devueltos"
+      },
+      {
+        "href": "/capitulos/2-reyes-9-jehu-es-ungido-rey-de-israel",
+        "text": "Jehú es ungido rey de Israel"
+      },
+      {
+        "href": "/capitulos/2-reyes-10-jehu-extermina-la-casa-de-acab",
+        "text": "Jehú extermina la casa de Acab"
+      },
+      {
+        "href": "/capitulos/2-reyes-11-atalia-usurpa-el-trono",
+        "text": "Atalía usurpa el trono"
+      },
+      {
+        "href": "/capitulos/2-reyes-12-reinado-de-joas-de-juda",
+        "text": "Reinado de Joás de Judá"
+      },
+      {
+        "href": "/capitulos/2-reyes-13-reinado-de-joacaz",
+        "text": "Reinado de Joacaz"
+      },
+      {
+        "href": "/capitulos/2-reyes-14-reinado-de-amasias",
+        "text": "Reinado de Amasías"
+      },
+      {
+        "href": "/capitulos/2-reyes-15-reinado-de-azarias",
+        "text": "Reinado de Azarías"
+      },
+      {
+        "href": "/capitulos/2-reyes-16-reinado-de-acaz",
+        "text": "Reinado de Acaz"
+      },
+      {
+        "href": "/capitulos/2-reyes-17-caida-de-samaria-y-cautiverio-de-israel",
+        "text": "Caída de Samaria y cautiverio de Israel"
+      },
+      {
+        "href": "/capitulos/2-reyes-18-reinado-de-ezequias",
+        "text": "Reinado de Ezequías"
+      },
+      {
+        "href": "/capitulos/2-reyes-19-juda-es-librado-de-senaquerib",
+        "text": "Judá es librado de Senaquerib"
+      },
+      {
+        "href": "/capitulos/2-reyes-20-enfermedad-de-ezequias",
+        "text": "Enfermedad de Ezequías"
+      },
+      {
+        "href": "/capitulos/2-reyes-21-reinado-de-manases",
+        "text": "Reinado de Manasés"
+      },
+      {
+        "href": "/capitulos/2-reyes-22-reinado-de-josias",
+        "text": "Reinado de Josías"
+      },
+      {
+        "href": "/capitulos/2-reyes-23-reformas-de-josias",
+        "text": "Reformas de Josías"
+      },
+      {
+        "href": "/capitulos/2-reyes-24-joaquin-y-los-pobres-son-llevados-cautivos-a-babilonia",
+        "text": "Joaquín y los pobres son llevados cautivos a Babilonia"
+      },
+      {
+        "href": "/capitulos/2-reyes-25-caida-de-jerusalen",
+        "text": "Caída de Jerusalén"
+      }
+    ],
+    "chapterCount": 25
+  },
+  {
+    "_id": "book-25",
+    "slug": "ii-samuel",
+    "url": "https://www.labibliaexplicada.com/libro/ii-samuel",
+    "name": "II Samuel",
+    "metaTitle": "II Samuel",
+    "metaDescription": "El Libro de II Samuel narra la vida del rey David, su reinado, sus triunfos, errores y el inquebrantable pacto de Dios con su linaje.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-samuel-1-david-oye-de-la-muerte-de-saul",
+        "text": "David oye de la muerte de Saúl"
+      },
+      {
+        "href": "/capitulos/2-samuel-2-david-es-proclamado-rey-de-juda",
+        "text": "David es proclamado rey de Judá"
+      },
+      {
+        "href": "/capitulos/2-samuel-3-hijos-de-david-nacidos-en-hebron",
+        "text": "Hijos de David nacidos en Hebrón"
+      },
+      {
+        "href": "/capitulos/2-samuel-4-is-boset-es-asesinado",
+        "text": "Is-boset es asesinado"
+      },
+      {
+        "href": "/capitulos/2-samuel-5-david-es-proclamado-rey-de-israel",
+        "text": "David es proclamado rey de Israel"
+      },
+      {
+        "href": "/capitulos/2-samuel-6-david-intenta-llevar-el-arca-a-jerusalen",
+        "text": "David intenta llevar el arca a Jerusalén"
+      },
+      {
+        "href": "/capitulos/2-samuel-7-pacto-de-dios-con-david",
+        "text": "Pacto de Dios con David"
+      },
+      {
+        "href": "/capitulos/2-samuel-8-david-extiende-sus-dominios",
+        "text": "David extiende sus dominios"
+      },
+      {
+        "href": "/capitulos/2-samuel-9-bondad-de-david-hacia-mefi-boset",
+        "text": "Bondad de David hacia Mefi-boset"
+      },
+      {
+        "href": "/capitulos/2-samuel-10-derrotas-de-amonitas-y-sirios",
+        "text": "Derrotas de amonitas y sirios"
+      },
+      {
+        "href": "/capitulos/2-samuel-11-david-y-betsabe",
+        "text": "David y Betsabé"
+      },
+      {
+        "href": "/capitulos/2-samuel-12-natan-amonesta-a-david",
+        "text": "Natán amonesta a David"
+      },
+      {
+        "href": "/capitulos/2-samuel-13-amnon-y-tamar",
+        "text": "Amnón y Tamar"
+      },
+      {
+        "href": "/capitulos/2-samuel-14-joab-procura-el-regreso-de-absalon",
+        "text": "Joab procura el regreso de Absalón"
+      },
+      {
+        "href": "/capitulos/2-samuel-15-absalon-se-subleva-contra-david",
+        "text": "Absalón se subleva contra David"
+      },
+      {
+        "href": "/capitulos/2-samuel-16",
+        "text": "II Samuel 16"
+      },
+      {
+        "href": "/capitulos/2-samuel-17-consejos-de-ahitofel-y-de-husai",
+        "text": "Consejos de Ahitofel y de Husai"
+      },
+      {
+        "href": "/capitulos/2-samuel-18-muerte-de-absalon",
+        "text": "Muerte de Absalón"
+      },
+      {
+        "href": "/capitulos/2-samuel-19-david-vuelve-a-jerusalen",
+        "text": "David vuelve a Jerusalén"
+      },
+      {
+        "href": "/capitulos/2-samuel-20-sublevacion-de-seba",
+        "text": "Sublevación de Seba"
+      },
+      {
+        "href": "/capitulos/2-samuel-21-venganza-de-los-gabaonitas",
+        "text": "Venganza de los gabaonitas"
+      },
+      {
+        "href": "/capitulos/2-samuel-22-cantico-de-liberacion-de-david",
+        "text": "Cántico de liberación de David"
+      },
+      {
+        "href": "/capitulos/2-samuel-23-ultimas-palabras-de-david",
+        "text": "Ultimas palabras de David"
+      },
+      {
+        "href": "/capitulos/2-samuel-24-david-censa-al-pueblo",
+        "text": "David censa al pueblo"
+      }
+    ],
+    "chapterCount": 24
+  },
+  {
+    "_id": "book-26",
+    "slug": "levitico",
+    "url": "https://www.labibliaexplicada.com/libro/levitico",
+    "name": "Levítico",
+    "metaTitle": "Levítico",
+    "metaDescription": "El Libro de Levítico es una guía divina que nos revela la santidad de Dios y Su deseo de reconciliación con la humanidad a través de leyes, sacrificios y justicia.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/levitico-1-los-holocaustos",
+        "text": "Los holocaustos"
+      },
+      {
+        "href": "/capitulos/levitico-2-las-ofrendas",
+        "text": "Las ofrendas"
+      },
+      {
+        "href": "/capitulos/levitico-3-ofrendas-de-paz",
+        "text": "Ofrendas de paz"
+      },
+      {
+        "href": "/capitulos/levitico-4-ofrendas-por-el-pecado",
+        "text": "Ofrendas por el pecado"
+      },
+      {
+        "href": "/capitulos/levitico-5-ofrendas-expiatorias",
+        "text": "Ofrendas expiatorias"
+      },
+      {
+        "href": "/capitulos/levitico-6-leyes-de-los-sacrificios",
+        "text": "Leyes de los sacrificios"
+      },
+      {
+        "href": "/capitulos/levitico-7",
+        "text": "Levítico 7"
+      },
+      {
+        "href": "/capitulos/levitico-8-consagracion-de-aaron-y-de-sus-hijos",
+        "text": "Consagración de Aarón y de sus hijos"
+      },
+      {
+        "href": "/capitulos/levitico-9-los-sacrificios-de-aaron",
+        "text": "Los sacrificios de Aarón"
+      },
+      {
+        "href": "/capitulos/levitico-10-el-pecado-de-nadab-y-abiu",
+        "text": "El pecado de Nadab y Abiú"
+      },
+      {
+        "href": "/capitulos/levitico-11-animales-limpios-e-inmundos",
+        "text": "Animales limpios e inmundos"
+      },
+      {
+        "href": "/capitulos/levitico-12-la-purificacion-de-la-mujer-despues-del-parto",
+        "text": "La purificación de la mujer después del parto"
+      },
+      {
+        "href": "/capitulos/levitico-13-leyes-acerca-de-la-lepra",
+        "text": "Leyes acerca de la lepra"
+      },
+      {
+        "href": "/capitulos/levitico-14",
+        "text": "Levítico 14"
+      },
+      {
+        "href": "/capitulos/levitico-15-impurezas-fisicas",
+        "text": "Impurezas físicas"
+      },
+      {
+        "href": "/capitulos/levitico-16-el-dia-de-la-expiacion",
+        "text": "El día de la expiación"
+      },
+      {
+        "href": "/capitulos/levitico-17-el-santuario-unico",
+        "text": "El santuario único"
+      },
+      {
+        "href": "/capitulos/levitico-18-actos-de-inmoralidad-prohibidos",
+        "text": "Actos de inmoralidad prohibidos"
+      },
+      {
+        "href": "/capitulos/levitico-19-leyes-de-santidad-y-de-justicia",
+        "text": "Leyes de santidad y de justicia"
+      },
+      {
+        "href": "/capitulos/levitico-20-penas-por-actos-de-inmoralidad",
+        "text": "Penas por actos de inmoralidad"
+      },
+      {
+        "href": "/capitulos/levitico-21-santidad-de-los-sacerdotes",
+        "text": "Santidad de los sacerdotes"
+      },
+      {
+        "href": "/capitulos/levitico-22-santidad-de-las-ofrendas",
+        "text": "Santidad de las ofrendas"
+      },
+      {
+        "href": "/capitulos/levitico-23-las-fiestas-solemnes",
+        "text": "Las fiestas solemnes"
+      },
+      {
+        "href": "/capitulos/levitico-24-aceite-para-las-lamparas",
+        "text": "Aceite para las lámparas"
+      },
+      {
+        "href": "/capitulos/levitico-25-el-ano-de-reposo-de-la-tierra-y-el-ano-de-jubileo",
+        "text": "El año de reposo de la tierra y el año de jubileo"
+      },
+      {
+        "href": "/capitulos/levitico-26-bendiciones-de-la-obediencia",
+        "text": "Bendiciones de la obediencia"
+      },
+      {
+        "href": "/capitulos/levitico-27-cosas-consagradas-a-dios",
+        "text": "Cosas consagradas a Dios"
+      }
+    ],
+    "chapterCount": 27
+  },
+  {
+    "_id": "book-27",
+    "slug": "libro-de-abdias",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-abdias",
+    "name": "Libro de Abdías",
+    "metaTitle": "Libro de Abdías",
+    "metaDescription": "El Libro de Abdías anuncia el juicio de Dios sobre Edom por su traición a Israel y la promesa de restauración para su pueblo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/abdias-1-la-humillacion-de-edom",
+        "text": "La humillación de Edom"
+      }
+    ],
+    "chapterCount": 1
+  },
+  {
+    "_id": "book-28",
+    "slug": "libro-de-amos",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-amos",
+    "name": "Libro de Amós",
+    "metaTitle": "Libro de Amós",
+    "metaDescription": "El Libro de Amós es un llamado profético a la justicia social, advirtiendo sobre el juicio de Dios contra la opresión y la hipocresía religiosa.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/amos-1-juicios-contra-las-naciones-vecinas",
+        "text": "Juicios contra las naciones vecinas"
+      },
+      {
+        "href": "/capitulos/amos-2-juicio-contra-israel",
+        "text": "Juicio contra Israel"
+      },
+      {
+        "href": "/capitulos/amos-3-el-rugido-del-leon",
+        "text": "El rugido del león"
+      },
+      {
+        "href": "/capitulos/amos-4-aunque-castigado-israel-no-aprende",
+        "text": "Aunque castigado, Israel no aprende"
+      },
+      {
+        "href": "/capitulos/amos-5-llamamiento-al-arrepentimiento",
+        "text": "Llamamiento al arrepentimiento"
+      },
+      {
+        "href": "/capitulos/amos-6-destruccion-de-israel",
+        "text": "Destrucción de Israel"
+      },
+      {
+        "href": "/capitulos/amos-7-tres-visiones-de-destruccion",
+        "text": "Tres visiones de destrucción"
+      },
+      {
+        "href": "/capitulos/amos-8-el-canastillo-de-fruta-de-verano",
+        "text": "El canastillo de fruta de verano"
+      },
+      {
+        "href": "/capitulos/amos-9-los-juicios-de-jehova-son-ineludibles",
+        "text": "Los juicios de Jehová son ineludibles"
+      }
+    ],
+    "chapterCount": 9
+  },
+  {
+    "_id": "book-29",
+    "slug": "libro-de-daniel",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-daniel",
+    "name": "Libro de Daniel",
+    "metaTitle": "Libro de Daniel",
+    "metaDescription": "El Libro de Daniel revela la soberanía de Dios sobre los reinos de la tierra y su plan profético para el futuro.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/daniel-1-daniel-y-sus-companeros-en-babilonia",
+        "text": "Daniel y sus compañeros en Babilonia"
+      },
+      {
+        "href": "/capitulos/daniel-2-daniel-interpreta-el-sueno-de-nabucodonosor",
+        "text": "Daniel interpreta el sueño de Nabucodonosor"
+      },
+      {
+        "href": "/capitulos/daniel-3-rescatados-del-horno-de-fuego",
+        "text": "Rescatados del horno de fuego"
+      },
+      {
+        "href": "/capitulos/daniel-4-la-locura-de-nabucodonosor",
+        "text": "La locura de Nabucodonosor"
+      },
+      {
+        "href": "/capitulos/daniel-5-la-escritura-en-la-pared",
+        "text": "La escritura en la pared"
+      },
+      {
+        "href": "/capitulos/daniel-6-daniel-en-el-foso-de-los-leones",
+        "text": "Daniel en el foso de los leones"
+      },
+      {
+        "href": "/capitulos/daniel-7-vision-de-las-cuatro-bestias",
+        "text": "Visión de las cuatro bestias"
+      },
+      {
+        "href": "/capitulos/daniel-8-vision-del-carnero-y-del-macho-cabrio",
+        "text": "Visión del carnero y del macho cabrío"
+      },
+      {
+        "href": "/capitulos/daniel-9-oracion-de-daniel-por-su-pueblo",
+        "text": "Oración de Daniel por su pueblo"
+      },
+      {
+        "href": "/capitulos/daniel-10-vision-de-daniel-junto-al-rio",
+        "text": "Visión de Daniel junto al río"
+      },
+      {
+        "href": "/capitulos/daniel-11-los-reyes-del-norte-y-del-sur",
+        "text": "Los reyes del norte y del sur"
+      },
+      {
+        "href": "/capitulos/daniel-12-el-tiempo-del-fin",
+        "text": "El tiempo del fin"
+      }
+    ],
+    "chapterCount": 12
+  },
+  {
+    "_id": "book-30",
+    "slug": "libro-de-esdras",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-esdras",
+    "name": "Libro de Esdras",
+    "metaTitle": "Libro de Esdras",
+    "metaDescription": "El Libro de Esdras narra la restauración del pueblo de Israel tras el exilio, destacando el poder de la fe y la obediencia a la Ley de Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/esdras-1-el-decreto-de-ciro",
+        "text": "El decreto de Ciro"
+      },
+      {
+        "href": "/capitulos/esdras-2-los-que-volvieron-con-zorobabel",
+        "text": "Los que volvieron con Zorobabel"
+      },
+      {
+        "href": "/capitulos/esdras-3-restauracion-del-altar-y-del-culto",
+        "text": "Restauración del altar y del culto"
+      },
+      {
+        "href": "/capitulos/esdras-4-los-adversarios-detienen-la-obra",
+        "text": "Los adversarios detienen la obra"
+      },
+      {
+        "href": "/capitulos/esdras-5-reedificacion-del-templo",
+        "text": "Reedificación del templo"
+      },
+      {
+        "href": "/capitulos/esdras-6",
+        "text": "Libro de Esdras 6"
+      },
+      {
+        "href": "/capitulos/esdras-7-esdras-y-sus-companeros-llegan-a-jerusalen",
+        "text": "Esdras y sus compañeros llegan a Jerusalén"
+      },
+      {
+        "href": "/capitulos/esdras-8",
+        "text": "Libro de Esdras 8"
+      },
+      {
+        "href": "/capitulos/esdras-9-oracion-de-confesion-de-esdras",
+        "text": "Oración de confesión de Esdras"
+      },
+      {
+        "href": "/capitulos/esdras-10-expulsion-de-las-mujeres-extranjeras",
+        "text": "Expulsión de las mujeres extranjeras"
+      }
+    ],
+    "chapterCount": 10
+  },
+  {
+    "_id": "book-31",
+    "slug": "libro-de-ester",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-ester",
+    "name": "Libro de Ester",
+    "metaTitle": "Libro de Ester",
+    "metaDescription": "El Libro de Ester relata cómo la valentía de una reina judía y la providencia divina salvaron a su pueblo de la destrucción.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/ester-1-la-reina-vasti-desafia-a-asuero",
+        "text": "La reina Vasti desafía a Asuero"
+      },
+      {
+        "href": "/capitulos/ester-2-ester-es-proclamada-reina",
+        "text": "Ester es proclamada reina"
+      },
+      {
+        "href": "/capitulos/ester-3-aman-trama-la-destrucion-de-los-judios",
+        "text": "Amán trama la destrución de los judíos"
+      },
+      {
+        "href": "/capitulos/ester-4-ester-promete-interceder-por-su-pueblo",
+        "text": "Ester promete interceder por su pueblo"
+      },
+      {
+        "href": "/capitulos/ester-5-ester-invita-al-rey-y-a-aman-a-un-banquete",
+        "text": "Ester invita al rey y a Amán a un banquete"
+      },
+      {
+        "href": "/capitulos/ester-6-aman-se-ve-obligado-a-honrar-a-mardoqueo",
+        "text": "Amán se ve obligado a honrar a Mardoqueo"
+      },
+      {
+        "href": "/capitulos/ester-7-aman-es-ahorcado",
+        "text": "Amán es ahorcado"
+      },
+      {
+        "href": "/capitulos/ester-8-decreto-de-asuero-a-favor-de-los-judios",
+        "text": "Decreto de Asuero a favor de los judíos"
+      },
+      {
+        "href": "/capitulos/ester-9-los-judios-destruyen-a-sus-enemigos",
+        "text": "Los judíos destruyen a sus enemigos"
+      },
+      {
+        "href": "/capitulos/ester-10-grandeza-de-mardoqueo",
+        "text": "Grandeza de Mardoqueo"
+      }
+    ],
+    "chapterCount": 10
+  },
+  {
+    "_id": "book-32",
+    "slug": "libro-de-ezequiel",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-ezequiel",
+    "name": "Libro de Ezequiel",
+    "metaTitle": "Libro de Ezequiel",
+    "metaDescription": "El Libro de Ezequiel revela la soberanía y gloria de Dios a través de poderosas visiones y promesas de restauración para un pueblo en exilio.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/ezequiel-1-la-vision-de-la-gloria-divina",
+        "text": "La visión de la gloria divina"
+      },
+      {
+        "href": "/capitulos/ezequiel-2-llamamiento-de-ezequiel",
+        "text": "Llamamiento de Ezequiel"
+      },
+      {
+        "href": "/capitulos/ezequiel-3-el-atalaya-de-israel",
+        "text": "El atalaya de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-4-prediccion-del-sitio-de-jerusalen",
+        "text": "Predicción del sitio de Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-5",
+        "text": "Libro de Ezequiel 5"
+      },
+      {
+        "href": "/capitulos/ezequiel-6-profecia-contra-los-montes-de-israel",
+        "text": "Profecía contra los montes de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-7-el-fin-viene",
+        "text": "El fin viene"
+      },
+      {
+        "href": "/capitulos/ezequiel-8-vision-de-las-abominaciones-en-jerusalen",
+        "text": "Visión de las abominaciones en Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-9-vision-de-la-muerte-de-los-culpables",
+        "text": "Visión de la muerte de los culpables"
+      },
+      {
+        "href": "/capitulos/ezequiel-10-la-gloria-de-dios-abandona-el-templo",
+        "text": "La gloria de Dios abandona el templo"
+      },
+      {
+        "href": "/capitulos/ezequiel-11-reprension-de-los-principes-malvados",
+        "text": "Reprensión de los principes malvados"
+      },
+      {
+        "href": "/capitulos/ezequiel-12-salida-de-ezequiel-en-senal-de-la-cautividad",
+        "text": "Salida de Ezequiel en señal de la cautividad"
+      },
+      {
+        "href": "/capitulos/ezequiel-13-condenacion-de-los-falsos-profetas",
+        "text": "Condenación de los falsos profetas"
+      },
+      {
+        "href": "/capitulos/ezequiel-14-juicio-contra-los-idolatras-que-consultan-al-profeta",
+        "text": "Juicio contra los idólatras que consultan al profeta"
+      },
+      {
+        "href": "/capitulos/ezequiel-15-jerusalen-es-como-una-vid-inutil",
+        "text": "Jerusalén es como una vid inútil"
+      },
+      {
+        "href": "/capitulos/ezequiel-16-infidelidad-de-jerusalen",
+        "text": "Infidelidad de Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-17-parabola-de-las-aguilas-y-la-vid",
+        "text": "Parábola de las águilas y la vid"
+      },
+      {
+        "href": "/capitulos/ezequiel-18-el-alma-que-pecare-morira",
+        "text": "El alma que pecare morirá"
+      },
+      {
+        "href": "/capitulos/ezequiel-19-lamentacion-sobre-los-principes-de-israel",
+        "text": "Lamentación sobre los principes de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-20-modo-de-proceder-de-dios-con-israel",
+        "text": "Modo de proceder de Dios con Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-21-la-espada-afilada-de-jehova",
+        "text": "La espada afilada de Jehová"
+      },
+      {
+        "href": "/capitulos/ezequiel-22-los-pecados-de-jerusalen",
+        "text": "Los pecados de Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-23-las-dos-hermanas",
+        "text": "Las dos hermanas"
+      },
+      {
+        "href": "/capitulos/ezequiel-24-parabola-de-la-olla-hirviente",
+        "text": "Parábola de la olla hirviente"
+      },
+      {
+        "href": "/capitulos/ezequiel-25-profecia-contra-amon",
+        "text": "Profecía contra Amón"
+      },
+      {
+        "href": "/capitulos/ezequiel-26-profecia-contra-tiro",
+        "text": "Profecía contra Tiro"
+      },
+      {
+        "href": "/capitulos/ezequiel-27",
+        "text": "Libro de Ezequiel 27"
+      },
+      {
+        "href": "/capitulos/ezequiel-28-profecia-contra-sidon",
+        "text": "Profecía contra Sidón"
+      },
+      {
+        "href": "/capitulos/ezequiel-29-profecias-contra-egipto",
+        "text": "Profecías contra Egipto"
+      },
+      {
+        "href": "/capitulos/ezequiel-30",
+        "text": "Libro de Ezequiel 30"
+      },
+      {
+        "href": "/capitulos/ezequiel-31",
+        "text": "Libro de Ezequiel 31"
+      },
+      {
+        "href": "/capitulos/ezequiel-32",
+        "text": "Libro de Ezequiel 32"
+      },
+      {
+        "href": "/capitulos/ezequiel-33-el-deber-del-atalaya",
+        "text": "El deber del atalaya"
+      },
+      {
+        "href": "/capitulos/ezequiel-34-profecia-contra-los-pastores-de-israel",
+        "text": "Profecía contra los pastores de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-35-profecia-contra-el-monte-seir",
+        "text": "Profecía contra el Monte Seir"
+      },
+      {
+        "href": "/capitulos/ezequiel-36-restauracion-futura-de-israel",
+        "text": "Restauración futura de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-37-el-valle-de-los-huesos-secos",
+        "text": "El valle de los huesos secos"
+      },
+      {
+        "href": "/capitulos/ezequiel-38-profecia-contra-gog",
+        "text": "Profecía contra Gog"
+      },
+      {
+        "href": "/capitulos/ezequiel-39",
+        "text": "Libro de Ezequiel 39"
+      },
+      {
+        "href": "/capitulos/ezequiel-40-la-vision-del-templo",
+        "text": "La visión del templo"
+      },
+      {
+        "href": "/capitulos/ezequiel-41",
+        "text": "Libro de Ezequiel 41"
+      },
+      {
+        "href": "/capitulos/ezequiel-42",
+        "text": "Libro de Ezequiel 42"
+      },
+      {
+        "href": "/capitulos/ezequiel-43-la-gloria-de-jehova-llena-el-templo",
+        "text": "La gloria de Jehová llena el templo"
+      },
+      {
+        "href": "/capitulos/ezequiel-44",
+        "text": "Libro de Ezequiel 44"
+      },
+      {
+        "href": "/capitulos/ezequiel-45",
+        "text": "Libro de Ezequiel 45"
+      },
+      {
+        "href": "/capitulos/ezequiel-46",
+        "text": "Libro de Ezequiel 46"
+      },
+      {
+        "href": "/capitulos/ezequiel-47-las-aguas-salutiferas",
+        "text": "Las aguas salutíferas"
+      },
+      {
+        "href": "/capitulos/ezequiel-48",
+        "text": "Libro de Ezequiel 48"
+      }
+    ],
+    "chapterCount": 48
+  },
+  {
+    "_id": "book-33",
+    "slug": "libro-de-habacuc",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-habacuc",
+    "name": "Libro de Habacuc",
+    "metaTitle": "Libro de Habacuc",
+    "metaDescription": "El Libro de Habacuc es un diálogo profundo entre el profeta y Dios, donde se explora la fe en medio de la injusticia y el sufrimiento.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/habacuc-1-habacuc-se-queja-de-injusticia",
+        "text": "Habacuc se queja de injusticia"
+      },
+      {
+        "href": "/capitulos/habacuc-2-jehova-responde-a-habacuc",
+        "text": "Jehová responde a Habacuc"
+      },
+      {
+        "href": "/capitulos/habacuc-3-oracion-de-habacuc",
+        "text": "Oración de Habacuc"
+      }
+    ],
+    "chapterCount": 3
+  },
+  {
+    "_id": "book-34",
+    "slug": "libro-de-hageo",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-hageo",
+    "name": "Libro de Hageo",
+    "metaTitle": "Libro de Hageo",
+    "metaDescription": "El Libro de Hageo es un llamado urgente a la obediencia y la reconstrucción del Templo como símbolo de la restauración espiritual del pueblo de Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/hageo-1-exhortacion-a-edificar-el-templo",
+        "text": "Exhortación a edificar el templo"
+      },
+      {
+        "href": "/capitulos/hageo-2-la-gloria-del-nuevo-templo",
+        "text": "La gloria del nuevo templo"
+      }
+    ],
+    "chapterCount": 2
+  },
+  {
+    "_id": "book-35",
+    "slug": "libro-de-isaias",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-isaias",
+    "name": "Libro de Isaías",
+    "metaTitle": "Libro de Isaías",
+    "metaDescription": "El Libro de Isaías es un poderoso mensaje de juicio y esperanza, donde Dios revela su plan de salvación para Israel y las naciones.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/isaias-1-una-nacion-pecadora",
+        "text": "Una nación pecadora"
+      },
+      {
+        "href": "/capitulos/isaias-2-reinado-universal-de-jehova",
+        "text": "Reinado universal de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-3-juicio-de-jehova-contra-juda-y-jerusalen",
+        "text": "Juicio de Jehová contra Judá y Jerusalén"
+      },
+      {
+        "href": "/capitulos/isaias-4-futuro-glorioso-de-jerusalen",
+        "text": "Futuro glorioso de Jerusalén"
+      },
+      {
+        "href": "/capitulos/isaias-5-parabola-de-la-vina",
+        "text": "Parábola de la viña"
+      },
+      {
+        "href": "/capitulos/isaias-6-vision-y-llamamiento-de-isaias",
+        "text": "Visión y llamamiento de Isaías"
+      },
+      {
+        "href": "/capitulos/isaias-7-mensaje-de-isaias-a-acaz",
+        "text": "Mensaje de Isaías a Acaz"
+      },
+      {
+        "href": "/capitulos/isaias-8-ser-jehova-vuestro-temor",
+        "text": "Ser Jehová vuestro temor"
+      },
+      {
+        "href": "/capitulos/isaias-9-nacimiento-y-reinado-del-mesias",
+        "text": "Nacimiento y reinado del Mesías"
+      },
+      {
+        "href": "/capitulos/isaias-10-asiria-instrumento-de-dios",
+        "text": "Asiria, instrumento de Dios"
+      },
+      {
+        "href": "/capitulos/isaias-11-reinado-justo-del-mesias",
+        "text": "Reinado justo del Mesías"
+      },
+      {
+        "href": "/capitulos/isaias-12-cantico-de-accion-de-gracias",
+        "text": "Cántico de acción de gracias"
+      },
+      {
+        "href": "/capitulos/isaias-13-profecia-sobre-babilonia",
+        "text": "Profecía sobre Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-14-escarnio-contra-el-rey-de-babilonia",
+        "text": "Escarnio contra el rey de Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-15-profecia-sobre-moab",
+        "text": "Profecía sobre Moab"
+      },
+      {
+        "href": "/capitulos/isaias-16",
+        "text": "Libro de Isaías 16"
+      },
+      {
+        "href": "/capitulos/isaias-17-profecia-sobre-damasco",
+        "text": "Profecía sobre Damasco"
+      },
+      {
+        "href": "/capitulos/isaias-18-profecia-sobre-etiopia",
+        "text": "Profecía sobre Etiopía"
+      },
+      {
+        "href": "/capitulos/isaias-19-profecia-sobre-egipto",
+        "text": "Profecía sobre Egipto"
+      },
+      {
+        "href": "/capitulos/isaias-20-prediccion-de-la-conquista-de-egipto-y-de-etiopia-por-asiria",
+        "text": "Predicción de la conquista de Egipto y de Etiopía por Asiria"
+      },
+      {
+        "href": "/capitulos/isaias-21-profecia-sobre-el-desierto-del-mar",
+        "text": "Profecía sobre el desierto del mar"
+      },
+      {
+        "href": "/capitulos/isaias-22-profecia-sobre-el-valle-de-la-vision",
+        "text": "Profecía sobre el valle de la visión"
+      },
+      {
+        "href": "/capitulos/isaias-23-profecia-sobre-tiro",
+        "text": "Profecía sobre Tiro"
+      },
+      {
+        "href": "/capitulos/isaias-24-el-juicio-de-jehova-sobre-la-tierra",
+        "text": "El juicio de Jehová sobre la tierra"
+      },
+      {
+        "href": "/capitulos/isaias-25-cantico-de-alabanza-por-el-favor-de-jehova",
+        "text": "Cántico de alabanza por el favor de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-26-cantico-de-confianza-en-la-proteccion-de-jehova",
+        "text": "Cántico de confianza en la protección de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-27-liberacion-y-regreso-de-israel",
+        "text": "Liberación y regreso de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-28-condenacion-de-efrain",
+        "text": "Condenación de Efraín"
+      },
+      {
+        "href": "/capitulos/isaias-29-ariel-y-sus-enemigos",
+        "text": "Ariel y sus enemigos"
+      },
+      {
+        "href": "/capitulos/isaias-30-la-futilidad-de-confiar-en-egipto",
+        "text": "La futilidad de confiar en Egipto"
+      },
+      {
+        "href": "/capitulos/isaias-31-los-egipcios-son-hombres-y-no-dioses",
+        "text": "Los egipcios son hombres y no dioses"
+      },
+      {
+        "href": "/capitulos/isaias-32-el-rey-justo",
+        "text": "El Rey justo"
+      },
+      {
+        "href": "/capitulos/isaias-33-jehova-traera-salvacion",
+        "text": "Jehová traerá salvación"
+      },
+      {
+        "href": "/capitulos/isaias-34-la-ira-de-jehova-contra-las-naciones",
+        "text": "La ira de jehová contra las naciones"
+      },
+      {
+        "href": "/capitulos/isaias-35-futuro-glorioso-de-sion",
+        "text": "Futuro glorioso de Sion"
+      },
+      {
+        "href": "/capitulos/isaias-36-la-invasion-de-senaquerib",
+        "text": "La invasión de Senaquerib"
+      },
+      {
+        "href": "/capitulos/isaias-37-juda-es-librado-de-senaquerib",
+        "text": "Judá es librado de Senaquerib"
+      },
+      {
+        "href": "/capitulos/isaias-38-enfermedad-de-ezequias",
+        "text": "Enfermedad de Ezequías"
+      },
+      {
+        "href": "/capitulos/isaias-39-ezequias-recibe-a-los-enviados-de-babilonia",
+        "text": "Ezequías recibe a los enviados de Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-40-jehova-consuela-a-sion",
+        "text": "Jehová consuela a Sion"
+      },
+      {
+        "href": "/capitulos/isaias-41-seguridad-de-dios-para-israel",
+        "text": "Seguridad de Dios para Israel"
+      },
+      {
+        "href": "/capitulos/isaias-42-el-siervo-de-jehova",
+        "text": "El Siervo de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-43-jehova-es-el-unico-redentor",
+        "text": "Jehová es el único Redentor"
+      },
+      {
+        "href": "/capitulos/isaias-44-jehova-es-el-unico-dios",
+        "text": "Jehová es el único Dios"
+      },
+      {
+        "href": "/capitulos/isaias-45-encargo-de-dios-para-ciro",
+        "text": "Encargo de Dios para Ciro"
+      },
+      {
+        "href": "/capitulos/isaias-46",
+        "text": "Libro de Isaías 46"
+      },
+      {
+        "href": "/capitulos/isaias-47-juicio-sobre-babilonia",
+        "text": "Juicio sobre Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-48-dios-reprende-la-infidelidad-de-israel",
+        "text": "Dios reprende la infidelidad de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-49-israel-siervo-de-jehova",
+        "text": "Israel, siervo de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-50-jehova-ayuda-a-quienes-confian-en-el",
+        "text": "Jehová ayuda a quienes confían en él"
+      },
+      {
+        "href": "/capitulos/isaias-51-palabras-de-consuelo-para-sion",
+        "text": "Palabras de consuelo para Sion"
+      },
+      {
+        "href": "/capitulos/isaias-52-dios-librara-del-cautiverio-a-sion",
+        "text": "Dios librará del cautiverio a Sion"
+      },
+      {
+        "href": "/capitulos/isaias-53",
+        "text": "Libro de Isaías 53"
+      },
+      {
+        "href": "/capitulos/isaias-54-el-amor-eterno-de-jehova-hacia-israel",
+        "text": "El amor eterno de Jehová hacia Israel"
+      },
+      {
+        "href": "/capitulos/isaias-55-misericordia-gratuita-para-todos",
+        "text": "Misericordia gratuita para todos"
+      },
+      {
+        "href": "/capitulos/isaias-56-recompensa-de-los-que-guardan-el-pacto-de-dios",
+        "text": "Recompensa de los que guardan el pacto de Dios"
+      },
+      {
+        "href": "/capitulos/isaias-57-condenacion-de-la-idolatria-de-israel",
+        "text": "Condenación de la idolatría de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-58-el-verdadero-ayuno",
+        "text": "El verdadero ayuno"
+      },
+      {
+        "href": "/capitulos/isaias-59-confesion-del-pecado-de-israel",
+        "text": "Confesión del pecado de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-60-la-futura-gloria-de-sion",
+        "text": "La futura gloria de Sion"
+      },
+      {
+        "href": "/capitulos/isaias-61-buenas-nuevas-de-salvacion-para-sion",
+        "text": "Buenas nuevas de salvacion para Sion"
+      },
+      {
+        "href": "/capitulos/isaias-62",
+        "text": "Libro de Isaías 62"
+      },
+      {
+        "href": "/capitulos/isaias-63-el-dia-de-la-venganza-de-jehova",
+        "text": "El día de la venganza de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-64",
+        "text": "Libro de Isaías 64"
+      },
+      {
+        "href": "/capitulos/isaias-65-castigo-de-los-rebeldes",
+        "text": "Castigo de los rebeldes"
+      },
+      {
+        "href": "/capitulos/isaias-66-los-juicios-de-jehova-y-la-futura-prosperidad-de-sion",
+        "text": "Los juicios de Jehová y la futura prosperidad de Sion"
+      }
+    ],
+    "chapterCount": 66
+  },
+  {
+    "_id": "book-36",
+    "slug": "libro-de-jeremias",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-jeremias",
+    "name": "Libro de Jeremías",
+    "metaTitle": "Libro de Jeremías",
+    "metaDescription": "El Libro de Jeremías es un llamado profético al arrepentimiento y una promesa de esperanza en medio del juicio divino.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/jeremias-1-llamamiento-y-mision-de-jeremias",
+        "text": "Llamamiento y misión de Jeremías"
+      },
+      {
+        "href": "/capitulos/jeremias-2-jehova-y-la-apostasia-de-israel",
+        "text": "Jehová y la apostasía de Israel"
+      },
+      {
+        "href": "/capitulos/jeremias-3-jehova-exhorta-a-israel-y-a-juda-al-arrepentimiento",
+        "text": "Jehová exhorta a Israel y a Judá al arrepentimiento"
+      },
+      {
+        "href": "/capitulos/jeremias-4-juda-es-amenazada-de-invasion",
+        "text": "Judá es amenazada de invasión"
+      },
+      {
+        "href": "/capitulos/jeremias-5-impiedad-de-jerusalen-y-de-juda",
+        "text": "Impiedad de Jerusalén y de Judá"
+      },
+      {
+        "href": "/capitulos/jeremias-6-el-juicio-contra-jerusalen-y-juda",
+        "text": "El juicio contra Jerusalén y Judá"
+      },
+      {
+        "href": "/capitulos/jeremias-7-mejorad-vuestros-caminos-y-vuestras-obras",
+        "text": "Mejorad vuestros caminos y vuestras obras"
+      },
+      {
+        "href": "/capitulos/jeremias-8-lamento-sobre-juda-y-jerusalen",
+        "text": "Lamento sobre Judá y Jerusalén"
+      },
+      {
+        "href": "/capitulos/jeremias-9-amenaza-de-ruina-y-exilio",
+        "text": "Amenaza de ruina y exilio"
+      },
+      {
+        "href": "/capitulos/jeremias-10-los-falsos-dioses-y-el-dios-verdadero",
+        "text": "Los falsos dioses y el Dios verdadero"
+      },
+      {
+        "href": "/capitulos/jeremias-11-el-pacto-violado",
+        "text": "El pacto violado"
+      },
+      {
+        "href": "/capitulos/jeremias-12-queja-de-jeremias-y-respuesta-de-dios",
+        "text": "Queja de Jeremías y respuesta de Dios"
+      },
+      {
+        "href": "/capitulos/jeremias-13-la-senal-del-cinto-podrido",
+        "text": "La señal del cinto podrido"
+      },
+      {
+        "href": "/capitulos/jeremias-14-mensaje-con-motivo-de-la-sequia",
+        "text": "Mensaje con motivo de la sequía"
+      },
+      {
+        "href": "/capitulos/jeremias-15-la-implacable-ira-de-dios-contra-juda",
+        "text": "La implacable ira de Dios contra Judá"
+      },
+      {
+        "href": "/capitulos/jeremias-16-juicio-de-jehova-contra-juda",
+        "text": "Juicio de Jehová contra Judá"
+      },
+      {
+        "href": "/capitulos/jeremias-17-el-pecado-escrito-en-el-corazon-de-juda",
+        "text": "El pecado escrito en el corazón de Judá"
+      },
+      {
+        "href": "/capitulos/jeremias-18-la-senal-del-alfarero-y-el-barro",
+        "text": "La señal del alfarero y el barro"
+      },
+      {
+        "href": "/capitulos/jeremias-19-la-senal-de-la-vasija-rota",
+        "text": "La señal de la vasija rota"
+      },
+      {
+        "href": "/capitulos/jeremias-20-profecia-contra-pasur",
+        "text": "Profecía contra Pasur"
+      },
+      {
+        "href": "/capitulos/jeremias-21-jerusalen-sera-destruida",
+        "text": "Jerusalén será destruida"
+      },
+      {
+        "href": "/capitulos/jeremias-22-profecias-contra-los-reyes-de-juda",
+        "text": "Profecías contra los reyes de Judá"
+      },
+      {
+        "href": "/capitulos/jeremias-23-regreso-del-remanente",
+        "text": "Regreso del remanente"
+      },
+      {
+        "href": "/capitulos/jeremias-24-la-senal-de-los-higos-buenos-y-malos",
+        "text": "La señal de los higos buenos y malos"
+      },
+      {
+        "href": "/capitulos/jeremias-25-setenta-anos-de-desolacion",
+        "text": "Setenta años de desolación"
+      },
+      {
+        "href": "/capitulos/jeremias-26-jeremias-es-amenazado-de-muerte",
+        "text": "Jeremías es amenazado de muerte"
+      },
+      {
+        "href": "/capitulos/jeremias-27-la-senal-de-los-yugos",
+        "text": "La señal de los yugos"
+      },
+      {
+        "href": "/capitulos/jeremias-28-falsa-profecia-de-hananias",
+        "text": "Falsa profecía de Hananías"
+      },
+      {
+        "href": "/capitulos/jeremias-29-carta-de-jeremias-a-los-cautivos",
+        "text": "Carta de Jeremías a los cautivos"
+      },
+      {
+        "href": "/capitulos/jeremias-30-dios-promete-que-los-cautivos-volveran",
+        "text": "Dios promete que los cautivos volverán"
+      },
+      {
+        "href": "/capitulos/jeremias-31-el-nuevo-pacto",
+        "text": "El nuevo pacto"
+      },
+      {
+        "href": "/capitulos/jeremias-32-jeremias-compra-la-heredad-de-hanameel",
+        "text": "Jeremías compra la heredad de Hanameel"
+      },
+      {
+        "href": "/capitulos/jeremias-33-restauracion-de-la-prosperidad-de-jerusalen",
+        "text": "Restauración de la prosperidad de Jerusalén"
+      },
+      {
+        "href": "/capitulos/jeremias-34-jeremias-amonesta-a-sedequias",
+        "text": "Jeremías amonesta a Sedequías"
+      },
+      {
+        "href": "/capitulos/jeremias-35-obediencia-de-los-recabitas",
+        "text": "Obediencia de los recabitas"
+      },
+      {
+        "href": "/capitulos/jeremias-36-el-rey-quema-el-rollo",
+        "text": "El rey quema el rollo"
+      },
+      {
+        "href": "/capitulos/jeremias-37-encarcelamiento-de-jeremias",
+        "text": "Encarcelamiento de Jeremías"
+      },
+      {
+        "href": "/capitulos/jeremias-38-jeremias-en-la-cisterna",
+        "text": "Jeremías en la cisterna"
+      },
+      {
+        "href": "/capitulos/jeremias-39-caida-de-jerusalen",
+        "text": "Caída de Jerusalén"
+      },
+      {
+        "href": "/capitulos/jeremias-40-jeremias-y-el-remanente-con-gedalias",
+        "text": "Jeremías y el remanente con Gedalías"
+      },
+      {
+        "href": "/capitulos/jeremias-41",
+        "text": "Libro de Jeremías 41"
+      },
+      {
+        "href": "/capitulos/jeremias-42-mensaje-a-johanan",
+        "text": "Mensaje a Johanán"
+      },
+      {
+        "href": "/capitulos/jeremias-43-la-emigracion-a-egipto",
+        "text": "La emigración a Egipto"
+      },
+      {
+        "href": "/capitulos/jeremias-44-jeremias-profetiza-a-los-judios-en-egipto",
+        "text": "Jeremías profetiza a los judíos en Egipto"
+      },
+      {
+        "href": "/capitulos/jeremias-45-mensaje-a-baruc",
+        "text": "Mensaje a Baruc"
+      },
+      {
+        "href": "/capitulos/jeremias-46-profecias-acerca-de-egipto",
+        "text": "Profecías acerca de Egipto"
+      },
+      {
+        "href": "/capitulos/jeremias-47-profecia-sobre-los-filisteos",
+        "text": "Profecía sobre los filisteos"
+      },
+      {
+        "href": "/capitulos/jeremias-48-profecia-sobre-moab",
+        "text": "Profecía sobre Moab"
+      },
+      {
+        "href": "/capitulos/jeremias-49-profecia-sobre-los-amonitas",
+        "text": "Profecía sobre los amonitas"
+      },
+      {
+        "href": "/capitulos/jeremias-50-profecia-sobre-babilonia",
+        "text": "Profecía sobre Babilonia"
+      },
+      {
+        "href": "/capitulos/jeremias-51-juicios-de-jehova-contra-babilonia",
+        "text": "Juicios de Jehová contra Babilonia"
+      },
+      {
+        "href": "/capitulos/jeremias-52-reinado-de-sedequias",
+        "text": "Reinado de Sedequías"
+      }
+    ],
+    "chapterCount": 52
+  },
+  {
+    "_id": "book-37",
+    "slug": "libro-de-job",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-job",
+    "name": "Libro de Job",
+    "metaTitle": "Libro de Job",
+    "metaDescription": "El Libro de Job explora el misterio del sufrimiento humano y la fidelidad de Dios, revelando la esperanza en medio de la adversidad.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/job-1-las-calamidades-de-job",
+        "text": "Las calamidades de Job"
+      },
+      {
+        "href": "/capitulos/job-2",
+        "text": "Libro de Job 2"
+      },
+      {
+        "href": "/capitulos/job-3-job-maldice-el-dia-en-que-nacio",
+        "text": "Job maldice el día en que nació"
+      },
+      {
+        "href": "/capitulos/job-4-elifaz-reprende-a-job",
+        "text": "Elifaz reprende a Job"
+      },
+      {
+        "href": "/capitulos/job-5",
+        "text": "Libro de Job 5"
+      },
+      {
+        "href": "/capitulos/job-6-job-reprocha-la-actitud-de-sus-amigos",
+        "text": "Job reprocha la actitud de sus amigos"
+      },
+      {
+        "href": "/capitulos/job-7-job-argumenta-contra-dios",
+        "text": "Job argumenta contra Dios"
+      },
+      {
+        "href": "/capitulos/job-8-bildad-proclama-la-justicia-de-dios",
+        "text": "Bildad proclama la justicia de Dios"
+      },
+      {
+        "href": "/capitulos/job-9-incapacidad-de-job-para-responder-a-dios",
+        "text": "Incapacidad de Job para responder a Dios"
+      },
+      {
+        "href": "/capitulos/job-10-job-lamenta-su-condicion",
+        "text": "Job lamenta su condición"
+      },
+      {
+        "href": "/capitulos/job-11-zofar-acusa-de-maldad-a-job",
+        "text": "Zofar acusa de maldad a Job"
+      },
+      {
+        "href": "/capitulos/job-12-job-proclama-el-poder-y-la-sabiduria-de-dios",
+        "text": "Job proclama el poder y la sabiduría de Dios"
+      },
+      {
+        "href": "/capitulos/job-13-job-defiende-su-integridad",
+        "text": "Job defiende su integridad"
+      },
+      {
+        "href": "/capitulos/job-14-job-discurre-sobre-la-brevedad-de-la-vida",
+        "text": "Job discurre sobre la brevedad de la vida"
+      },
+      {
+        "href": "/capitulos/job-15-elifaz-reprende-a-job",
+        "text": "Elifaz reprende a Job"
+      },
+      {
+        "href": "/capitulos/job-16-job-se-queja-contra-dios",
+        "text": "Job se queja contra Dios"
+      },
+      {
+        "href": "/capitulos/job-17",
+        "text": "Libro de Job 17"
+      },
+      {
+        "href": "/capitulos/job-18-bildad-describe-la-suerte-de-los-malos",
+        "text": "Bildad describe la suerte de los malos"
+      },
+      {
+        "href": "/capitulos/job-19-job-confia-en-que-dios-lo-justificara",
+        "text": "Job confía en que Dios lo justificará"
+      },
+      {
+        "href": "/capitulos/job-20-zofar-describe-las-calamidades-de-los-malos",
+        "text": "Zofar describe las calamidades de los malos"
+      },
+      {
+        "href": "/capitulos/job-21-job-afirma-que-los-malos-prosperan",
+        "text": "Job afirma que los malos prosperan"
+      },
+      {
+        "href": "/capitulos/job-22-elifaz-acusa-a-job-de-gran-maldad",
+        "text": "Elifaz acusa a Job de gran maldad"
+      },
+      {
+        "href": "/capitulos/job-23-job-desea-abogar-su-causa-delante-de-dios",
+        "text": "Job desea abogar su causa delante de Dios"
+      },
+      {
+        "href": "/capitulos/job-24-job-se-queja-de-que-dios-es-indiferente-ante-la-maldad",
+        "text": "Job se queja de que Dios es indiferente ante la maldad"
+      },
+      {
+        "href": "/capitulos/job-25-bildad-niega-que-el-hombre-pueda-ser-justificado-delante-de-dios",
+        "text": "Bildad niega que el hombre pueda ser justificado delante de Dios"
+      },
+      {
+        "href": "/capitulos/job-26-job-proclama-la-soberania-de-dios",
+        "text": "Job proclama la soberanía de Dios"
+      },
+      {
+        "href": "/capitulos/job-27-job-describe-el-castigo-de-los-malos",
+        "text": "Job describe el castigo de los malos"
+      },
+      {
+        "href": "/capitulos/job-28-el-hombre-en-busca-de-la-sabiduria",
+        "text": "El hombre en busca de la sabiduría"
+      },
+      {
+        "href": "/capitulos/job-29-job-recuerda-su-fidelidad-anterior",
+        "text": "Job recuerda su fidelidad anterior"
+      },
+      {
+        "href": "/capitulos/job-30-job-lamenta-su-desdicha-actual",
+        "text": "Job lamenta su desdicha actual"
+      },
+      {
+        "href": "/capitulos/job-31-job-afirma-su-integridad",
+        "text": "Job afirma su integridad"
+      },
+      {
+        "href": "/capitulos/job-32-eliu-justifica-su-derecho-de-contestar-a-job",
+        "text": "Eliú justifica su derecho de contestar a Job"
+      },
+      {
+        "href": "/capitulos/job-33-eliu-censura-a-job",
+        "text": "Eliú censura a Job"
+      },
+      {
+        "href": "/capitulos/job-34-eliu-justifica-a-dios",
+        "text": "Eliú justifica a Dios"
+      },
+      {
+        "href": "/capitulos/job-35",
+        "text": "Libro de Job 35"
+      },
+      {
+        "href": "/capitulos/job-36-eliu-exalta-la-grandeza-de-dios",
+        "text": "Eliú exalta la grandeza de Dios"
+      },
+      {
+        "href": "/capitulos/job-37",
+        "text": "Libro de Job 37"
+      },
+      {
+        "href": "/capitulos/job-38-jehova-convence-a-job-de-su-ignorancia",
+        "text": "Jehová convence a Job de su ignorancia"
+      },
+      {
+        "href": "/capitulos/job-39",
+        "text": "Libro de Job 39"
+      },
+      {
+        "href": "/capitulos/job-40",
+        "text": "Libro de Job 40"
+      },
+      {
+        "href": "/capitulos/job-41",
+        "text": "Libro de Job 41"
+      },
+      {
+        "href": "/capitulos/job-42-confesion-y-justificacion-de-job",
+        "text": "Confesión y justificación de Job"
+      }
+    ],
+    "chapterCount": 42
+  },
+  {
+    "_id": "book-38",
+    "slug": "libro-de-joel",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-joel",
+    "name": "Libro de Joel",
+    "metaTitle": "Libro de Joel",
+    "metaDescription": "El Libro de Joel nos advierte sobre el juicio divino y nos invita al arrepentimiento, prometiendo la restauración y la venida del Espíritu Santo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/joel-1-devastacion-de-la-tierra-por-la-langosta",
+        "text": "Devastación de la tierra por la langosta"
+      },
+      {
+        "href": "/capitulos/joel-2-la-misericordia-de-jehova",
+        "text": "La misericordia de Jehová"
+      },
+      {
+        "href": "/capitulos/joel-3-juicio-de-jehova-sobre-las-naciones",
+        "text": "Juicio de Jehová sobre las naciones"
+      }
+    ],
+    "chapterCount": 3
+  },
+  {
+    "_id": "book-39",
+    "slug": "libro-de-jonas",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-jonas",
+    "name": "Libro de Jonás",
+    "metaTitle": "Libro de Jonás",
+    "metaDescription": "El Libro de Jonás narra la historia de un profeta que aprende sobre la infinita misericordia de Dios mientras huye de su llamado a predicar el arrepentimiento en Nínive.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/jonas-1-jonas-huye-de-jehova",
+        "text": "Jonás huye de Jehová"
+      },
+      {
+        "href": "/capitulos/jonas-2-oracion-de-jonas",
+        "text": "Oración de Jonás"
+      },
+      {
+        "href": "/capitulos/jonas-3-ninive-se-arrepiente",
+        "text": "Nínive se arrepiente"
+      },
+      {
+        "href": "/capitulos/jonas-4-el-enojo-de-jonas",
+        "text": "El enojo de Jonás"
+      }
+    ],
+    "chapterCount": 4
+  },
+  {
+    "_id": "book-40",
+    "slug": "libro-de-josue",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-josue",
+    "name": "Libro de Josué",
+    "metaTitle": "Libro de Josué",
+    "metaDescription": "El Libro de Josué es un relato de fe, obediencia y victoria, donde Dios cumple Sus promesas y guía a Su pueblo hacia la tierra prometida.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/josue-1-preparativos-para-la-conquista",
+        "text": "Preparativos para la conquista"
+      },
+      {
+        "href": "/capitulos/josue-2-josue-envia-espias-a-jerico",
+        "text": "Josué envía espías a Jericó"
+      },
+      {
+        "href": "/capitulos/josue-3-el-paso-del-jordan",
+        "text": "El paso del Jordán"
+      },
+      {
+        "href": "/capitulos/josue-4-las-doce-piedras-tomadas-del-jordan",
+        "text": "Las doce piedras tomadas del Jordán"
+      },
+      {
+        "href": "/capitulos/josue-5-la-circuncision-y-la-pascua-en-gilgal",
+        "text": "La circuncisión y la pascua en Gilgal"
+      },
+      {
+        "href": "/capitulos/josue-6-la-toma-de-jerico",
+        "text": "La toma de Jericó"
+      },
+      {
+        "href": "/capitulos/josue-7-el-pecado-de-acan",
+        "text": "El pecado de Acán"
+      },
+      {
+        "href": "/capitulos/josue-8-toma-y-destrucion-de-hai",
+        "text": "Toma y destrución de Hai"
+      },
+      {
+        "href": "/capitulos/josue-9-astucia-de-los-gabaonitas",
+        "text": "Astucia de los gabaonitas"
+      },
+      {
+        "href": "/capitulos/josue-10-derrota-de-los-amorreos",
+        "text": "Derrota de los amorreos"
+      },
+      {
+        "href": "/capitulos/josue-11-derrota-de-la-alianza-de-jabin",
+        "text": "Derrota de la alianza de Jabín"
+      },
+      {
+        "href": "/capitulos/josue-12-reyes-derrotados-por-moises",
+        "text": "Reyes derrotados por Moisés"
+      },
+      {
+        "href": "/capitulos/josue-13-tierra-aun-sin-conquistar",
+        "text": "Tierra aún sin conquistar"
+      },
+      {
+        "href": "/capitulos/josue-14-canaan-repartida-por-suerte",
+        "text": "Canaán repartida por suerte"
+      },
+      {
+        "href": "/capitulos/josue-15-el-territorio-de-juda",
+        "text": "El territorio de Judá"
+      },
+      {
+        "href": "/capitulos/josue-16-territorio-de-efrain-y-de-manases",
+        "text": "Territorio de Efraín y de Manasés"
+      },
+      {
+        "href": "/capitulos/josue-17",
+        "text": "Libro de Josué 17"
+      },
+      {
+        "href": "/capitulos/josue-18-territorios-de-las-demas-tribus",
+        "text": "Territorios de las demás tribus"
+      },
+      {
+        "href": "/capitulos/josue-19",
+        "text": "Libro de Josué 19"
+      },
+      {
+        "href": "/capitulos/josue-20-josue-senala-ciudades-de-refugio",
+        "text": "Josué señala ciudades de refugio"
+      },
+      {
+        "href": "/capitulos/josue-21-ciudades-de-los-levitas",
+        "text": "Ciudades de los levitas"
+      },
+      {
+        "href": "/capitulos/josue-22-el-altar-junto-al-jordan",
+        "text": "El altar junto al Jordán"
+      },
+      {
+        "href": "/capitulos/josue-23-exhortacion-de-josue-al-pueblo",
+        "text": "Exhortación de Josué al pueblo"
+      },
+      {
+        "href": "/capitulos/josue-24-discurso-de-despedida-de-josue",
+        "text": "Discurso de despedida de Josué"
+      }
+    ],
+    "chapterCount": 24
+  },
+  {
+    "_id": "book-41",
+    "slug": "libro-de-las-lamentaciones",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-las-lamentaciones",
+    "name": "Libro de las Lamentaciones",
+    "metaTitle": "Libro de las Lamentaciones",
+    "metaDescription": "El Libro de las Lamentaciones es un poema de dolor y esperanza que refleja el lamento por la destrucción de Jerusalén y la confianza en la misericordia de Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/lamentaciones-1-tristeza-de-sion-la-cautiva",
+        "text": "Tristeza de Sion la cautiva"
+      },
+      {
+        "href": "/capitulos/lamentaciones-2-las-tristezas-de-sion-vienen-de-jehova",
+        "text": "Las tristezas de Sion vienen de Jehová"
+      },
+      {
+        "href": "/capitulos/lamentaciones-3-esperanza-de-liberacion-por-la-misericordia-de-dios",
+        "text": "Esperanza de liberación por la misericordia de Dios"
+      },
+      {
+        "href": "/capitulos/lamentaciones-4-el-castigo-de-sion-consumado",
+        "text": "El castigo de Sion consumado"
+      },
+      {
+        "href": "/capitulos/lamentaciones-5-oracion-del-pueblo-afligido",
+        "text": "Oración del pueblo afligido"
+      }
+    ],
+    "chapterCount": 5
+  },
+  {
+    "_id": "book-42",
+    "slug": "libro-de-los-jueces",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-los-jueces",
+    "name": "Libro de los Jueces",
+    "metaTitle": "Libro de los Jueces",
+    "metaDescription": "El Libro de los Jueces narra la constante lucha de Israel por mantenerse fiel a Dios, mostrando el ciclo de redención a través de líderes levantados en tiempos de crisis.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/jueces-1-juda-y-simeon-capturan-a-adoni-bezec",
+        "text": "Judá y Simeón capturan a Adoni-bezec"
+      },
+      {
+        "href": "/capitulos/jueces-2-el-angel-de-jehova-en-boquim",
+        "text": "El ángel de Jehová en Boquim"
+      },
+      {
+        "href": "/capitulos/jueces-3-naciones-que-fueron-dejadas-para-probar-a-israel",
+        "text": "Naciones que fueron dejadas para probar a Israel"
+      },
+      {
+        "href": "/capitulos/jueces-4-debora-y-barac-derrotan-a-sisara",
+        "text": "Débora y Barac derrotan a Sísara"
+      },
+      {
+        "href": "/capitulos/jueces-5-cantico-de-debora-y-de-barac",
+        "text": "Cántico de Débora y de Barac"
+      },
+      {
+        "href": "/capitulos/jueces-6-llamamiento-de-gedeon",
+        "text": "Llamamiento de Gedeón"
+      },
+      {
+        "href": "/capitulos/jueces-7-gedeon-derrota-a-los-madianitas",
+        "text": "Gedeón derrota a los madianitas"
+      },
+      {
+        "href": "/capitulos/jueces-8-gedeon-captura-a-los-reyes-de-madian",
+        "text": "Gedeón captura a los reyes de Madián"
+      },
+      {
+        "href": "/capitulos/jueces-9-reinado-de-abimelec",
+        "text": "Reinado de Abimelec"
+      },
+      {
+        "href": "/capitulos/jueces-10-tola-y-jair-juzgan-a-israel",
+        "text": "Tola y Jair juzgan a Israel"
+      },
+      {
+        "href": "/capitulos/jueces-11",
+        "text": "Libro de los Jueces 11"
+      },
+      {
+        "href": "/capitulos/jueces-12-ibzan-elon-y-abdon-jueces-de-israel",
+        "text": "Ibzán, Elón y Abdón, jueces de Israel"
+      },
+      {
+        "href": "/capitulos/jueces-13-nacimiento-de-sanson",
+        "text": "Nacimiento de Sansón"
+      },
+      {
+        "href": "/capitulos/jueces-14-sanson-y-la-mujer-filistea-de-timnat",
+        "text": "Sansón y la mujer filistea de Timnat"
+      },
+      {
+        "href": "/capitulos/jueces-15-sanson-derrota-a-los-filisteos-en-lehi",
+        "text": "Sansón derrota a los filisteos en Lehi"
+      },
+      {
+        "href": "/capitulos/jueces-16-sanson-en-gaza",
+        "text": "Sansón en Gaza"
+      },
+      {
+        "href": "/capitulos/jueces-17-las-imagenes-y-el-sacerdote-de-micaia",
+        "text": "Las imágenes y el sacerdote de Micaía"
+      },
+      {
+        "href": "/capitulos/jueces-18-micaia-y-los-hombres-de-dan",
+        "text": "Micaía y los hombres de Dan"
+      },
+      {
+        "href": "/capitulos/jueces-19-el-levita-y-su-concubina",
+        "text": "El levita y su concubina"
+      },
+      {
+        "href": "/capitulos/jueces-20-la-guerra-contra-benjamin",
+        "text": "La guerra contra Benjamín"
+      },
+      {
+        "href": "/capitulos/jueces-21-mujeres-para-los-benjaminitas",
+        "text": "Mujeres para los benjaminitas"
+      }
+    ],
+    "chapterCount": 21
+  },
+  {
+    "_id": "book-43",
+    "slug": "libro-de-los-numeros",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-los-numeros",
+    "name": "Libro de los Números",
+    "metaTitle": "Libro de los Números",
+    "metaDescription": "El Libro de los Números narra la travesía del pueblo de Israel por el desierto, donde enfrentan pruebas, desafíos y la fidelidad constante de Dios en su camino hacia la Tierra Prometida.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/numeros-1-censo-de-israel-en-sinai",
+        "text": "Censo de Israel en Sinaí"
+      },
+      {
+        "href": "/capitulos/numeros-2-campamentos-y-jefes-de-las-tribus",
+        "text": "Campamentos y jefes de las tribus"
+      },
+      {
+        "href": "/capitulos/numeros-3-censo-y-deberes-de-los-levitas",
+        "text": "Censo y deberes de los levitas"
+      },
+      {
+        "href": "/capitulos/numeros-4-tareas-de-los-levitas",
+        "text": "Tareas de los levitas"
+      },
+      {
+        "href": "/capitulos/numeros-5-todo-inmundo-es-echado-fuera-del-campamento",
+        "text": "Todo inmundo es echado fuera del campamento"
+      },
+      {
+        "href": "/capitulos/numeros-6-el-voto-de-los-nazareos",
+        "text": "El voto de los nazareos"
+      },
+      {
+        "href": "/capitulos/numeros-7-ofrendas-para-la-dedicacion-del-altar",
+        "text": "Ofrendas para la dedicación del altar"
+      },
+      {
+        "href": "/capitulos/numeros-8-aaron-enciende-las-lamparas",
+        "text": "Aarón enciende las lámparas"
+      },
+      {
+        "href": "/capitulos/numeros-9-celebracion-de-la-pascua",
+        "text": "Celebración de la pascua"
+      },
+      {
+        "href": "/capitulos/numeros-10-las-trompetas-de-plata",
+        "text": "Las trompetas de plata"
+      },
+      {
+        "href": "/capitulos/numeros-11-jehova-envia-codornices",
+        "text": "Jehová envía codornices"
+      },
+      {
+        "href": "/capitulos/numeros-12-maria-y-aaron-murmuran-contra-moises",
+        "text": "María y Aarón murmuran contra Moisés"
+      },
+      {
+        "href": "/capitulos/numeros-13-mision-de-los-doce-espias",
+        "text": "Misión de los doce espías"
+      },
+      {
+        "href": "/capitulos/numeros-14-los-israelitas-se-rebelan-contra-jehova",
+        "text": "Los israelitas se rebelan contra Jehová"
+      },
+      {
+        "href": "/capitulos/numeros-15-leyes-sobre-las-ofrendas",
+        "text": "Leyes sobre las ofrendas"
+      },
+      {
+        "href": "/capitulos/numeros-16-la-rebelion-de-core",
+        "text": "La rebelión de Coré"
+      },
+      {
+        "href": "/capitulos/numeros-17-la-vara-de-aaron-florece",
+        "text": "La vara de Aarón florece"
+      },
+      {
+        "href": "/capitulos/numeros-18-sostenimiento-de-sacerdotes-y-levitas",
+        "text": "Sostenimiento de sacerdotes y levitas"
+      },
+      {
+        "href": "/capitulos/numeros-19-la-purificacion-de-los-inmundos",
+        "text": "La purificación de los inmundos"
+      },
+      {
+        "href": "/capitulos/numeros-20-agua-de-la-roca",
+        "text": "Agua de la roca"
+      },
+      {
+        "href": "/capitulos/numeros-21-el-rey-de-arad-ataca-a-israel",
+        "text": "El rey de Arad ataca a Israel"
+      },
+      {
+        "href": "/capitulos/numeros-22-balac-manda-llamar-a-balaam",
+        "text": "Balac manda llamar a Balaam"
+      },
+      {
+        "href": "/capitulos/numeros-23",
+        "text": "Libro de los Números 23"
+      },
+      {
+        "href": "/capitulos/numeros-24-profecia-de-balaam",
+        "text": "Profecía de Balaam"
+      },
+      {
+        "href": "/capitulos/numeros-25-israel-acude-a-baal-peor",
+        "text": "Israel acude a Baal-peor"
+      },
+      {
+        "href": "/capitulos/numeros-26-censo-del-pueblo-en-moab",
+        "text": "Censo del pueblo en Moab"
+      },
+      {
+        "href": "/capitulos/numeros-27-peticion-de-las-hijas-de-zelofehad",
+        "text": "Petición de las hijas de Zelofehad"
+      },
+      {
+        "href": "/capitulos/numeros-28-las-ofrendas-diarias",
+        "text": "Las ofrendas diarias"
+      },
+      {
+        "href": "/capitulos/numeros-29",
+        "text": "Libro de los Números 29"
+      },
+      {
+        "href": "/capitulos/numeros-30-la-ley-de-los-votos",
+        "text": "La ley de los votos"
+      },
+      {
+        "href": "/capitulos/numeros-31-venganza-de-israel-contra-madian",
+        "text": "Venganza de Israel contra Madián"
+      },
+      {
+        "href": "/capitulos/numeros-32-ruben-y-gad-se-establecen-al-oriente-del-jordan",
+        "text": "Rubén y Gad se establecen al oriente del Jordán"
+      },
+      {
+        "href": "/capitulos/numeros-33-jornadas-de-israel-desde-egipto-hasta-el-jordan",
+        "text": "Jornadas de Israel desde Egipto hasta el Jordán"
+      },
+      {
+        "href": "/capitulos/numeros-34",
+        "text": "Libro de los Números 34"
+      },
+      {
+        "href": "/capitulos/numeros-35-herencia-de-los-levitas",
+        "text": "Herencia de los levitas"
+      },
+      {
+        "href": "/capitulos/numeros-36-ley-del-casamiento-de-las-herederas",
+        "text": "Ley del casamiento de las herederas"
+      }
+    ],
+    "chapterCount": 36
+  },
+  {
+    "_id": "book-44",
+    "slug": "libro-de-los-salmos",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-los-salmos",
+    "name": "Libro de los Salmos",
+    "metaTitle": "Libro de los Salmos",
+    "metaDescription": "El Libro de los Salmos es un canto de alabanza y oración que conecta el corazón humano con la presencia de Dios en todas las circunstancias de la vida.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/salmos-1-el-justo-y-los-pecadores",
+        "text": "El justo y los pecadores"
+      },
+      {
+        "href": "/capitulos/salmos-2-el-reino-del-ungido-de-jehova",
+        "text": "El reino del ungido de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-3-oracion-matutina-de-confianza-en-dios",
+        "text": "Oración matutina de confianza en Dios"
+      },
+      {
+        "href": "/capitulos/salmos-4-oracion-vespertina-de-confianza-en-dios",
+        "text": "Oración vespertina de confianza en Dios"
+      },
+      {
+        "href": "/capitulos/salmos-5-plegaria-pidiendo-proteccion",
+        "text": "Plegaria pidiendo protección"
+      },
+      {
+        "href": "/capitulos/salmos-6-oracion-pidiendo-misericordia-en-tiempo-de-prueba",
+        "text": "Oración pidiendo misericordia en tiempo de prueba"
+      },
+      {
+        "href": "/capitulos/salmos-7-plegaria-pidiendo-vindicacion",
+        "text": "Plegaria pidiendo vindicación"
+      },
+      {
+        "href": "/capitulos/salmos-8-la-gloria-de-dios-y-la-honra-del-hombre",
+        "text": "La gloria de Dios y la honra del hombre"
+      },
+      {
+        "href": "/capitulos/salmos-9-accion-de-gracias-por-la-justicia-de-dios",
+        "text": "Acción de gracias por la justicia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-10-plegaria-pidiendo-la-destruccion-de-los-malvados",
+        "text": "Plegaria pidiendo la destrucción de los malvados"
+      },
+      {
+        "href": "/capitulos/salmos-11-el-refugio-del-justo",
+        "text": "El refugio del justo"
+      },
+      {
+        "href": "/capitulos/salmos-12-oracion-pidiendo-ayuda-contra-los-malos",
+        "text": "Oración pidiendo ayuda contra los malos"
+      },
+      {
+        "href": "/capitulos/salmos-13-plegaria-pidiendo-ayuda-en-la-afliccion",
+        "text": "Plegaria pidiendo ayuda en la aflicción"
+      },
+      {
+        "href": "/capitulos/salmos-14-necedad-y-corrupcion-del-hombre",
+        "text": "Necedad y corrupción del hombre"
+      },
+      {
+        "href": "/capitulos/salmos-15-los-que-habitaran-en-el-monte-santo-de-dios",
+        "text": "Los que habitarán en el monte santo de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-16-una-herencia-escogida",
+        "text": "Una herencia escogida"
+      },
+      {
+        "href": "/capitulos/salmos-17-plegaria-pidiendo-proteccion-contra-los-opresores",
+        "text": "Plegaria pidiendo protección contra los opresores"
+      },
+      {
+        "href": "/capitulos/salmos-18-accion-de-gracias-por-la-victoria",
+        "text": "Acción de gracias por la victoria"
+      },
+      {
+        "href": "/capitulos/salmos-19-las-obras-de-dios-y-la-palabra-de-dios",
+        "text": "Las obras de Dios y la palabra de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-20-oracion-pidiendo-la-victoria",
+        "text": "Oración pidiendo la victoria"
+      },
+      {
+        "href": "/capitulos/salmos-21-alabanza-por-haber-sido-librado-del-enemigo",
+        "text": "Alabanza por haber sido librado del enemigo"
+      },
+      {
+        "href": "/capitulos/salmos-22-un-grito-de-angustia-y-un-canto-de-alabanza",
+        "text": "Un grito de angustia y un canto de alabanza"
+      },
+      {
+        "href": "/capitulos/salmos-23-jehova-es-mi-pastor",
+        "text": "Jehová es mi pastor"
+      },
+      {
+        "href": "/capitulos/salmos-24-el-rey-de-gloria",
+        "text": "El rey de gloria"
+      },
+      {
+        "href": "/capitulos/salmos-25-david-implora-direccion-perdon-y-proteccion",
+        "text": "David implora dirección, perdón y protección"
+      },
+      {
+        "href": "/capitulos/salmos-26-declaracion-de-integridad",
+        "text": "Declaración de integridad"
+      },
+      {
+        "href": "/capitulos/salmos-27-jehova-es-mi-luz-y-mi-salvacion",
+        "text": "Jehová es mi luz y mi salvación"
+      },
+      {
+        "href": "/capitulos/salmos-28-plegaria-pidiendo-ayuda-y-alabanza-por-la-respuesta",
+        "text": "Plegaria pidiendo ayuda, y alabanza por la respuesta"
+      },
+      {
+        "href": "/capitulos/salmos-29-poder-y-gloria-de-jehova",
+        "text": "Poder y gloria de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-30-accion-de-gracias-por-haber-sido-librado-de-la-muerte",
+        "text": "Acción de gracias por haber sido librado de la muerte"
+      },
+      {
+        "href": "/capitulos/salmos-31-declaracion-de-confianza",
+        "text": "Declaración de confianza"
+      },
+      {
+        "href": "/capitulos/salmos-32-la-dicha-del-perdon",
+        "text": "La dicha del perdón"
+      },
+      {
+        "href": "/capitulos/salmos-33-alabanzas-al-creador-y-preservador",
+        "text": "Alabanzas al Creador y Preservador"
+      },
+      {
+        "href": "/capitulos/salmos-34-la-proteccion-divina",
+        "text": "La protección divina"
+      },
+      {
+        "href": "/capitulos/salmos-35-plegaria-pidiendo-ser-librado-de-los-enemigos",
+        "text": "Plegaria pidiendo ser librado de los enemigos"
+      },
+      {
+        "href": "/capitulos/salmos-36-la-misericordia-de-dios",
+        "text": "La misericordia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-37-el-camino-de-los-malos",
+        "text": "El camino de los malos"
+      },
+      {
+        "href": "/capitulos/salmos-38-oracion-de-un-penitente",
+        "text": "Oración de un penitente"
+      },
+      {
+        "href": "/capitulos/salmos-39-el-caracter-transitorio-de-la-vida",
+        "text": "El carácter transitorio de la vida"
+      },
+      {
+        "href": "/capitulos/salmos-40-alabanza-por-la-liberacion-divina",
+        "text": "Alabanza por la liberación divina"
+      },
+      {
+        "href": "/capitulos/salmos-41-oracion-pidiendo-salud",
+        "text": "Oración pidiendo salud"
+      },
+      {
+        "href": "/capitulos/salmos-42-mi-alma-tiene-sed-de-dios",
+        "text": "Mi alma tiene sed de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-43-plegaria-pidiendo-vindicacion-y-liberacion",
+        "text": "Plegaria pidiendo vindicación y liberación"
+      },
+      {
+        "href": "/capitulos/salmos-44-liberaciones-pasadas-y-pruebas-presentes",
+        "text": "Liberaciones pasadas y pruebas presentes"
+      },
+      {
+        "href": "/capitulos/salmos-45-cantico-de-las-bodas-del-rey",
+        "text": "Cantico de las bodas del rey"
+      },
+      {
+        "href": "/capitulos/salmos-46-dios-es-nuestro-amparo-y-fortaleza",
+        "text": "Dios es nuestro amparo y fortaleza"
+      },
+      {
+        "href": "/capitulos/salmos-47-dios-el-rey-de-toda-la-tierra",
+        "text": "Dios, el Rey de toda la tierra"
+      },
+      {
+        "href": "/capitulos/salmos-48-hermosura-y-gloria-en-sion",
+        "text": "Hermosura y gloria en Sion"
+      },
+      {
+        "href": "/capitulos/salmos-49-la-insensatez-de-confiar-en-las-riquezas",
+        "text": "La insensatez de confiar en las riquezas"
+      },
+      {
+        "href": "/capitulos/salmos-50-dios-juzgara-al-mundo",
+        "text": "Dios juzgará al mundo"
+      },
+      {
+        "href": "/capitulos/salmos-51-arrepentimiento-y-plegaria-pidiendo-purificacion",
+        "text": "Arrepentimiento, y plegaria pidiendo purificación"
+      },
+      {
+        "href": "/capitulos/salmos-52-futilidad-de-la-jactancia-del-malo",
+        "text": "Futilidad de la jactancia del malo"
+      },
+      {
+        "href": "/capitulos/salmos-53-insensatez-y-maldad-de-los-hombres",
+        "text": "Insensatez y maldad de los hombres"
+      },
+      {
+        "href": "/capitulos/salmos-54-plegaria-pidiendo-proteccion-contra-los-enemigos",
+        "text": "Plegaria pidiendo protección contra los enemigos"
+      },
+      {
+        "href": "/capitulos/salmos-55-plegaria-pidiendo-la-destruccion-de-enemigos-traicioneros",
+        "text": "Plegaria pidiendo la destrucción de enemigos traicioneros"
+      },
+      {
+        "href": "/capitulos/salmos-56-oracion-de-confianza",
+        "text": "Oración de confianza"
+      },
+      {
+        "href": "/capitulos/salmos-57-plegaria-pidiendo-ser-librado-de-los-perseguidores",
+        "text": "Plegaria pidiendo ser librado de los perseguidores"
+      },
+      {
+        "href": "/capitulos/salmos-58-plegaria-pidiendo-el-castigo-de-los-malos",
+        "text": "Plegaria pidiendo el castigo de los malos"
+      },
+      {
+        "href": "/capitulos/salmos-59-oracion-pidiendo-ser-librado-de-los-enemigos",
+        "text": "Oración pidiendo ser librado de los enemigos"
+      },
+      {
+        "href": "/capitulos/salmos-60-plegaria-pidiendo-ayuda-contra-el-enemigo",
+        "text": "Plegaria pidiendo ayuda contra el enemigo"
+      },
+      {
+        "href": "/capitulos/salmos-61-confianza-en-la-proteccion-de-dios",
+        "text": "Confianza en la protección de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-62-dios-el-unico-refugio",
+        "text": "Dios, el único refugio"
+      },
+      {
+        "href": "/capitulos/salmos-63-dios-satisfacion-del-alma",
+        "text": "Dios, satisfación del alma"
+      },
+      {
+        "href": "/capitulos/salmos-64-plegaria-pidiendo-proteccion-contra-enemigos-ocultos",
+        "text": "Plegaria pidiendo protección contra enemigos ocultos"
+      },
+      {
+        "href": "/capitulos/salmos-65-la-generosidad-de-dios-en-la-naturaleza",
+        "text": "La generosidad de Dios en la naturaleza"
+      },
+      {
+        "href": "/capitulos/salmos-66-alabanza-por-los-hechos-poderosos-de-dios",
+        "text": "Alabanza por los hechos poderosos de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-67-exhortacion-a-las-naciones-para-que-alaben-a-dios",
+        "text": "Exhortación a las naciones, para que alaben a Dios"
+      },
+      {
+        "href": "/capitulos/salmos-68-el-dios-de-sinai-y-del-santuario",
+        "text": "El Dios de Sinaí y del santuario"
+      },
+      {
+        "href": "/capitulos/salmos-69-un-grito-de-angustia",
+        "text": "Un grito de angustia"
+      },
+      {
+        "href": "/capitulos/salmos-70-suplica-por-liberacion",
+        "text": "Súplica por liberación"
+      },
+      {
+        "href": "/capitulos/salmos-71-oracion-de-un-anciano",
+        "text": "Oración de un anciano"
+      },
+      {
+        "href": "/capitulos/salmos-72-el-reino-de-un-rey-justo",
+        "text": "El reino de un rey justo"
+      },
+      {
+        "href": "/capitulos/salmos-73-el-destino-de-los-malos",
+        "text": "El destino de los malos"
+      },
+      {
+        "href": "/capitulos/salmos-74-apelacion-a-dios-en-contra-del-enemigo",
+        "text": "Apelación a Dios en contra del enemigo"
+      },
+      {
+        "href": "/capitulos/salmos-75-dios-abate-al-malo-y-exalta-al-justo",
+        "text": "Dios abate al malo y exalta al justo"
+      },
+      {
+        "href": "/capitulos/salmos-76-el-dios-de-la-victoria-y-del-juicio",
+        "text": "El Dios de la victoria y del juicio"
+      },
+      {
+        "href": "/capitulos/salmos-77-meditacion-sobre-los-hechos-poderosos-de-dios",
+        "text": "Meditación sobre los hechos poderosos de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-78-fidelidad-de-dios-hacia-su-pueblo-infiel",
+        "text": "Fidelidad de Dios hacia su pueblo infiel"
+      },
+      {
+        "href": "/capitulos/salmos-79-lamento-por-la-destruccion-de-jerusalen",
+        "text": "Lamento por la destrucción de Jerusalén"
+      },
+      {
+        "href": "/capitulos/salmos-80-suplica-por-la-restauracion",
+        "text": "Súplica por la restauración"
+      },
+      {
+        "href": "/capitulos/salmos-81-bondad-de-dios-y-perversidad-de-israel",
+        "text": "Bondad de Dios y perversidad de Israel"
+      },
+      {
+        "href": "/capitulos/salmos-82-amonestacion-contra-los-juicios-injustos",
+        "text": "Amonestación contra los juicios injustos"
+      },
+      {
+        "href": "/capitulos/salmos-83-plegaria-pidiendo-la-destruccion-de-los-enemigos-de-israel",
+        "text": "Plegaria pidiendo la destrucción de los enemigos de Israel"
+      },
+      {
+        "href": "/capitulos/salmos-84-anhelo-por-la-casa-de-dios",
+        "text": "Anhelo por la casa de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-85-suplica-por-l-misericordia-de-dios-sobre-israel",
+        "text": "Súplica por l misericordia de Dios sobre Israel"
+      },
+      {
+        "href": "/capitulos/salmos-86-oracion-pidiendo-la-continuada-misericordia-de-dios",
+        "text": "Oración pidiendo la continuada misericordia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-87-el-privilegio-de-morar-en-sion",
+        "text": "El privilegio de morar en Sion"
+      },
+      {
+        "href": "/capitulos/salmos-88-suplica-por-la-liberacion-de-la-muerte",
+        "text": "Súplica por la liberación de la muerte"
+      },
+      {
+        "href": "/capitulos/salmos-89-pacto-de-dios-con-david",
+        "text": "Pacto de Dios con David"
+      },
+      {
+        "href": "/capitulos/salmos-90-la-eternidad-de-dios-y-la-transitoriedad-del-hombre",
+        "text": "La eternidad de Dios y la transitoriedad del hombre"
+      },
+      {
+        "href": "/capitulos/salmos-91-morando-bajo-la-sombra-del-omnipotente",
+        "text": "Morando bajo la sombra del Omnipotente"
+      },
+      {
+        "href": "/capitulos/salmos-92-alabanza-por-la-bondad-de-dios",
+        "text": "Alabanza por la bondad de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-93-la-majestad-de-jehova",
+        "text": "La majestad de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-94-oracion-clamando-por-venganza",
+        "text": "Oración clamando por venganza"
+      },
+      {
+        "href": "/capitulos/salmos-95-cantico-de-alabanza-y-de-adoracion",
+        "text": "Cántico de alabanza y de adoración"
+      },
+      {
+        "href": "/capitulos/salmos-96-cantico-de-alabanza",
+        "text": "Cántico de alabanza"
+      },
+      {
+        "href": "/capitulos/salmos-97-el-dominio-y-el-poder-de-jehova",
+        "text": "El dominio y el poder de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-98-alabanza-por-la-justicia-de-dios",
+        "text": "Alabanza por la justicia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-99-fidelidad-de-jehova-para-con-israel",
+        "text": "Fidelidad de Jehová para con Israel"
+      },
+      {
+        "href": "/capitulos/salmos-100-exhortacion-a-la-gratitud",
+        "text": "Exhortación a la gratitud"
+      }
+    ],
+    "chapterCount": 100
+  },
+  {
+    "_id": "book-45",
+    "slug": "libro-de-malaquias",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-malaquias",
+    "name": "Libro de Malaquías",
+    "metaTitle": "Libro de Malaquías",
+    "metaDescription": "El Libro de Malaquías es un llamado a la fidelidad y al arrepentimiento, con la promesa de la venida del mensajero que preparará el camino del Señor.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/malaquias-1-amor-de-jehova-por-jacob",
+        "text": "Amor de Jehová por Jacob"
+      },
+      {
+        "href": "/capitulos/malaquias-2-reprension-de-la-infidelidad-de-israel",
+        "text": "Reprensión de la infidelidad de Israel"
+      },
+      {
+        "href": "/capitulos/malaquias-3-el-pago-de-los-diezmos",
+        "text": "El pago de los diezmos"
+      },
+      {
+        "href": "/capitulos/malaquias-4-el-advenimiento-del-dia-de-jehova",
+        "text": "El advenimiento del día de Jehová"
+      }
+    ],
+    "chapterCount": 4
+  },
+  {
+    "_id": "book-46",
+    "slug": "libro-de-miqueas",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-miqueas",
+    "name": "Libro de Miqueas",
+    "metaTitle": "Libro de Miqueas",
+    "metaDescription": "El Libro de Miqueas es un llamado a la justicia, la misericordia y la esperanza en medio del juicio divino, con la promesa del Mesías nacido en Belén.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/miqueas-1-lamento-sobre-samaria-y-jerusalen",
+        "text": "Lamento sobre Samaria y Jerusalén"
+      },
+      {
+        "href": "/capitulos/miqueas-2-ay-de-los-que-oprimen-a-los-pobres",
+        "text": "¡Ay de los que oprimen a los pobres!"
+      },
+      {
+        "href": "/capitulos/miqueas-3-acusacion-contra-los-dirigentes-de-israel",
+        "text": "Acusación contra los dirigentes de Israel"
+      },
+      {
+        "href": "/capitulos/miqueas-4-reinado-universal-de-jehova",
+        "text": "Reinado universal de Jehová"
+      },
+      {
+        "href": "/capitulos/miqueas-5-el-reinado-del-libertador-desde-belen",
+        "text": "El reinado del libertador desde Belén"
+      },
+      {
+        "href": "/capitulos/miqueas-6-controversia-de-jehova-contra-israel",
+        "text": "Controversia de Jehová contra Israel"
+      },
+      {
+        "href": "/capitulos/miqueas-7-corrupcion-moral-de-israel",
+        "text": "Corrupción moral de Israel"
+      }
+    ],
+    "chapterCount": 7
+  },
+  {
+    "_id": "book-47",
+    "slug": "libro-de-nahum",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-nahum",
+    "name": "Libro de Nahum",
+    "metaTitle": "Libro de Nahum",
+    "metaDescription": "El Libro de Nahum profetiza la inevitable caída de Nínive, recordándonos que la justicia divina siempre prevalece sobre la opresión.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/nahum-1-la-ira-vengadora-de-dios",
+        "text": "La ira vengadora de Dios"
+      },
+      {
+        "href": "/capitulos/nahum-2-destruccion-total-de-ninive",
+        "text": "Destrucción total de Nínive"
+      },
+      {
+        "href": "/capitulos/nahum-3",
+        "text": "Libro de Nahum 3"
+      }
+    ],
+    "chapterCount": 3
+  },
+  {
+    "_id": "book-48",
+    "slug": "libro-de-nehemias",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-nehemias",
+    "name": "Libro de Nehemías",
+    "metaTitle": "Libro de Nehemías",
+    "metaDescription": "El Libro de Nehemías narra la reconstrucción de los muros de Jerusalén y la renovación espiritual del pueblo bajo un liderazgo piadoso.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/nehemias-1-oracion-de-nehemias-sobre-jerusalen",
+        "text": "Oración de Nehemías sobre Jerusalén"
+      },
+      {
+        "href": "/capitulos/nehemias-2-artajerjes-envia-a-nehemias-a-jerusalen",
+        "text": "Artajerjes envía a Nehemías a Jerusalén"
+      },
+      {
+        "href": "/capitulos/nehemias-3-reparto-del-trabajo-de-reedificacion",
+        "text": "Reparto del trabajo de reedificación"
+      },
+      {
+        "href": "/capitulos/nehemias-4-precauciones-contra-los-enemigos",
+        "text": "Precauciones contra los enemigos"
+      },
+      {
+        "href": "/capitulos/nehemias-5-abolicion-de-la-usura",
+        "text": "Abolición de la usura"
+      },
+      {
+        "href": "/capitulos/nehemias-6-maquinaciones-de-los-adversarios",
+        "text": "Maquinaciones de los adversarios"
+      },
+      {
+        "href": "/capitulos/nehemias-7-nehemias-designa-dirigentes",
+        "text": "Nehemías designa dirigentes"
+      },
+      {
+        "href": "/capitulos/nehemias-8-esdras-lee-la-ley-al-pueblo",
+        "text": "Esdras lee la ley al pueblo"
+      },
+      {
+        "href": "/capitulos/nehemias-9-esdras-confiesa-los-pecados-de-israel",
+        "text": "Esdras confiesa los pecados de Israel"
+      },
+      {
+        "href": "/capitulos/nehemias-10",
+        "text": "Libro de Nehemías 10"
+      },
+      {
+        "href": "/capitulos/nehemias-11-los-habitantes-de-jerusalen",
+        "text": "Los habitantes de Jerusalén"
+      },
+      {
+        "href": "/capitulos/nehemias-12-sacerdotes-y-levitas",
+        "text": "Sacerdotes y levitas"
+      },
+      {
+        "href": "/capitulos/nehemias-13-reformas-de-nehemias",
+        "text": "Reformas de Nehemías"
+      }
+    ],
+    "chapterCount": 13
+  },
+  {
+    "_id": "book-49",
+    "slug": "libro-de-oseas",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-oseas",
+    "name": "Libro de Oseas",
+    "metaTitle": "Libro de Oseas",
+    "metaDescription": "El Libro de Oseas revela el amor incondicional de Dios hacia un pueblo infiel, llamándolo al arrepentimiento y a la restauración.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/oseas-1-la-esposa-infiel-de-oseas-y-sus-hijos",
+        "text": "La esposa infiel de Oseas, y sus hijos"
+      },
+      {
+        "href": "/capitulos/oseas-2-el-amor-de-jehova-hacia-su-pueblo-infiel",
+        "text": "El amor de Jehová hacia su pueblo infiel"
+      },
+      {
+        "href": "/capitulos/oseas-3-oseas-y-la-adultera",
+        "text": "Oseas y la adúltera"
+      },
+      {
+        "href": "/capitulos/oseas-4-controversia-de-jehova-con-israel",
+        "text": "Controversia de Jehová con Israel"
+      },
+      {
+        "href": "/capitulos/oseas-5-castigo-de-la-apostasia-de-israel",
+        "text": "Castigo de la apostasía de Israel"
+      },
+      {
+        "href": "/capitulos/oseas-6",
+        "text": "Libro de Oseas 6"
+      },
+      {
+        "href": "/capitulos/oseas-7-iniquidad-y-rebelion-de-israel",
+        "text": "Iniquidad y rebelión de Israel"
+      },
+      {
+        "href": "/capitulos/oseas-8-reprension-de-la-idolatria-de-israel",
+        "text": "Reprensión de la idolatría de Israel"
+      },
+      {
+        "href": "/capitulos/oseas-9-castigo-de-la-persistente-infidelidad-de-israel",
+        "text": "Castigo de la persistente infidelidad de Israel"
+      },
+      {
+        "href": "/capitulos/oseas-10",
+        "text": "Libro de Oseas 10"
+      },
+      {
+        "href": "/capitulos/oseas-11-dios-se-compadece-de-su-pueblo-obstinado",
+        "text": "Dios se compadece de su pueblo obstinado"
+      },
+      {
+        "href": "/capitulos/oseas-12-efrain-reprendido-por-su-falsedad-y-opresion",
+        "text": "Efraín reprendido por su falsedad y opresión"
+      },
+      {
+        "href": "/capitulos/oseas-13-destruccion-total-de-efrain-predicha",
+        "text": "Destrucción total de Efraín predicha"
+      },
+      {
+        "href": "/capitulos/oseas-14-suplica-a-israel-para-que-vuelva-a-jehova",
+        "text": "Súplica a Israel para que vuelva a Jehová"
+      }
+    ],
+    "chapterCount": 14
+  },
+  {
+    "_id": "book-50",
+    "slug": "libro-de-rut",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-rut",
+    "name": "Libro de Rut",
+    "metaTitle": "Libro de Rut",
+    "metaDescription": "El Libro de Rut es una conmovedora historia de amor, lealtad y redención que demuestra cómo la gracia de Dios trasciende fronteras y transforma vidas.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/rut-1-rut-y-noemi",
+        "text": "Rut y Noemí"
+      },
+      {
+        "href": "/capitulos/rut-2-rut-recoge-espigas-en-el-campo-de-booz",
+        "text": "Rut recoge espigas en el campo de Booz"
+      },
+      {
+        "href": "/capitulos/rut-3-rut-y-booz-en-la-era",
+        "text": "Rut y Booz en la era"
+      },
+      {
+        "href": "/capitulos/rut-4-booz-se-casa-con-rut",
+        "text": "Booz se casa con Rut"
+      }
+    ],
+    "chapterCount": 4
+  },
+  {
+    "_id": "book-51",
+    "slug": "libro-de-sofonias",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-sofonias",
+    "name": "Libro de Sofonías",
+    "metaTitle": "Libro de Sofonías",
+    "metaDescription": "El Libro de Sofonías anuncia el juicio inminente de Dios, pero también ofrece una promesa de restauración para los humildes que buscan refugio en Él.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/sofonias-1-el-dia-de-la-ira-de-jehova",
+        "text": "El día de la ira de Jehová"
+      },
+      {
+        "href": "/capitulos/sofonias-2-juicios-contra-las-naciones-vecinas",
+        "text": "Juicios contra las naciones vecinas"
+      },
+      {
+        "href": "/capitulos/sofonias-3-el-pecado-de-jerusalen-y-su-redencion",
+        "text": "El pecado de Jerusalén, y su redención"
+      }
+    ],
+    "chapterCount": 3
+  },
+  {
+    "_id": "book-52",
+    "slug": "libro-de-zacarias",
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-zacarias",
+    "name": "Libro de Zacarías",
+    "metaTitle": "Libro de Zacarías",
+    "metaDescription": "El Libro de Zacarías es una visión profética que anuncia la restauración de Israel y la venida del Mesías como rey humilde y salvador.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/zacarias-1-llamamiento-a-volver-a-jehova",
+        "text": "Llamamiento a volver a Jehová"
+      },
+      {
+        "href": "/capitulos/zacarias-2-llamamiento-a-los-cautivos",
+        "text": "Llamamiento a los cautivos"
+      },
+      {
+        "href": "/capitulos/zacarias-3-vision-del-sumo-sacerdote-josue",
+        "text": "Visión del sumo sacerdote Josué"
+      },
+      {
+        "href": "/capitulos/zacarias-4-el-candelero-de-oro-y-los-olivos",
+        "text": "El candelero de oro y los olivos"
+      },
+      {
+        "href": "/capitulos/zacarias-5-el-rollo-volante",
+        "text": "El rollo volante"
+      },
+      {
+        "href": "/capitulos/zacarias-6-los-cuatro-carros",
+        "text": "Los cuatro carros"
+      },
+      {
+        "href": "/capitulos/zacarias-7-el-ayuno-que-dios-reprueba",
+        "text": "El ayuno que Dios reprueba"
+      },
+      {
+        "href": "/capitulos/zacarias-8-promesa-de-la-restauracion-de-jerusalen",
+        "text": "Promesa de la restauración de Jerusalén"
+      },
+      {
+        "href": "/capitulos/zacarias-9-castigo-de-las-naciones-vecinas",
+        "text": "Castigo de las naciones vecinas"
+      },
+      {
+        "href": "/capitulos/zacarias-10-jehova-redimira-a-su-pueblo",
+        "text": "Jehová redimirá a su pueblo"
+      },
+      {
+        "href": "/capitulos/zacarias-11-los-pastores-inutiles",
+        "text": "Los pastores inútiles"
+      },
+      {
+        "href": "/capitulos/zacarias-12-liberacion-futura-de-jerusalen",
+        "text": "Liberación futura de Jerusalén"
+      },
+      {
+        "href": "/capitulos/zacarias-13-el-pastor-de-jehova-es-herido",
+        "text": "El pastor de Jehová es herido"
+      },
+      {
+        "href": "/capitulos/zacarias-14-jerusalen-y-las-naciones",
+        "text": "Jerusalén y las naciones"
+      }
+    ],
+    "chapterCount": 14
+  },
+  {
+    "_id": "book-53",
+    "slug": "libro-del-eclesiastes",
+    "url": "https://www.labibliaexplicada.com/libro/libro-del-eclesiastes",
+    "name": "Libro del Eclesiastés",
+    "metaTitle": "Libro del Eclesiastés",
+    "metaDescription": "El Libro de Eclesiastés es una profunda reflexión sobre la transitoriedad de la vida y la búsqueda del verdadero sentido en Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/eclesiastes-1-todo-es-vanidad",
+        "text": "Todo es vanidad"
+      },
+      {
+        "href": "/capitulos/eclesiastes-2",
+        "text": "Libro del Eclesiastés 2"
+      },
+      {
+        "href": "/capitulos/eclesiastes-3-todo-tiene-su-tiempo",
+        "text": "Todo tiene su tiempo"
+      },
+      {
+        "href": "/capitulos/eclesiastes-4",
+        "text": "Libro del Eclesiastés 4"
+      },
+      {
+        "href": "/capitulos/eclesiastes-5-la-insensatez-de-hacer-votos-a-la-ligera",
+        "text": "La insensatez de hacer votos a la ligera"
+      },
+      {
+        "href": "/capitulos/eclesiastes-6",
+        "text": "Libro del Eclesiastés 6"
+      },
+      {
+        "href": "/capitulos/eclesiastes-7-contraste-entre-la-sabiduria-y-la-insensatez",
+        "text": "Contraste entre la sabiduría y la insensatez"
+      },
+      {
+        "href": "/capitulos/eclesiastes-8-desigualdades-de-la-vida",
+        "text": "Desigualdades de la vida"
+      },
+      {
+        "href": "/capitulos/eclesiastes-9",
+        "text": "Libro del Eclesiastés 9"
+      },
+      {
+        "href": "/capitulos/eclesiastes-10-excelencia-de-la-sabiduria",
+        "text": "Excelencia de la sabiduría"
+      },
+      {
+        "href": "/capitulos/eclesiastes-11-consejos-para-la-juventud",
+        "text": "Consejos para la juventud"
+      },
+      {
+        "href": "/capitulos/eclesiastes-12-resumen-del-deber-del-hombre",
+        "text": "Resumen del deber del hombre"
+      }
+    ],
+    "chapterCount": 12
+  },
+  {
+    "_id": "book-54",
+    "slug": "primera-epistola-a-los-corintios",
+    "url": "https://www.labibliaexplicada.com/libro/primera-epistola-a-los-corintios",
+    "name": "Primera epístola a los corintios",
+    "metaTitle": "Primera epístola a los corintios",
+    "metaDescription": "La Primera epístola a los corintios es una carta de Pablo que aborda la unidad, los dones espirituales y el amor como clave para superar divisiones en la iglesia.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-corintios-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/1-corintios-2-proclamando-a-cristo-crucificado",
+        "text": "Proclamando a Cristo crucificado"
+      },
+      {
+        "href": "/capitulos/1-corintios-3-colaboradores-de-dios",
+        "text": "Colaboradores de Dios"
+      },
+      {
+        "href": "/capitulos/1-corintios-4-el-ministerio-de-los-apostoles",
+        "text": "El ministerio de los apóstoles"
+      },
+      {
+        "href": "/capitulos/1-corintios-5-un-caso-de-inmoralidad-juzgado",
+        "text": "Un caso de inmoralidad juzgado"
+      },
+      {
+        "href": "/capitulos/1-corintios-6-litigios-delante-de-los-incredulos",
+        "text": "Litigios delante de los incrédulos"
+      },
+      {
+        "href": "/capitulos/1-corintios-7-problemas-del-matrimonio",
+        "text": "Problemas del matrimonio"
+      },
+      {
+        "href": "/capitulos/1-corintios-8-lo-sacrificado-a-los-idolos",
+        "text": "Lo sacrificado a los ídolos"
+      },
+      {
+        "href": "/capitulos/1-corintios-9-los-derechos-de-un-apostol",
+        "text": "Los derechos de un apóstol"
+      },
+      {
+        "href": "/capitulos/1-corintios-10-amonestaciones-contra-la-idolatria",
+        "text": "Amonestaciones contra la idolatría"
+      },
+      {
+        "href": "/capitulos/1-corintios-11-atavio-de-las-mujeres",
+        "text": "Atavío de las mujeres"
+      },
+      {
+        "href": "/capitulos/1-corintios-12-dones-espirituales",
+        "text": "Dones espirituales"
+      },
+      {
+        "href": "/capitulos/1-corintios-13-la-preeminencia-del-amor",
+        "text": "La preeminencia del amor"
+      },
+      {
+        "href": "/capitulos/1-corintios-14-el-hablar-en-lenguas",
+        "text": "El hablar en lenguas"
+      },
+      {
+        "href": "/capitulos/1-corintios-15-la-resurreccion-de-los-muertos",
+        "text": "La resurrección de los muertos"
+      },
+      {
+        "href": "/capitulos/1-corintios-16-la-ofrenda-para-los-santos",
+        "text": "La ofrenda para los santos"
+      }
+    ],
+    "chapterCount": 16
+  },
+  {
+    "_id": "book-55",
+    "slug": "primera-epistola-a-los-tesalonicenses",
+    "url": "https://www.labibliaexplicada.com/libro/primera-epistola-a-los-tesalonicenses",
+    "name": "Primera epístola a los tesalonicenses",
+    "metaTitle": "Primera epístola a los tesalonicenses",
+    "metaDescription": "En la Primera epístola a los tesalonicenses, Pablo anima a una comunidad perseguida con esperanza en el regreso de Cristo y exhortaciones a la santidad y el trabajo diligente.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-tesalonicenses-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/1-tesalonicenses-2-ministerio-de-pablo-en-tesalonica",
+        "text": "Ministerio de Pablo en Tesalónica"
+      },
+      {
+        "href": "/capitulos/1-tesalonicenses-3",
+        "text": "Primera epístola a los tesalonicenses 3"
+      },
+      {
+        "href": "/capitulos/1-tesalonicenses-4-la-vida-que-agrada-a-dios",
+        "text": "La vida que agrada a Dios"
+      },
+      {
+        "href": "/capitulos/1-tesalonicenses-5-pablo-exhorta-a-los-hermanos",
+        "text": "Pablo exhorta a los hermanos"
+      }
+    ],
+    "chapterCount": 5
+  },
+  {
+    "_id": "book-56",
+    "slug": "primera-epistola-a-timoteo",
+    "url": "https://www.labibliaexplicada.com/libro/primera-epistola-a-timoteo",
+    "name": "Primera epístola a Timoteo",
+    "metaTitle": "Primera epístola a Timoteo",
+    "metaDescription": "La Primera Epístola a Timoteo es una guía pastoral de Pablo sobre el liderazgo, la sana doctrina y la organización de la iglesia cristiana.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-timoteo-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/1-timoteo-2-instrucciones-sobre-la-oracion",
+        "text": "Instrucciones sobre la oración"
+      },
+      {
+        "href": "/capitulos/1-timoteo-3-requisitos-de-los-obispos",
+        "text": "Requisitos de los obispos"
+      },
+      {
+        "href": "/capitulos/1-timoteo-4-prediccion-de-la-apostasia",
+        "text": "Predicción de la apostasía"
+      },
+      {
+        "href": "/capitulos/1-timoteo-5-deberes-hacia-los-demas",
+        "text": "Deberes hacia los demás"
+      },
+      {
+        "href": "/capitulos/1-timoteo-6-piedad-y-contentamiento",
+        "text": "Piedad y contentamiento"
+      }
+    ],
+    "chapterCount": 6
+  },
+  {
+    "_id": "book-57",
+    "slug": "primera-epistola-de-juan",
+    "url": "https://www.labibliaexplicada.com/libro/primera-epistola-de-juan",
+    "name": "Primera epístola de Juan",
+    "metaTitle": "Primera epístola de Juan",
+    "metaDescription": "La Primera epístola de Juan es un llamado a vivir en el amor, la verdad y la luz, reflejando la esencia misma de Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-juan-1-la-palabra-de-vida",
+        "text": "La palabra de vida"
+      },
+      {
+        "href": "/capitulos/1-juan-2-cristo-nuestro-abogado",
+        "text": "Cristo, nuestro abogado"
+      },
+      {
+        "href": "/capitulos/1-juan-3-hijos-de-dios",
+        "text": "Hijos de Dios"
+      },
+      {
+        "href": "/capitulos/1-juan-4-el-espiritu-de-dios-y-el-espiritu-del-anticristo",
+        "text": "El Espíritu de Dios y el espíritu del anticristo"
+      },
+      {
+        "href": "/capitulos/1-juan-5-la-fe-que-vence-al-mundo",
+        "text": "La fe que vence al mundo"
+      }
+    ],
+    "chapterCount": 5
+  },
+  {
+    "_id": "book-58",
+    "slug": "primera-epistola-de-pedro",
+    "url": "https://www.labibliaexplicada.com/libro/primera-epistola-de-pedro",
+    "name": "Primera epístola de Pedro",
+    "metaTitle": "Primera epístola de Pedro",
+    "metaDescription": "La Primera epístola de Pedro alienta a los creyentes a vivir en santidad y esperanza, confiando en Dios durante el sufrimiento y las pruebas.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-pedro-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/1-pedro-2-la-piedra-viva",
+        "text": "La piedra viva"
+      },
+      {
+        "href": "/capitulos/1-pedro-3-deberes-conyugales",
+        "text": "Deberes conyugales"
+      },
+      {
+        "href": "/capitulos/1-pedro-4-buenos-administradores-de-la-gracia-de-dios",
+        "text": "Buenos administradores de la gracia de Dios"
+      },
+      {
+        "href": "/capitulos/1-pedro-5-apacentad-la-grey-de-dios",
+        "text": "Apacentad la grey de Dios"
+      }
+    ],
+    "chapterCount": 5
+  },
+  {
+    "_id": "book-59",
+    "slug": "proverbios",
+    "url": "https://www.labibliaexplicada.com/libro/proverbios",
+    "name": "Proverbios",
+    "metaTitle": "Proverbios",
+    "metaDescription": "El Libro de Proverbios nos ofrece sabiduría práctica para vivir con integridad, guiados por el temor reverente a Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/proverbios-1-motivo-de-los-proverbios",
+        "text": "Motivo de los proverbios"
+      },
+      {
+        "href": "/capitulos/proverbios-2-excelencia-de-la-sabiduria",
+        "text": "Excelencia de la sabiduría"
+      },
+      {
+        "href": "/capitulos/proverbios-3-exhortacion-a-la-obediencia",
+        "text": "Exhortación a la obediencia"
+      },
+      {
+        "href": "/capitulos/proverbios-4-beneficios-de-la-sabiduria",
+        "text": "Beneficios de la sabiduría"
+      },
+      {
+        "href": "/capitulos/proverbios-5-amonestacion-contra-la-impureza",
+        "text": "Amonestación contra la impureza"
+      },
+      {
+        "href": "/capitulos/proverbios-6-amonestacion-contra-la-pereza-y-la-falsedad",
+        "text": "Amonestación contra la pereza y la falsedad"
+      },
+      {
+        "href": "/capitulos/proverbios-7-las-artimanas-de-la-ramera",
+        "text": "Las artimañas de la ramera"
+      },
+      {
+        "href": "/capitulos/proverbios-8-excelencia-y-eternidad-de-la-sabiduria",
+        "text": "Excelencia y eternidad de la sabiduría"
+      },
+      {
+        "href": "/capitulos/proverbios-9-la-sabiduria-y-la-mujer-insensata",
+        "text": "La sabiduría y la mujer insensata"
+      },
+      {
+        "href": "/capitulos/proverbios-10-contraste-entre-el-justo-y-el-malvado",
+        "text": "Contraste entre el justo y el malvado"
+      },
+      {
+        "href": "/capitulos/proverbios-11",
+        "text": "Proverbios 11"
+      },
+      {
+        "href": "/capitulos/proverbios-12",
+        "text": "Proverbios 12"
+      },
+      {
+        "href": "/capitulos/proverbios-13",
+        "text": "Proverbios 13"
+      },
+      {
+        "href": "/capitulos/proverbios-14",
+        "text": "Proverbios 14"
+      },
+      {
+        "href": "/capitulos/proverbios-15",
+        "text": "Proverbios 15"
+      },
+      {
+        "href": "/capitulos/proverbios-16-proverbios-sobre-la-vida-y-la-conducta",
+        "text": "Proverbios sobre la vida y la conducta"
+      },
+      {
+        "href": "/capitulos/proverbios-17",
+        "text": "Proverbios 17"
+      },
+      {
+        "href": "/capitulos/proverbios-18",
+        "text": "Proverbios 18"
+      },
+      {
+        "href": "/capitulos/proverbios-19",
+        "text": "Proverbios 19"
+      },
+      {
+        "href": "/capitulos/proverbios-20",
+        "text": "Proverbios 20"
+      },
+      {
+        "href": "/capitulos/proverbios-21",
+        "text": "Proverbios 21"
+      },
+      {
+        "href": "/capitulos/proverbios-22-preceptos-y-amonestaciones",
+        "text": "Preceptos y amonestaciones"
+      },
+      {
+        "href": "/capitulos/proverbios-23",
+        "text": "Proverbios 23"
+      },
+      {
+        "href": "/capitulos/proverbios-24",
+        "text": "Proverbios 24"
+      },
+      {
+        "href": "/capitulos/proverbios-25-comparaciones-y-lecciones-morales",
+        "text": "Comparaciones y lecciones morales"
+      },
+      {
+        "href": "/capitulos/proverbios-26",
+        "text": "Proverbios 26"
+      },
+      {
+        "href": "/capitulos/proverbios-27",
+        "text": "Proverbios 27"
+      },
+      {
+        "href": "/capitulos/proverbios-28",
+        "text": "Proverbios 28"
+      },
+      {
+        "href": "/capitulos/proverbios-29",
+        "text": "Proverbios 29"
+      },
+      {
+        "href": "/capitulos/proverbios-30-las-palabras-de-agur",
+        "text": "Las palabras de Agur"
+      },
+      {
+        "href": "/capitulos/proverbios-31-exhortacion-a-un-rey",
+        "text": "Exhortación a un rey"
+      }
+    ],
+    "chapterCount": 31
+  },
+  {
+    "_id": "book-60",
+    "slug": "segunda-epistola-a-los-corintios",
+    "url": "https://www.labibliaexplicada.com/libro/segunda-epistola-a-los-corintios",
+    "name": "Segunda epístola a los corintios",
+    "metaTitle": "Segunda epístola a los corintios",
+    "metaDescription": "La Segunda Epístola a los Corintios es una carta de reconciliación y fortaleza en la debilidad, donde Pablo nos muestra cómo la gracia de Dios se perfecciona en nuestras pruebas.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-corintios-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/2-corintios-2-pablo-perdona-al-ofensor",
+        "text": "Pablo perdona al ofensor"
+      },
+      {
+        "href": "/capitulos/2-corintios-3-ministros-del-nuevo-pacto",
+        "text": "Ministros del nuevo pacto"
+      },
+      {
+        "href": "/capitulos/2-corintios-4-viviendo-por-la-fe",
+        "text": "Viviendo por la fe"
+      },
+      {
+        "href": "/capitulos/2-corintios-5-el-ministerio-de-la-reconciliacion",
+        "text": "El ministerio de la reconciliación"
+      },
+      {
+        "href": "/capitulos/2-corintios-6-somos-templo-del-dios-viviente",
+        "text": "Somos templo del Dios viviente"
+      },
+      {
+        "href": "/capitulos/2-corintios-7-regocijo-de-pablo-al-arrepentirse-los-corintios",
+        "text": "Regocijo de Pablo al arrepentirse los corintios"
+      },
+      {
+        "href": "/capitulos/2-corintios-8-la-ofrenda-para-los-santos",
+        "text": "La ofrenda para los santos"
+      },
+      {
+        "href": "/capitulos/2-corintios-9",
+        "text": "Segunda epístola a los corintios 9"
+      },
+      {
+        "href": "/capitulos/2-corintios-10-pablo-defiende-su-ministerio",
+        "text": "Pablo defiende su ministerio"
+      },
+      {
+        "href": "/capitulos/2-corintios-11-sufrimientos-de-pablo-como-apostol",
+        "text": "Sufrimientos de Pablo como apóstol"
+      },
+      {
+        "href": "/capitulos/2-corintios-12-el-aguijon-en-la-carne",
+        "text": "El aguijón en la carne"
+      },
+      {
+        "href": "/capitulos/2-corintios-13-saludos-y-doxologia-final",
+        "text": "Saludos y doxología final"
+      }
+    ],
+    "chapterCount": 13
+  },
+  {
+    "_id": "book-61",
+    "slug": "segunda-epistola-a-los-tesalonicenses",
+    "url": "https://www.labibliaexplicada.com/libro/segunda-epistola-a-los-tesalonicenses",
+    "name": "Segunda epístola a los tesalonicenses",
+    "metaTitle": "Segunda epístola a los tesalonicenses",
+    "metaDescription": "La Segunda epístola a los tesalonicenses aclara malentendidos sobre la venida de Cristo, exhortando a la perseverancia y al trabajo en medio de la persecución.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-tesalonicenses-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/2-tesalonicenses-2-manifestacion-del-hombre-de-pecado",
+        "text": "Manifestación del hombre de pecado"
+      },
+      {
+        "href": "/capitulos/2-tesalonicenses-3-que-la-palabra-de-dios-sea-glorificada",
+        "text": "Que la palabra de Dios sea glorificada"
+      }
+    ],
+    "chapterCount": 3
+  },
+  {
+    "_id": "book-62",
+    "slug": "segunda-epistola-a-timoteo",
+    "url": "https://www.labibliaexplicada.com/libro/segunda-epistola-a-timoteo",
+    "name": "Segunda epístola a Timoteo",
+    "metaTitle": "Segunda epístola a Timoteo",
+    "metaDescription": "La Segunda epístola a Timoteo es la carta de despedida de Pablo, donde anima a su discípulo a ser fiel, valiente y perseverar en medio de tiempos difíciles.​",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-timoteo-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/2-timoteo-2-un-buen-soldado-de-jesucristo",
+        "text": "Un buen soldado de Jesucristo"
+      },
+      {
+        "href": "/capitulos/2-timoteo-3-caracter-de-los-hombres-en-los-postreros-dias",
+        "text": "Carácter de los hombres en los postreros días"
+      },
+      {
+        "href": "/capitulos/2-timoteo-4-predica-la-palabra",
+        "text": "Predica la palabra"
+      }
+    ],
+    "chapterCount": 4
+  },
+  {
+    "_id": "book-63",
+    "slug": "segunda-epistola-de-juan",
+    "url": "https://www.labibliaexplicada.com/libro/segunda-epistola-de-juan",
+    "name": "Segunda epístola de Juan",
+    "metaTitle": "Segunda epístola de Juan",
+    "metaDescription": "La Segunda epístola de Juan nos recuerda la importancia de vivir en la verdad y el amor, guardándonos de los falsos maestros.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-juan-1-salutacion",
+        "text": "Salutación"
+      }
+    ],
+    "chapterCount": 1
+  },
+  {
+    "_id": "book-64",
+    "slug": "segunda-epistola-de-pedro",
+    "url": "https://www.labibliaexplicada.com/libro/segunda-epistola-de-pedro",
+    "name": "Segunda epístola de Pedro",
+    "metaTitle": "Segunda epístola de Pedro",
+    "metaDescription": "La Segunda epístola de Pedro nos exhorta a crecer en la fe, estar alerta ante los falsos maestros y vivir con esperanza, esperando la venida de Cristo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-pedro-1-salutacion",
+        "text": "Salutación"
+      },
+      {
+        "href": "/capitulos/2-pedro-2-falsos-profestas-y-falsos-maestros",
+        "text": "Falsos profestas y falsos maestros"
+      },
+      {
+        "href": "/capitulos/2-pedro-3-el-dia-del-senor-vendra",
+        "text": "El día del Señor vendrá"
+      }
+    ],
+    "chapterCount": 3
+  },
+  {
+    "_id": "book-65",
+    "slug": "tercera-epistola-de-juan",
+    "url": "https://www.labibliaexplicada.com/libro/tercera-epistola-de-juan",
+    "name": "Tercera epístola de Juan",
+    "metaTitle": "Tercera epístola de Juan",
+    "metaDescription": "La Tercera epístola de Juan es una breve carta que destaca la hospitalidad cristiana y el valor de vivir en la verdad y el amor.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/3-juan-1-salutacion",
+        "text": "Salutación"
+      }
+    ],
+    "chapterCount": 1
+  }
+]

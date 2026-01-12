@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "directus": "10.x",
+  "collections": {
+    "autores": {
+      "collection": "autores",
+      "meta": {
+        "icon": "person",
+        "display_template": "{{name}}",
+        "translations": [
+          { "language": "es-ES", "singular": "Autor", "plural": "Autores" }
+        ]
+      },
+      "schema": {
+        "name": "autores"
+      },
+      "fields": [
+        {
+          "field": "id",
+          "type": "uuid",
+          "meta": { "hidden": true, "readonly": true },
+          "schema": { "is_primary_key": true }
+        },
+        {
+          "field": "name",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "slug",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "bio",
+          "type": "text",
+          "meta": { "interface": "input-multiline" }
+        },
+        {
+          "field": "image",
+          "type": "uuid",
+          "meta": { "interface": "file-image" }
+        }
+      ]
+    },
+    "categorias": {
+      "collection": "categorias",
+      "meta": {
+        "icon": "category",
+        "display_template": "{{name}}"
+      },
+      "fields": [
+        {
+          "field": "id",
+          "type": "uuid",
+          "meta": { "hidden": true, "readonly": true },
+          "schema": { "is_primary_key": true }
+        },
+        {
+          "field": "name",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "slug",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        }
+      ]
+    },
+    "libros": {
+      "collection": "libros",
+      "meta": {
+        "icon": "menu_book",
+        "display_template": "{{title}}",
+        "sort_field": "book_id"
+      },
+      "fields": [
+        {
+          "field": "id",
+          "type": "uuid",
+          "meta": { "hidden": true, "readonly": true },
+          "schema": { "is_primary_key": true }
+        },
+        {
+          "field": "book_id",
+          "type": "integer",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "title",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "name",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "slug",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "testament",
+          "type": "string",
+          "meta": {
+            "interface": "select-dropdown",
+            "options": {
+              "choices": [
+                { "text": "Antiguo Testamento", "value": "antiguo" },
+                { "text": "Nuevo Testamento", "value": "nuevo" }
+              ]
+            }
+          }
+        },
+        {
+          "field": "details",
+          "type": "text",
+          "meta": { "interface": "input-multiline" }
+        },
+        {
+          "field": "explanation",
+          "type": "text",
+          "meta": { "interface": "input-rich-text-html" }
+        },
+        {
+          "field": "faqs",
+          "type": "text",
+          "meta": { "interface": "input-rich-text-html" }
+        },
+        {
+          "field": "image",
+          "type": "uuid",
+          "meta": { "interface": "file-image" }
+        },
+        {
+          "field": "image_alt",
+          "type": "string",
+          "meta": { "interface": "input" }
+        }
+      ]
+    },
+    "capitulos": {
+      "collection": "capitulos",
+      "meta": {
+        "icon": "article",
+        "display_template": "{{chapter_title}}",
+        "sort_field": "chapter_global_id"
+      },
+      "fields": [
+        {
+          "field": "id",
+          "type": "uuid",
+          "meta": { "hidden": true, "readonly": true },
+          "schema": { "is_primary_key": true }
+        },
+        {
+          "field": "libro",
+          "type": "uuid",
+          "meta": {
+            "required": true,
+            "interface": "select-dropdown-m2o",
+            "special": ["m2o"]
+          },
+          "schema": {
+            "foreign_key_table": "libros",
+            "foreign_key_column": "id"
+          }
+        },
+        {
+          "field": "chapter_id",
+          "type": "integer",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "chapter_global_id",
+          "type": "integer",
+          "meta": { "interface": "input" }
+        },
+        {
+          "field": "chapter_title",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "chapter_title_list",
+          "type": "string",
+          "meta": { "interface": "input" }
+        },
+        {
+          "field": "name",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "slug",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "content",
+          "type": "text",
+          "meta": { "interface": "input-rich-text-html" }
+        },
+        {
+          "field": "explanation",
+          "type": "text",
+          "meta": { "interface": "input-rich-text-html" }
+        },
+        {
+          "field": "chapter_summary",
+          "type": "text",
+          "meta": { "interface": "input-multiline" }
+        },
+        {
+          "field": "chapter_day",
+          "type": "integer",
+          "meta": { "interface": "input" }
+        },
+        {
+          "field": "image",
+          "type": "uuid",
+          "meta": { "interface": "file-image" }
+        },
+        {
+          "field": "image_alt",
+          "type": "string",
+          "meta": { "interface": "input" }
+        },
+        {
+          "field": "json_ld",
+          "type": "json",
+          "meta": { "interface": "input-code", "options": { "language": "json" } }
+        }
+      ]
+    },
+    "articulos": {
+      "collection": "articulos",
+      "meta": {
+        "icon": "description",
+        "display_template": "{{title}}"
+      },
+      "fields": [
+        {
+          "field": "id",
+          "type": "uuid",
+          "meta": { "hidden": true, "readonly": true },
+          "schema": { "is_primary_key": true }
+        },
+        {
+          "field": "title",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "name",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "slug",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "intro_text",
+          "type": "text",
+          "meta": { "interface": "input-multiline" }
+        },
+        {
+          "field": "content",
+          "type": "text",
+          "meta": { "interface": "input-rich-text-html" }
+        },
+        {
+          "field": "thumbnail",
+          "type": "uuid",
+          "meta": { "interface": "file-image" }
+        },
+        {
+          "field": "header_image",
+          "type": "uuid",
+          "meta": { "interface": "file-image" }
+        },
+        {
+          "field": "author",
+          "type": "uuid",
+          "meta": {
+            "interface": "select-dropdown-m2o",
+            "special": ["m2o"]
+          },
+          "schema": {
+            "foreign_key_table": "autores",
+            "foreign_key_column": "id"
+          }
+        },
+        {
+          "field": "category",
+          "type": "uuid",
+          "meta": {
+            "interface": "select-dropdown-m2o",
+            "special": ["m2o"]
+          },
+          "schema": {
+            "foreign_key_table": "categorias",
+            "foreign_key_column": "id"
+          }
+        },
+        {
+          "field": "date_created",
+          "type": "timestamp",
+          "meta": { "interface": "datetime", "special": ["date-created"] }
+        },
+        {
+          "field": "date_updated",
+          "type": "timestamp",
+          "meta": { "interface": "datetime", "special": ["date-updated"] }
+        }
+      ]
+    },
+    "conceptos": {
+      "collection": "conceptos",
+      "meta": {
+        "icon": "lightbulb",
+        "display_template": "{{title}}"
+      },
+      "fields": [
+        {
+          "field": "id",
+          "type": "uuid",
+          "meta": { "hidden": true, "readonly": true },
+          "schema": { "is_primary_key": true }
+        },
+        {
+          "field": "title",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "name",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "slug",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "intro_text",
+          "type": "text",
+          "meta": { "interface": "input-multiline" }
+        },
+        {
+          "field": "content",
+          "type": "text",
+          "meta": { "interface": "input-rich-text-html" }
+        },
+        {
+          "field": "image",
+          "type": "uuid",
+          "meta": { "interface": "file-image" }
+        }
+      ]
+    },
+    "personajes": {
+      "collection": "personajes",
+      "meta": {
+        "icon": "face",
+        "display_template": "{{name}}"
+      },
+      "fields": [
+        {
+          "field": "id",
+          "type": "uuid",
+          "meta": { "hidden": true, "readonly": true },
+          "schema": { "is_primary_key": true }
+        },
+        {
+          "field": "name",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "slug",
+          "type": "string",
+          "meta": { "required": true, "interface": "input" }
+        },
+        {
+          "field": "description",
+          "type": "text",
+          "meta": { "interface": "input-multiline" }
+        },
+        {
+          "field": "content",
+          "type": "text",
+          "meta": { "interface": "input-rich-text-html" }
+        },
+        {
+          "field": "image",
+          "type": "uuid",
+          "meta": { "interface": "file-image" }
+        }
+      ]
+    }
+  },
+  "relations": [
+    {
+      "collection": "capitulos",
+      "field": "libro",
+      "related_collection": "libros",
+      "meta": {
+        "one_field": "capitulos",
+        "sort_field": "chapter_id"
+      }
+    },
+    {
+      "collection": "articulos",
+      "field": "author",
+      "related_collection": "autores"
+    },
+    {
+      "collection": "articulos",
+      "field": "category",
+      "related_collection": "categorias"
+    }
+  ]
+}

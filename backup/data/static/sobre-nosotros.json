@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/sobre-nosotros",
+    "title": "Nosotros",
+    "description": "El equipo de La Biblia Explicada está formado por un grupo diverso de apasionados por la teología, estudiosos bíblicos y comunicadores comprometidos con hacer accesible la Palabra de Dios para todos. Con una mezcla de expertos en exégesis, historiadores y redactores, nos esforzamos por ofrecer contenido preciso y relevante, en un lenguaje pastoral y cercano, que permita a cada lector profundizar en el mensaje de las Escrituras. Nuestra misión es iluminar los textos sagrados con interpretaciones que resuenen en la vida cotidiana",
+    "ogImage": "",
+    "ogTitle": "Nosotros",
+    "canonical": "https://www.labibliaexplicada.com/sobre-nosotros"
+  },
+  "templateType": "static",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66cc37c6e520d320590086fb_4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {},
+  "cleanText": "ConceptosLibrosNosotrosaboutEl equipo de la biblia explicadaLA BIBLIA EXPLICADAEl equipo de La Biblia Explicada está formado por un grupo diverso de apasionados por la teología, estudiosos bíblicos y comunicadores comprometidos con hacer accesible la Palabra de Dios para todos. Con una mezcla de expertos en exégesis, historiadores y redactores, nos esforzamos por ofrecer contenido preciso y relevante, en un lenguaje pastoral y cercano, que permita a cada lector profundizar en el mensaje de las Escrituras. Nuestra misión es iluminar los textos sagrados con interpretaciones que resuenen en la vida cotidianaEL EquipoEstherEditora2025 LA biblia explicadaCategoryArticulosCuriosidades y conceptosReflexiones sobre La BibliaCATEGORIASArticulosCuriosidades y conceptosReflexiones sobre La Biblia"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "6702ada46b703da05394cd76",
+  "displayName": "TESTs",
+  "singularName": "TEST",
+  "slug": "test",
+  "createdOn": "2024-10-06T15:32:52.208Z",
+  "lastUpdated": "2025-07-13T06:34:01.785Z",
+  "fields": [
+    {
+      "id": "340c957e55f11762f7c3adc34e48237a",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "DateTime",
+      "slug": "test-fecha",
+      "displayName": "test fecha",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "943ff58f5b5c2ca72a314f9131a6ae30",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "3f41c0fd8bdd9244885c66c404a0d76a",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

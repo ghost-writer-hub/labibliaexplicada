@@ -1,0 +1,131 @@
+{
+  "id": "66cc37c6e520d3205900867f",
+  "displayName": "Libros",
+  "singularName": "Libro",
+  "slug": "libro",
+  "createdOn": "2018-08-24T16:47:17.154Z",
+  "lastUpdated": "2025-07-13T06:34:01.754Z",
+  "fields": [
+    {
+      "id": "30418363db065d5775a49022502886f6",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "image",
+      "displayName": "image",
+      "helpText": "imagen principal",
+      "validations": null
+    },
+    {
+      "id": "e2e03d6a351ba340c711ac556c24559d",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "details",
+      "displayName": "details",
+      "helpText": "pre-header",
+      "validations": {
+        "singleLine": false
+      }
+    },
+    {
+      "id": "ab13ae703e291986494a6f86836e4b11",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "explanation",
+      "displayName": "explanation",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "4f109c7f6e281d4b3d707bbbb6f18add",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "title",
+      "displayName": "title",
+      "helpText": "main title",
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "263aeb8832e21ce7ff7af41288a01ff7",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "testament",
+      "displayName": "testament",
+      "helpText": "AT/NT",
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "24d93e2ef1a0ac1e23b45f556b5d5a8a",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "faqs",
+      "displayName": "faqs",
+      "helpText": "HTML FAQs",
+      "validations": null
+    },
+    {
+      "id": "a8dfecb6e89c0b699cc7f59ecfa8458f",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Number",
+      "slug": "book-id",
+      "displayName": "book_id",
+      "helpText": "el numero de libro",
+      "validations": {
+        "format": "integer",
+        "precision": 1,
+        "allowNegative": false
+      }
+    },
+    {
+      "id": "bcf73b07ce4ce2c53a29bf723b5a4e0d",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "image-alt-description",
+      "displayName": "image-alt-description",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "d0c6dc4e3b652d599b88020f5330296a",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "2618c7068f67225e2f25b8624f4182ef",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/search",
+    "title": "Search Results",
+    "description": "",
+    "ogImage": "",
+    "ogTitle": "Search Results",
+    "canonical": "https://www.labibliaexplicada.com/search"
+  },
+  "templateType": "static",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [],
+  "images": [],
+  "structuredContent": {},
+  "cleanText": "Search resultsSearchNo matching results."
+}

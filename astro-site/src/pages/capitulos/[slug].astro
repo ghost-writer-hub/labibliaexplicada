@@ -1,0 +1,149 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { directus, getCapitulo, getCapitulosByLibro, getAssetUrl, type Libro } from '../../lib/directus';
+import { readItems } from '@directus/sdk';
+
+export async function getStaticPaths() {
+  const capitulos = await directus.request(readItems('capitulos', { fields: ['slug'] }));
+  return capitulos.map((capitulo) => ({
+    params: { slug: capitulo.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const capitulo = await getCapitulo(slug);
+
+if (!capitulo) {
+  return Astro.redirect('/404');
+}
+
+const libro = capitulo.libro as Libro;
+
+// Get all chapters for navigation
+const allChapters = libro ? await getCapitulosByLibro(libro.id) : [];
+const currentIndex = allChapters.findIndex(c => c.id === capitulo.id);
+const prevChapter = currentIndex > 0 ? allChapters[currentIndex - 1] : null;
+const nextChapter = currentIndex < allChapters.length - 1 ? allChapters[currentIndex + 1] : null;
+---
+
+<BaseLayout
+  title={`${capitulo.chapter_title || capitulo.name} - La Biblia Explicada`}
+  description={capitulo.chapter_summary}
+  image={capitulo.image ? getAssetUrl(capitulo.image) : undefined}
+>
+  <article class="capitulo-detail">
+    <!-- Breadcrumb & Navigation -->
+    <nav class="breadcrumb bg-gray-50 py-4">
+      <div class="container max-w-4xl mx-auto px-4 flex items-center justify-between">
+        <div class="flex items-center space-x-2 text-sm">
+          <a href="/libros-de-la-biblia" class="text-gray-500 hover:text-primary-600">Libros</a>
+          <span class="text-gray-400">/</span>
+          {libro && (
+            <>
+              <a href={`/libro/${libro.slug}`} class="text-gray-500 hover:text-primary-600">
+                {libro.title}
+              </a>
+              <span class="text-gray-400">/</span>
+            </>
+          )}
+          <span class="text-gray-900">Capítulo {capitulo.chapter_id}</span>
+        </div>
+
+        <div class="flex items-center space-x-4">
+          {prevChapter && (
+            <a href={`/capitulos/${prevChapter.slug}`} class="text-primary-600 hover:underline">
+              ← Anterior
+            </a>
+          )}
+          {nextChapter && (
+            <a href={`/capitulos/${nextChapter.slug}`} class="text-primary-600 hover:underline">
+              Siguiente →
+            </a>
+          )}
+        </div>
+      </div>
+    </nav>
+
+    <!-- Title -->
+    <section class="title-section py-12">
+      <div class="container max-w-4xl mx-auto px-4 text-center">
+        <h1 class="text-3xl md:text-4xl font-bold font-serif mb-4">
+          {capitulo.chapter_title || capitulo.name}
+        </h1>
+        {libro && (
+          <p class="text-gray-600">
+            {libro.title} - Capítulo {capitulo.chapter_id}
+          </p>
+        )}
+      </div>
+    </section>
+
+    <!-- Chapter Image -->
+    {capitulo.image && (
+      <section class="chapter-image py-4">
+        <div class="container max-w-4xl mx-auto px-4">
+          <img
+            src={getAssetUrl(capitulo.image)}
+            alt={capitulo.image_alt || capitulo.chapter_title}
+            class="w-full rounded-lg shadow-lg"
+          />
+        </div>
+      </section>
+    )}
+
+    <!-- Content -->
+    {capitulo.content && (
+      <section class="content py-8">
+        <div class="container max-w-4xl mx-auto px-4">
+          <div class="prose prose-lg max-w-none font-serif" set:html={capitulo.content} />
+        </div>
+      </section>
+    )}
+
+    <!-- Explanation -->
+    {capitulo.explanation && (
+      <section class="explanation py-12 bg-gray-50">
+        <div class="container max-w-4xl mx-auto px-4">
+          <h2 class="text-2xl font-bold mb-6">Explicación</h2>
+          <div class="prose prose-lg max-w-none" set:html={capitulo.explanation} />
+        </div>
+      </section>
+    )}
+
+    <!-- Navigation Footer -->
+    <section class="navigation-footer py-8 border-t">
+      <div class="container max-w-4xl mx-auto px-4 flex justify-between items-center">
+        {prevChapter ? (
+          <a href={`/capitulos/${prevChapter.slug}`} class="flex items-center text-primary-600 hover:underline">
+            <span class="mr-2">←</span>
+            <div>
+              <div class="text-sm text-gray-500">Anterior</div>
+              <div class="font-medium">{prevChapter.chapter_title || `Capítulo ${prevChapter.chapter_id}`}</div>
+            </div>
+          </a>
+        ) : <div />}
+
+        {libro && (
+          <a href={`/libro/${libro.slug}`} class="text-center text-gray-600 hover:text-primary-600">
+            Ver todos los capítulos
+          </a>
+        )}
+
+        {nextChapter ? (
+          <a href={`/capitulos/${nextChapter.slug}`} class="flex items-center text-right text-primary-600 hover:underline">
+            <div>
+              <div class="text-sm text-gray-500">Siguiente</div>
+              <div class="font-medium">{nextChapter.chapter_title || `Capítulo ${nextChapter.chapter_id}`}</div>
+            </div>
+            <span class="ml-2">→</span>
+          </a>
+        ) : <div />}
+      </div>
+    </section>
+  </article>
+
+  <!-- JSON-LD -->
+  {capitulo.json_ld && (
+    <script type="application/ld+json" set:html={JSON.stringify(capitulo.json_ld)} />
+  )}
+</BaseLayout>

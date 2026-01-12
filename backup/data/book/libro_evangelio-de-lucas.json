@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/evangelio-de-lucas",
+    "title": "Evangelio de Lucas",
+    "description": "El Evangelio de Lucas revela el amor y la compasión de Jesús hacia los marginados, destacando la oración y la obra del Espíritu Santo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Evangelio de Lucas",
+    "canonical": "https://www.labibliaexplicada.com/libro/evangelio-de-lucas"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Evangelio de Lucas",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/lucas-1-dedicatoria-a-teofilo",
+        "text": "Dedicatoria a Teófilo"
+      },
+      {
+        "href": "/capitulos/lucas-2-nacimiento-de-jesus",
+        "text": "Nacimiento de Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-3-predicacion-de-juan-el-bautista",
+        "text": "Predicación de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/lucas-4-tentacion-de-jesus",
+        "text": "Tentación de Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-5-la-pesca-milagrosa",
+        "text": "La pesca milagrosa"
+      },
+      {
+        "href": "/capitulos/lucas-6-los-discipulos-recogen-espigas-en-el-dia-de-reposo",
+        "text": "Los discípulos recogen espigas en el día de reposo"
+      },
+      {
+        "href": "/capitulos/lucas-7-jesus-sana-al-siervo-de-un-centurion",
+        "text": "Jesús sana al siervo de un centurión"
+      },
+      {
+        "href": "/capitulos/lucas-8-mujeres-que-sirven-a-jesus",
+        "text": "Mujeres que sirven a Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-9-mision-de-los-doce-discipulos",
+        "text": "Misión de los doce discípulos"
+      },
+      {
+        "href": "/capitulos/lucas-10-mision-de-los-setenta",
+        "text": "Misión de los setenta"
+      },
+      {
+        "href": "/capitulos/lucas-11-jesus-y-la-oracion",
+        "text": "Jesús y la oración"
+      },
+      {
+        "href": "/capitulos/lucas-12-la-levadura-de-los-fariseos",
+        "text": "La levadura de los fariseos"
+      },
+      {
+        "href": "/capitulos/lucas-13-arrepentios-o-perecereis",
+        "text": "Arrepentíos o pereceréis"
+      },
+      {
+        "href": "/capitulos/lucas-14-jesus-sana-a-un-hidropico",
+        "text": "Jesús sana a un hidrópico"
+      },
+      {
+        "href": "/capitulos/lucas-15-parabola-de-la-oveja-perdida",
+        "text": "Parábola de la oveja perdida"
+      },
+      {
+        "href": "/capitulos/lucas-16-parabola-del-mayordomo-infiel",
+        "text": "Parábola del mayordomo infiel"
+      },
+      {
+        "href": "/capitulos/lucas-17-ocasiones-de-caer",
+        "text": "ocasiones de caer"
+      },
+      {
+        "href": "/capitulos/lucas-18-parabola-de-la-viuda-y-el-juez-injusto",
+        "text": "Parábola de la viuda y el juez injusto"
+      },
+      {
+        "href": "/capitulos/lucas-19-jesus-y-zaqueo",
+        "text": "Jesús y Zaqueo"
+      },
+      {
+        "href": "/capitulos/lucas-20-la-autoridad-de-jesus",
+        "text": "La autoridad de Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-21-la-ofrenda-de-la-viuda",
+        "text": "La ofrenda de la viuda"
+      },
+      {
+        "href": "/capitulos/lucas-22-el-complot-para-matar-a-jesus",
+        "text": "El complot para matar a Jesús"
+      },
+      {
+        "href": "/capitulos/lucas-23-jesus-ante-pilato",
+        "text": "Jesús ante Pilato"
+      },
+      {
+        "href": "/capitulos/lucas-24-la-resurreccion",
+        "text": "La resurrección"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosEvangelio de LucasLa BibliaEvangelio de LucasCapítulos del libroDedicatoria a TeófiloNacimiento de JesúsPredicación de Juan el BautistaTentación de JesúsLa pesca milagrosaLos discípulos recogen espigas en el día de reposoJesús sana al siervo de un centuriónMujeres que sirven a JesúsMisión de los doce discípulosMisión de los setentaJesús y la oraciónLa levadura de los fariseosArrepentíos o pereceréisJesús sana a un hidrópicoParábola de la oveja perdidaParábola del mayordomo infielocasiones de caerParábola de la viuda y el juez injustoJesús y ZaqueoLa autoridad de JesúsLa ofrenda de la viudaEl complot para matar a JesúsJesús ante PilatoLa resurrecciónEl Evangelio de Lucas nos ofrece una visión llena de ternura y detalle sobre la vida de Jesús, desde su humilde nacimiento hasta su ascensión gloriosa. Es un relato que toca el corazón, especialmente por su enfoque en los más marginados: las mujeres, los pobres y aquellos que muchas veces son olvidados por la sociedad. Lucas, siendo médico, parece tener un cuidado especial en la forma en que narra las curaciones y milagros de Jesús, recordándonos que Cristo siempre estuvo cerca de los enfermos y afligidos, brindándoles esperanza y sanación.Este evangelio también nos invita a reflexionar sobre el poder de la oración, pues más que en ningún otro relato, vemos a Jesús en diálogo constante con su Padre. Nos recuerda que, en medio de las pruebas y las decisiones importantes, la oración es ese espacio donde encontramos dirección y paz.Otro aspecto notable de Lucas es su atención a la obra del Espíritu Santo, desde el inicio del ministerio de Jesús hasta el impulso que da a la misión de la Iglesia. El Espíritu Santo está siempre presente, guiando, fortaleciendo y alentando a los creyentes.Uno de los relatos más conmovedores que solo encontramos en este evangelio es la Parábola del Buen Samaritano. Aquí, Jesús nos muestra que el amor no tiene fronteras. Nos invita a ver a cada ser humano como nuestro prójimo, especialmente a aquellos que más lo necesitan.Finalmente, Lucas nos deja con la imagen poderosa de la ascensión de Jesús, un recordatorio de que su obra continúa a través de nosotros, sus seguidores. Este evangelio no es solo una historia del pasado, sino una invitación viva a participar en el reino de Dios hoy, llevando su mensaje de salvación hasta los confines de la tierra.Cada página de este evangelio es un testimonio del amor inclusivo de Dios, que alcanza a todos, sin importar su condición o procedencia. Como lectores, nos invita a ser parte de esta historia, viviendo una fe que transforma vidas y corazones.ANTERIOREvangelio de MarcosSIGUIENTEEvangelio de JuanGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de LucasHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegunda epístola de PedroPrimera epístola de JuanSegunda epístola de JuanTercera epístola de JuanEpístola de JudasApocalipsisMas LIBROsApocalipsisEpístola de JudasTercera epístola de JuanSegunda epístola de JuanPrimera epístola de JuanSegunda epístola de PedroPrimera epístola de PedroEpístola de SantiagoEpístola a los hebreosEpístola a FilemónEpístola a TitoSegunda epístola a TimoteoPrimera epístola a TimoteoSegunda epístola a los tesalonicensesPrimera epístola a los tesalonicensesEpístola a los colosensesEpístola a los filipensesEpístola a los efesiosEpístola a los gálatasSegunda epístola a los corintiosPrimera epístola a los corintiosEpístola a los romanosHechos de los ApóstolesEvangelio de JuanEvangelio de LucasEvangelio de MarcosEvangelio de MateoLibro de MalaquíasLibro de ZacaríasLibro de HageoLibro de SofoníasLibro de HabacucLibro de NahumLibro de MiqueasLibro de JonásLibro de AbdíasLibro de AmósLibro de JoelLibro de OseasLibro de DanielLibro de EzequielLibro de las LamentacionesLibro de JeremíasLibro de IsaíasLibro del EclesiastésProverbiosLibro de los SalmosLibro de JobLibro de EsterLibro de NehemíasLibro de EsdrasII CrónicasI CrónicasII ReyesI ReyesII SamuelI SamuelLibro de los JuecesLibro de JosuéDeuteronomioLibro de los NúmerosLevíticoÉxodoCantar de los CantaresGénesisLibro d"
+}

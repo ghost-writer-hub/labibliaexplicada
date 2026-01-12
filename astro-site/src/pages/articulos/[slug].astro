@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { directus, getArticulo, getAssetUrl, type Autor, type Categoria } from '../../lib/directus';
+import { readItems } from '@directus/sdk';
+
+export async function getStaticPaths() {
+  const articulos = await directus.request(readItems('articulos', { fields: ['slug'] }));
+  return articulos.map((articulo) => ({
+    params: { slug: articulo.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const articulo = await getArticulo(slug);
+
+if (!articulo) {
+  return Astro.redirect('/404');
+}
+
+const author = articulo.author as Autor | undefined;
+const category = articulo.category as Categoria | undefined;
+---
+
+<BaseLayout
+  title={`${articulo.title} - La Biblia Explicada`}
+  description={articulo.intro_text}
+  image={articulo.header_image ? getAssetUrl(articulo.header_image) : undefined}
+>
+  <article class="articulo-detail">
+    <!-- Title Section -->
+    <section class="title-section py-16 bg-gradient-to-b from-gray-50 to-white">
+      <div class="container max-w-4xl mx-auto px-4 text-center">
+        {category && (
+          <a href={`/categoria/${category.slug}`} class="text-sm text-primary-600 font-medium mb-4 inline-block">
+            {category.name}
+          </a>
+        )}
+        <h1 class="text-3xl md:text-4xl font-bold font-serif mb-6">{articulo.title}</h1>
+        {author && (
+          <div class="flex items-center justify-center">
+            <a href={`/autores/${author.slug}`} class="text-gray-600 hover:text-primary-600">
+              Por {author.name}
+            </a>
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- Header Image -->
+    {articulo.header_image && (
+      <section class="header-image py-4">
+        <div class="container max-w-4xl mx-auto px-4">
+          <img
+            src={getAssetUrl(articulo.header_image)}
+            alt={articulo.title}
+            class="w-full rounded-lg shadow-lg"
+          />
+        </div>
+      </section>
+    )}
+
+    <!-- Content -->
+    <section class="content py-12">
+      <div class="container max-w-4xl mx-auto px-4">
+        {articulo.intro_text && (
+          <p class="text-xl text-gray-600 mb-8 font-serif italic">
+            {articulo.intro_text}
+          </p>
+        )}
+        {articulo.content && (
+          <div class="prose prose-lg max-w-none" set:html={articulo.content} />
+        )}
+      </div>
+    </section>
+
+    <!-- Author Bio -->
+    {author && (
+      <section class="author-section py-12 bg-gray-50">
+        <div class="container max-w-4xl mx-auto px-4">
+          <div class="flex items-start space-x-4">
+            {author.image && (
+              <img
+                src={getAssetUrl(author.image)}
+                alt={author.name}
+                class="w-16 h-16 rounded-full object-cover"
+              />
+            )}
+            <div>
+              <h3 class="font-bold">Sobre el autor</h3>
+              <a href={`/autores/${author.slug}`} class="text-primary-600 hover:underline">
+                {author.name}
+              </a>
+              {author.bio && <p class="text-gray-600 mt-2">{author.bio}</p>}
+            </div>
+          </div>
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>

@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/autores/esther",
+    "title": "La biblia explicada",
+    "description": "",
+    "ogImage": "",
+    "ogTitle": "",
+    "canonical": "https://www.labibliaexplicada.com/autores/esther"
+  },
+  "templateType": "author",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c968fd3553b0da9d5a9cbd_Charlie%20Kirk.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c948c65c3576e2b498d5b7_Evidencia%20arqueolo%CC%81gica%20del%20legado%20de%20Babel%20%20.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c947fe455a91bb51c0353b_Contexto%20judi%CC%81o%20de%20los%20milagros%20de%20Jesu%CC%81s.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c946b97a747d8be567cdbc_Gui%CC%81a%20completa%20para%20leer%20y%20entender%20el%20libro%20de%20los%20Salmos.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c9431db773caa68b5a9ae5_Co%CC%81mo%20la%20Ropa%20Simple%20Refleja%20Humildad%20en%20la%20Biblia.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c94210593e6a1f0307ec2a_Por%20que%CC%81%20Jesu%CC%81s%20limpio%CC%81%20el%20templo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c9403136b6c6570f575725_Moise%CC%81s%20como%20mediador%20en%20el%20Sinai%CC%81.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c93dbc04689570e249c795_Principios%20Bi%CC%81blicos%20de%20Justicia%20y%20Liberacio%CC%81n.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c93b4a8def6ff3da9564a4_Jesu%CC%81s%20y%20los%20saduceos-%20Debate%20sobre%20la%20resurreccio%CC%81n.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c93642dd12b13380ff2231_Co%CC%81mo%20los%2010%20Mandamientos%20Reflejan%20el%20Pacto%20en%20el%20Sinai%CC%81.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68246df72b68fa661df87e7e_justicia-economica-en-la-biblia-principios-clave.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68246ce586f7d8ea826d6d1a_exodo-y-liberacion-de-la-esclavitud.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68246c0cfb1a840a25dc4dbd_importancia-del-contexto-literario-en-la-biblia.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/682339680915eb425e66e184_que-significa-ser-creado-a-imagen-de-dios.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68233862ab1f3c5d259ba9f4_el-significado-del-borde-del-manto-de-jesus.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6823371915765002fa0697ac_parabolas-de-jesus-vs-historias-biblicas-comparacion.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/682333726e9faeafcefa939a_12-profetas-menores-resumen-y-mensajes-principales.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/682330a3bdf6ba53b3da8d7c_los-10-mandamientos-significado-y-aplicacion-actual.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68232f195b82a3b938d3f13e_5-pasos-para-entender-el-libro-de-apocalipsis.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68224acca68352dc4024fa16_quien-era-maria-magdalena-historia-y-verdades-biblicas.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6822485160aac20ca0410c10_guia-basica-como-interpretar-los-salmos-correctamente.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68224bb592e6f62fb55dfdb1_7-mujeres-poderosas-del-antiguo-testamento-sus-historias-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745e0bdd8ff0a9dc20192bb_Eli%CC%81as%20y%20el%20fuego%20del%20cielo%20en%20el%20monte%20Carmelo.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745df74ed8f5bcb455d8c93_Los%20disci%CC%81pulos%20en%20el%20camino%20a%20Emau%CC%81s.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745de5a43a9fb5355588b61_El%20juicio%20de%20Salomo%CC%81n%20y%20la%20verdadera%20madre.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745dd619be47a18627a39e1_El%20suen%CC%83o%20de%20Jacob%20y%20la%20escalera%20al%20cielo.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745dc685de95bed6b7b2a86_%20La%20viuda%20de%20Sarepta%20y%20el%20aceite%20que%20no%20se%20agoto%CC%81.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745db40cb5baa384cd81100_%20Naama%CC%81n%20y%20el%20ri%CC%81o%20Jorda%CC%81n%20sanidad%20a%20trave%CC%81s%20de%20la%20humildad.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9d2b6a0361b353521cf_La%20cai%CC%81da%20de%20los%20muros%20de%20Jerico%CC%81.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9be185f784b932eb7b3_Jonas%20y%20el%20gran%20pez%202.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9a781e71189d36e7895_Ester%2C%20la%20reina%20que%20salvo%CC%81%20a%20su%20pueblo.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9956f45e857c6b4166c_Gideon%20y%20sus%20300%20valientes.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67067c6d7314c0aaa85b3be6_Ezequiel%20y%20el%20Valle%20de%20los%20Huesos%20Secos.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67067b24cf5f9ed98e94487e_Melquisedec%2C%20el%20Misterioso%20Rey%20y%20Sacerdote.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670679b88a70af435d0a6c54_Los%20Tres%20Jo%CC%81venes%20en%20el%20Horno%20de%20Fuego%20Ardiente.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67067818e0c62ae9e627c187_Oseas%20y%20su%20Amor%20Inquebrantable%20por%20Gomer.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6706764b9f734efdfd369ee6_La%20Misericordia%20de%20David%20hacia%20Mefiboset.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6706748d4a3ca607c0a1a8a9_El%20Di%CC%81a%20en%20que%20el%20Sol%20se%20Detuvo%20en%20Gabao%CC%81n.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670670b54a3ca607c09e7ec0_Eliseo%20y%20el%20Hacha%20Flotante.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67061f7c366fbbc084e8ca2f_Balaam%20y%20el%20Asna%20que%20Hablo.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67026bca8647f3b8c71ae858_Debora%20liberando%20a%20Israel.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670266d3fbcd7916646bcc45_Ehud%20el%20juez%20zurdo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670246aa652606eceaa12b37_gilgamesh.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66eed146511b32da09078558_ascension.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66cc37c6e520d320590086f5_image-14.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {},
+  "cleanText": "ConceptosLibrosNosotrosPosts ByEstherArticulosContinúa la búsqueda del sospechoso del asesinato de Charlie KirkByEstherArticulosEvidencia arqueológica del legado de BabelByEstherArticulosContexto judío de los milagros de JesúsByEstherArticulosGuía completa para leer y entender el libro de los SalmosByEstherArticulosCómo la Ropa Simple Refleja Humildad en la BibliaByEstherArticulos¿Por qué Jesús limpió el templo?ByEstherArticulosMoisés como mediador en el SinaíByEstherArticulosDescubre los principios bíblicos de justicia y liberación, centrados en cuidar a los vulnerables y renovar las relaciones sociales.ByEstherArticulosJesús y los saduceos: Debate sobre la resurrecciónByEstherArticulosCómo los 10 Mandamientos Reflejan el Pacto en el SinaíByEstherArticulosJusticia económica en la Biblia: Principios claveByEstherArticulosExodo y Liberación de la EsclavitudByEstherArticulosImportancia del Contexto Literario en la BibliaByEstherArticulos¿Qué Significa Ser Creado a Imagen de Dios?ByEstherArticulosEl Significado del Borde del Manto de JesúsByEstherArticulosParábolas de Jesús vs Historias Bíblicas: ComparaciónByEstherArticulos12 Profetas Menores: Resumen y Mensajes PrincipalesByEstherArticulosLos 10 Mandamientos: Significado y Aplicación ActualByEstherArticulos5 Pasos para Entender el Libro de ApocalipsisByEstherArticulos¿Quién Era María Magdalena? Historia y Verdades BíblicasByEstherArticulosGuía Básica: Cómo Interpretar los Salmos CorrectamenteByEstherCuriosidades y conceptos7 Mujeres Poderosas del Antiguo Testamento: Sus HistoriasByEstherReflexiones sobre La BibliaElías y el fuego del cielo en el monte CarmeloByEstherReflexiones sobre La BibliaLos discípulos en el camino a EmaúsByEstherReflexiones sobre La BibliaEl juicio de Salomón y la verdadera madreByEstherReflexiones sobre La BibliaEl sueño de Jacob y la escalera al cieloByEstherReflexiones sobre La Biblia La viuda de Sarepta y el aceite que no se agotóByEstherReflexiones sobre La Biblia Naamán y el río Jordán: sanidad a través de la humildadByEstherReflexiones sobre La BibliaLa caída de los muros de JericóByEstherReflexiones sobre La BibliaJonás y el gran pez: una lección de obedienciaByEstherReflexiones sobre La BibliaEster, la reina que salvó a su puebloByEstherReflexiones sobre La BibliaGideón y los 300 valientes que derrotaron a un ejércitoByEstherReflexiones sobre La BibliaEzequiel y el Valle de los Huesos SecosByEstherReflexiones sobre La BibliaMelquisedec, el Misterioso Rey y SacerdoteByEstherReflexiones sobre La BibliaLos Tres Jóvenes en el Horno de Fuego ArdienteByEstherReflexiones sobre La BibliaOseas y su Amor Inquebrantable por GomerByEstherReflexiones sobre La BibliaLa Misericordia de David hacia MefibosetByEstherReflexiones sobre La BibliaEl Día en que el Sol se Detuvo en GabaónByEstherReflexiones sobre La BibliaEl Milagro del Hacha Flotante de EliseoByEstherReflexiones sobre La BibliaBalaam y el Asna que HablóByEstherReflexiones sobre La BibliaDébora, la mujer que lideró a Israel a la victoriaByEstherArticulosEl poder del zurdoByEstherCuriosidades y conceptosGilgamesh: la búsqueda de un propósitoByEstherReflexiones sobre La BibliaReflejos eternos de la condición humana en la cultura popByEstherReflexiones sobre La BibliaEl Tiempo: De la Divina Providencia a la Tiranía de las MáquinasByEsther2025 LA biblia explicadaCategoryArticulosCuriosidades y conceptosReflexiones sobre La BibliaCATEGORIASArticulosCuriosidades y conceptosReflexiones sobre La Biblia"
+}

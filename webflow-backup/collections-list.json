@@ -1,0 +1,84 @@
+{
+  "collections": [
+    {
+      "id": "66cc37c6e520d3205900867c",
+      "displayName": "Articulos",
+      "singularName": "Articulo",
+      "slug": "articulos",
+      "createdOn": "2018-07-12T10:07:40.370Z",
+      "lastUpdated": "2025-07-13T06:34:01.773Z"
+    },
+    {
+      "id": "66cc37c6e520d3205900867d",
+      "displayName": "Autores",
+      "singularName": "Autor",
+      "slug": "autores",
+      "createdOn": "2018-07-12T10:21:50.175Z",
+      "lastUpdated": "2025-07-13T06:34:01.774Z"
+    },
+    {
+      "id": "66cc37c6e520d3205900867e",
+      "displayName": "Categorias",
+      "singularName": "Categoria",
+      "slug": "categoria",
+      "createdOn": "2018-08-24T10:38:49.457Z",
+      "lastUpdated": "2025-07-13T06:34:01.777Z"
+    },
+    {
+      "id": "66cc37c6e520d3205900867f",
+      "displayName": "Libros",
+      "singularName": "Libro",
+      "slug": "libro",
+      "createdOn": "2018-08-24T16:47:17.154Z",
+      "lastUpdated": "2025-07-13T06:34:01.754Z"
+    },
+    {
+      "id": "66ccc84472a28233d62fb2c1",
+      "displayName": "Oraciones",
+      "singularName": "Oracione",
+      "slug": "oraciones",
+      "createdOn": "2024-08-26T18:24:04.917Z",
+      "lastUpdated": "2025-07-13T06:34:01.776Z"
+    },
+    {
+      "id": "66cdf39c5ffa665d1adfec09",
+      "displayName": "Capitulos",
+      "singularName": "Capitulo",
+      "slug": "capitulos",
+      "createdOn": "2024-08-27T15:41:16.926Z",
+      "lastUpdated": "2025-07-13T06:34:01.780Z"
+    },
+    {
+      "id": "66f19fd593623cfa6563b8a6",
+      "displayName": "Etiquetas",
+      "singularName": "Etiqueta",
+      "slug": "etiquetas",
+      "createdOn": "2024-09-23T17:05:25.309Z",
+      "lastUpdated": "2025-07-13T06:34:01.782Z"
+    },
+    {
+      "id": "6702470515ea5801d546a781",
+      "displayName": "Personajes",
+      "singularName": "Personaje",
+      "slug": "personajes",
+      "createdOn": "2024-10-06T08:15:01.141Z",
+      "lastUpdated": "2025-07-13T06:34:01.779Z"
+    },
+    {
+      "id": "6702ada46b703da05394cd76",
+      "displayName": "TESTs",
+      "singularName": "TEST",
+      "slug": "test",
+      "createdOn": "2024-10-06T15:32:52.208Z",
+      "lastUpdated": "2025-07-13T06:34:01.785Z"
+    },
+    {
+      "id": "6702b80e6cbbdd837f8ed960",
+      "displayName": "Conceptos",
+      "singularName": "Concepto",
+      "slug": "conceptos",
+      "createdOn": "2024-10-06T16:17:18.451Z",
+      "lastUpdated": "2025-07-13T06:34:01.783Z"
+    }
+  ]
+}

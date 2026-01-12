@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/proverbios",
+    "title": "Proverbios",
+    "description": "El Libro de Proverbios nos ofrece sabiduría práctica para vivir con integridad, guiados por el temor reverente a Dios.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Proverbios",
+    "canonical": "https://www.labibliaexplicada.com/libro/proverbios"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Proverbios",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/proverbios-1-motivo-de-los-proverbios",
+        "text": "Motivo de los proverbios"
+      },
+      {
+        "href": "/capitulos/proverbios-2-excelencia-de-la-sabiduria",
+        "text": "Excelencia de la sabiduría"
+      },
+      {
+        "href": "/capitulos/proverbios-3-exhortacion-a-la-obediencia",
+        "text": "Exhortación a la obediencia"
+      },
+      {
+        "href": "/capitulos/proverbios-4-beneficios-de-la-sabiduria",
+        "text": "Beneficios de la sabiduría"
+      },
+      {
+        "href": "/capitulos/proverbios-5-amonestacion-contra-la-impureza",
+        "text": "Amonestación contra la impureza"
+      },
+      {
+        "href": "/capitulos/proverbios-6-amonestacion-contra-la-pereza-y-la-falsedad",
+        "text": "Amonestación contra la pereza y la falsedad"
+      },
+      {
+        "href": "/capitulos/proverbios-7-las-artimanas-de-la-ramera",
+        "text": "Las artimañas de la ramera"
+      },
+      {
+        "href": "/capitulos/proverbios-8-excelencia-y-eternidad-de-la-sabiduria",
+        "text": "Excelencia y eternidad de la sabiduría"
+      },
+      {
+        "href": "/capitulos/proverbios-9-la-sabiduria-y-la-mujer-insensata",
+        "text": "La sabiduría y la mujer insensata"
+      },
+      {
+        "href": "/capitulos/proverbios-10-contraste-entre-el-justo-y-el-malvado",
+        "text": "Contraste entre el justo y el malvado"
+      },
+      {
+        "href": "/capitulos/proverbios-11",
+        "text": "Proverbios 11"
+      },
+      {
+        "href": "/capitulos/proverbios-12",
+        "text": "Proverbios 12"
+      },
+      {
+        "href": "/capitulos/proverbios-13",
+        "text": "Proverbios 13"
+      },
+      {
+        "href": "/capitulos/proverbios-14",
+        "text": "Proverbios 14"
+      },
+      {
+        "href": "/capitulos/proverbios-15",
+        "text": "Proverbios 15"
+      },
+      {
+        "href": "/capitulos/proverbios-16-proverbios-sobre-la-vida-y-la-conducta",
+        "text": "Proverbios sobre la vida y la conducta"
+      },
+      {
+        "href": "/capitulos/proverbios-17",
+        "text": "Proverbios 17"
+      },
+      {
+        "href": "/capitulos/proverbios-18",
+        "text": "Proverbios 18"
+      },
+      {
+        "href": "/capitulos/proverbios-19",
+        "text": "Proverbios 19"
+      },
+      {
+        "href": "/capitulos/proverbios-20",
+        "text": "Proverbios 20"
+      },
+      {
+        "href": "/capitulos/proverbios-21",
+        "text": "Proverbios 21"
+      },
+      {
+        "href": "/capitulos/proverbios-22-preceptos-y-amonestaciones",
+        "text": "Preceptos y amonestaciones"
+      },
+      {
+        "href": "/capitulos/proverbios-23",
+        "text": "Proverbios 23"
+      },
+      {
+        "href": "/capitulos/proverbios-24",
+        "text": "Proverbios 24"
+      },
+      {
+        "href": "/capitulos/proverbios-25-comparaciones-y-lecciones-morales",
+        "text": "Comparaciones y lecciones morales"
+      },
+      {
+        "href": "/capitulos/proverbios-26",
+        "text": "Proverbios 26"
+      },
+      {
+        "href": "/capitulos/proverbios-27",
+        "text": "Proverbios 27"
+      },
+      {
+        "href": "/capitulos/proverbios-28",
+        "text": "Proverbios 28"
+      },
+      {
+        "href": "/capitulos/proverbios-29",
+        "text": "Proverbios 29"
+      },
+      {
+        "href": "/capitulos/proverbios-30-las-palabras-de-agur",
+        "text": "Las palabras de Agur"
+      },
+      {
+        "href": "/capitulos/proverbios-31-exhortacion-a-un-rey",
+        "text": "Exhortación a un rey"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosProverbiosLa BibliaProverbiosCapítulos del libroMotivo de los proverbiosExcelencia de la sabiduríaExhortación a la obedienciaBeneficios de la sabiduríaAmonestación contra la impurezaAmonestación contra la pereza y la falsedadLas artimañas de la rameraExcelencia y eternidad de la sabiduríaLa sabiduría y la mujer insensataContraste entre el justo y el malvadoProverbios 11Proverbios 12Proverbios 13Proverbios 14Proverbios 15Proverbios sobre la vida y la conductaProverbios 17Proverbios 18Proverbios 19Proverbios 20Proverbios 21Preceptos y amonestacionesProverbios 23Proverbios 24Comparaciones y lecciones moralesProverbios 26Proverbios 27Proverbios 28Proverbios 29Las palabras de AgurExhortación a un reyEl Libro de Proverbios es como una ventana abierta a la sabiduría divina, ofreciéndonos consejos prácticos para la vida diaria. Aunque muchos lo conocen como “los proverbios de Salomón”, lo cierto es que este libro es una recopilación de enseñanzas de distintos autores, como un legado que ha pasado de generación en generación. Aquí encontramos a Salomón, pero también a otros como Agur y Lemuel, cada uno con su perspectiva sobre lo que significa vivir de acuerdo con los caminos de Dios.Es fascinante cómo la sabiduría en este libro toma la forma de una mujer que llama en las calles, invitándonos a seguir sus consejos. ¡Qué imagen tan hermosa! Nos recuerda que la sabiduría está a nuestro alcance, si tan solo nos detenemos a escuchar. Y esta sabiduría no se limita a los grandes momentos de la vida, sino que también nos habla de lo cotidiano: cómo trabajar, cómo tratar a los demás, cómo ser justos.Lo que quizás muchos no sepan es que Proverbios también refleja el contacto de Israel con otras culturas, como Egipto. Hay similitudes entre algunos proverbios y antiguos textos egipcios, lo que muestra que la sabiduría es universal, aunque en la Biblia, siempre comienza con una relación reverente hacia Dios.El temor de Dios es el pilar de todo lo que el Libro de Proverbios nos enseña. Es el punto de partida, el fundamento que nos ayuda a entender el valor de las decisiones que tomamos cada día. Sin ese respeto profundo hacia Dios, dice Proverbios, no puede haber verdadera sabiduría. Y es que este libro, lleno de consejos prácticos, no solo se trata de enseñarnos a ser más inteligentes o exitosos, sino a vivir de manera que refleje el corazón de Dios en nuestras acciones cotidianas.En un mundo lleno de distracciones, el Libro de Proverbios nos invita a caminar por el sendero de la justicia, la rectitud y la integridad. Estos principios no solo transforman nuestra vida, sino también nuestras relaciones con los demás. Desde los jóvenes hasta los ancianos, todos encontramos aquí palabras que nos hablan al alma, recordándonos que la verdadera sabiduría siempre está entrelazada con el amor y la justicia divina.Es un libro profundamente humano y divino a la vez, que sigue resonando en nuestros corazones, enseñándonos a vivir con propósito y, sobre todo, con amor.ANTERIORLibro de los SalmosSIGUIENTELibro del EclesiastésGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobProverbiosCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegunda epístola de PedroPrimera epístola de JuanSegunda epístola de JuanTercera epístola de JuanEpístola de JudasApocalipsisMas LIBROsApocalipsisEpístola de JudasTercera epístola de JuanSegunda epístola de JuanPrimera epístola de JuanSegunda epístola de PedroPrimera epístola de PedroEpístola de SantiagoEpístola a los hebreosEpístola a FilemónEpístola a TitoSegunda epístola a TimoteoPrimera epístola a TimoteoSegunda epístola a los tesalonicensesPrimera epístola a los tesalonicensesEpístola a los colosensesEpístola a los filipensesEpístola a los efesiosEpístola a los gálatasSegunda epístola a los corintiosPrimera epístola a los corintiosEpístola a los romanosHechos de los ApóstolesEvangelio de JuanEvangelio de LucasEvangelio de MarcosEvangelio de MateoLibro de MalaquíasLibro de ZacaríasLibro de HageoLibro de SofoníasLibro de HabacucLibro de NahumLibro de MiqueasLibro de JonásLibro de AbdíasLibro de AmósLibr"
+}

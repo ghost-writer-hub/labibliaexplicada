@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/exodo",
+    "title": "Éxodo",
+    "description": "El libro de Éxodo relata la liberación del pueblo de Israel de la esclavitud en Egipto y su viaje hacia la tierra prometida bajo la guía de Moisés.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66e6b0b4ffd21b1f31f994c0_exodo-biblia-moises-cruzando-mar-rojo_777271-4714.avif",
+    "ogTitle": "Éxodo",
+    "canonical": "https://www.labibliaexplicada.com/libro/exodo"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Éxodo",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/exodo-1-afliccion-de-los-israelitas-en-egipto",
+        "text": "Aflicción de los israelitas en Egipto"
+      },
+      {
+        "href": "/capitulos/exodo-2-nacimiento-de-moises",
+        "text": "Nacimiento de Moisés"
+      },
+      {
+        "href": "/capitulos/exodo-3-llamamiento-de-moises",
+        "text": "Llamamiento de Moisés"
+      },
+      {
+        "href": "/capitulos/exodo-4-moises-vuelve-a-egipto",
+        "text": "Moisés vuelve a Egipto"
+      },
+      {
+        "href": "/capitulos/exodo-5-moises-y-aaron-ante-faraon",
+        "text": "Moisés y Aarón ante Faraón"
+      },
+      {
+        "href": "/capitulos/exodo-6",
+        "text": "Éxodo 6"
+      },
+      {
+        "href": "/capitulos/exodo-7-la-vara-de-aaron",
+        "text": "La vara de Aarón"
+      },
+      {
+        "href": "/capitulos/exodo-8-la-plaga-de-ranas",
+        "text": "La plaga de ranas"
+      },
+      {
+        "href": "/capitulos/exodo-9-la-plaga-en-el-ganado",
+        "text": "La plaga en el ganado"
+      },
+      {
+        "href": "/capitulos/exodo-10-la-plaga-de-langostas",
+        "text": "La plaga de langostas"
+      },
+      {
+        "href": "/capitulos/exodo-11-anunciada-la-muerte-de-los-primogenitos",
+        "text": "Anunciada la muerte de los primogénitos"
+      },
+      {
+        "href": "/capitulos/exodo-12-la-pascua",
+        "text": "La Pascua"
+      },
+      {
+        "href": "/capitulos/exodo-13-consagracion-de-los-primogenitos",
+        "text": "Consagración de los primogénitos"
+      },
+      {
+        "href": "/capitulos/exodo-14-los-israelitas-cruzan-el-mar-rojo",
+        "text": "Los israelitas cruzan el Mar Rojo"
+      },
+      {
+        "href": "/capitulos/exodo-15-cantico-de-moises-y-de-maria",
+        "text": "Cántico de Moisés y de María"
+      },
+      {
+        "href": "/capitulos/exodo-16-dios-da-el-mana",
+        "text": "Dios da el maná"
+      },
+      {
+        "href": "/capitulos/exodo-17-agua-de-la-roca",
+        "text": "Agua de la roca"
+      },
+      {
+        "href": "/capitulos/exodo-18-jetro-visita-a-moises",
+        "text": "Jetro visita a Moisés"
+      },
+      {
+        "href": "/capitulos/exodo-19-israel-en-sinai",
+        "text": "Israel en Sinaí"
+      },
+      {
+        "href": "/capitulos/exodo-20-los-diez-mandamientos",
+        "text": "Los Diez Mandamientos"
+      },
+      {
+        "href": "/capitulos/exodo-21-leyes-sobre-los-esclavos",
+        "text": "Leyes sobre los esclavos"
+      },
+      {
+        "href": "/capitulos/exodo-22-leyes-sobre-la-restitucion",
+        "text": "Leyes sobre la restitución"
+      },
+      {
+        "href": "/capitulos/exodo-23-las-tres-fiestas-anuales",
+        "text": "Las tres fiestas anuales"
+      },
+      {
+        "href": "/capitulos/exodo-24-moises-y-los-ancianos-en-el-monte-sinai",
+        "text": "Moisés y los ancianos en el Monte Sinaí"
+      },
+      {
+        "href": "/capitulos/exodo-25-la-ofrenda-para-el-tabernaculo",
+        "text": "La ofrenda para el tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-26-el-tabernaculo",
+        "text": "El tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-27-el-altar-de-bronce",
+        "text": "El altar de bronce"
+      },
+      {
+        "href": "/capitulos/exodo-28-las-vestiduras-de-los-sacerdotes",
+        "text": "Las vestiduras de los sacerdotes"
+      },
+      {
+        "href": "/capitulos/exodo-29-consagracion-de-aaron-y-de-sus-hijos",
+        "text": "Consagración de Aarón y de sus hijos"
+      },
+      {
+        "href": "/capitulos/exodo-30-el-altar-del-incienso",
+        "text": "El altar del incienso"
+      },
+      {
+        "href": "/capitulos/exodo-31-llamamiento-de-bezaleel-y-de-aholiab",
+        "text": "Llamamiento de Bezaleel y de Aholiab"
+      },
+      {
+        "href": "/capitulos/exodo-32",
+        "text": "Éxodo 32"
+      },
+      {
+        "href": "/capitulos/exodo-33-la-presencia-de-dios-prometida",
+        "text": "La presencia de Dios prometida"
+      },
+      {
+        "href": "/capitulos/exodo-34-el-pacto-renovado",
+        "text": "El pacto renovado"
+      },
+      {
+        "href": "/capitulos/exodo-35-reglamento-del-dia-de-reposo",
+        "text": "Reglamento del día de reposo"
+      },
+      {
+        "href": "/capitulos/exodo-36-moises-suspende-la-ofrenda-del-pueblo",
+        "text": "Moisés suspende la ofrenda del pueblo"
+      },
+      {
+        "href": "/capitulos/exodo-37-mobiliario-del-tabernaculo",
+        "text": "Mobiliario del tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-38-el-atrio-del-tabernaculo",
+        "text": "El atrio del tabernáculo"
+      },
+      {
+        "href": "/capitulos/exodo-39-hechura-de-las-vestiduras-de-los-sacerdotes",
+        "text": "Hechura de las vestiduras de los sacerdotes"
+      },
+      {
+        "href": "/capitulos/exodo-40-moises-erige-el-tabernaculo",
+        "text": "Moisés erige el tabernáculo"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosÉxodoLa BibliaÉxodoCapítulos del libroAflicción de los israelitas en EgiptoNacimiento de MoisésLlamamiento de MoisésMoisés vuelve a EgiptoMoisés y Aarón ante FaraónÉxodo 6La vara de AarónLa plaga de ranasLa plaga en el ganadoLa plaga de langostasAnunciada la muerte de los primogénitosLa PascuaConsagración de los primogénitosLos israelitas cruzan el Mar RojoCántico de Moisés y de MaríaDios da el manáAgua de la rocaJetro visita a MoisésIsrael en SinaíLos Diez MandamientosLeyes sobre los esclavosLeyes sobre la restituciónLas tres fiestas anualesMoisés y los ancianos en el Monte SinaíLa ofrenda para el tabernáculoEl tabernáculoEl altar de bronceLas vestiduras de los sacerdotesConsagración de Aarón y de sus hijosEl altar del inciensoLlamamiento de Bezaleel y de AholiabÉxodo 32La presencia de Dios prometidaEl pacto renovadoReglamento del día de reposoMoisés suspende la ofrenda del puebloMobiliario del tabernáculoEl atrio del tabernáculoHechura de las vestiduras de los sacerdotesMoisés erige el tabernáculoEl libro del Éxodo es, sin duda, uno de los relatos más poderosos en toda la Escritura, porque no solo nos cuenta la liberación física del pueblo de Israel de las manos opresoras del faraón, sino también nos habla de cómo Dios, en su inmenso amor, camina con su pueblo a lo largo de todo el proceso de transformación espiritual. El nombre mismo, “Éxodo”, que significa “salida”, refleja esta invitación que Dios nos hace a salir de nuestras propias esclavitudes, sean del tipo que sean, y caminar hacia la libertad que Él nos ofrece.El nombre de Moisés nos recuerda que, al igual que él fue “sacado de las aguas”, también nosotros somos rescatados por la gracia de Dios. Es conmovedor pensar que el propio nombre del libertador ya lleva consigo un mensaje de redención, lo que nos invita a reflexionar sobre cómo Dios llama a cada uno de nosotros, incluso en medio de situaciones de adversidad.Uno de los momentos más impactantes en el relato es el encuentro de Moisés con Dios en la zarza ardiente, un símbolo del fuego eterno de la presencia divina. No es cualquier fuego; es uno que no se consume, un recordatorio del amor inagotable de Dios por su pueblo. Así, el pacto en el monte Sinaí se convierte en un sello que confirma esta relación de amor: Dios no solo libera, sino que también desea habitar entre su pueblo, guiándolos a vivir conforme a su voluntad.Las plagas de Egipto no fueron simplemente actos de juicio, sino también señales poderosas que desafiaban los ídolos de la época, revelando que solo el Dios de Israel es el Señor de la creación. Y cuando, finalmente, el pueblo cruza el Mar Rojo, Moisés y todo el pueblo de Israel entonan un cántico de alabanza que no solo celebra la liberación, sino que también nos invita a reconocer que Dios es siempre fiel y poderoso para salvar.El maná en el desierto es otro de esos momentos en los que la providencia divina se hace presente de manera tangible. Dios no solo nos libera, sino que también nos sustenta en cada paso de nuestro camino hacia la tierra prometida.Finalmente, el tabernáculo, con su detallada construcción, nos habla del profundo deseo de Dios de morar entre su pueblo. Un Dios que no se distancia, sino que busca un lugar en medio de nuestras vidas, un lugar donde su gloria pueda manifestarse.En este libro, podemos ver cómo Dios está activamente involucrado en la historia de su pueblo, cómo cada momento del relato está impregnado de su amor y su deseo de liberación. El Éxodo no es solo una historia antigua; es un reflejo del caminar de todos aquellos que buscan la verdadera libertad en Dios.ANTERIORGénesisSIGUIENTELevíticoÉxodoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegunda epístola de PedroPrimera epístola de JuanSegunda epístola de JuanTercera epístola de JuanEpístola de JudasApocalipsisMas LIBROsApocalipsisEpístola de JudasTercera epístola de JuanSegunda epístola de JuanPrimera epístola de JuanSegunda epístola de PedroPrimera epístola de PedroEpístola de SantiagoEpístola a"
+}

@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/levitico",
+    "title": "Levítico",
+    "description": "El Libro de Levítico es una guía divina que nos revela la santidad de Dios y Su deseo de reconciliación con la humanidad a través de leyes, sacrificios y justicia.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Levítico",
+    "canonical": "https://www.labibliaexplicada.com/libro/levitico"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Levítico",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/levitico-1-los-holocaustos",
+        "text": "Los holocaustos"
+      },
+      {
+        "href": "/capitulos/levitico-2-las-ofrendas",
+        "text": "Las ofrendas"
+      },
+      {
+        "href": "/capitulos/levitico-3-ofrendas-de-paz",
+        "text": "Ofrendas de paz"
+      },
+      {
+        "href": "/capitulos/levitico-4-ofrendas-por-el-pecado",
+        "text": "Ofrendas por el pecado"
+      },
+      {
+        "href": "/capitulos/levitico-5-ofrendas-expiatorias",
+        "text": "Ofrendas expiatorias"
+      },
+      {
+        "href": "/capitulos/levitico-6-leyes-de-los-sacrificios",
+        "text": "Leyes de los sacrificios"
+      },
+      {
+        "href": "/capitulos/levitico-7",
+        "text": "Levítico 7"
+      },
+      {
+        "href": "/capitulos/levitico-8-consagracion-de-aaron-y-de-sus-hijos",
+        "text": "Consagración de Aarón y de sus hijos"
+      },
+      {
+        "href": "/capitulos/levitico-9-los-sacrificios-de-aaron",
+        "text": "Los sacrificios de Aarón"
+      },
+      {
+        "href": "/capitulos/levitico-10-el-pecado-de-nadab-y-abiu",
+        "text": "El pecado de Nadab y Abiú"
+      },
+      {
+        "href": "/capitulos/levitico-11-animales-limpios-e-inmundos",
+        "text": "Animales limpios e inmundos"
+      },
+      {
+        "href": "/capitulos/levitico-12-la-purificacion-de-la-mujer-despues-del-parto",
+        "text": "La purificación de la mujer después del parto"
+      },
+      {
+        "href": "/capitulos/levitico-13-leyes-acerca-de-la-lepra",
+        "text": "Leyes acerca de la lepra"
+      },
+      {
+        "href": "/capitulos/levitico-14",
+        "text": "Levítico 14"
+      },
+      {
+        "href": "/capitulos/levitico-15-impurezas-fisicas",
+        "text": "Impurezas físicas"
+      },
+      {
+        "href": "/capitulos/levitico-16-el-dia-de-la-expiacion",
+        "text": "El día de la expiación"
+      },
+      {
+        "href": "/capitulos/levitico-17-el-santuario-unico",
+        "text": "El santuario único"
+      },
+      {
+        "href": "/capitulos/levitico-18-actos-de-inmoralidad-prohibidos",
+        "text": "Actos de inmoralidad prohibidos"
+      },
+      {
+        "href": "/capitulos/levitico-19-leyes-de-santidad-y-de-justicia",
+        "text": "Leyes de santidad y de justicia"
+      },
+      {
+        "href": "/capitulos/levitico-20-penas-por-actos-de-inmoralidad",
+        "text": "Penas por actos de inmoralidad"
+      },
+      {
+        "href": "/capitulos/levitico-21-santidad-de-los-sacerdotes",
+        "text": "Santidad de los sacerdotes"
+      },
+      {
+        "href": "/capitulos/levitico-22-santidad-de-las-ofrendas",
+        "text": "Santidad de las ofrendas"
+      },
+      {
+        "href": "/capitulos/levitico-23-las-fiestas-solemnes",
+        "text": "Las fiestas solemnes"
+      },
+      {
+        "href": "/capitulos/levitico-24-aceite-para-las-lamparas",
+        "text": "Aceite para las lámparas"
+      },
+      {
+        "href": "/capitulos/levitico-25-el-ano-de-reposo-de-la-tierra-y-el-ano-de-jubileo",
+        "text": "El año de reposo de la tierra y el año de jubileo"
+      },
+      {
+        "href": "/capitulos/levitico-26-bendiciones-de-la-obediencia",
+        "text": "Bendiciones de la obediencia"
+      },
+      {
+        "href": "/capitulos/levitico-27-cosas-consagradas-a-dios",
+        "text": "Cosas consagradas a Dios"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosLevíticoLa BibliaLevíticoCapítulos del libroLos holocaustosLas ofrendasOfrendas de pazOfrendas por el pecadoOfrendas expiatoriasLeyes de los sacrificiosLevítico 7Consagración de Aarón y de sus hijosLos sacrificios de AarónEl pecado de Nadab y AbiúAnimales limpios e inmundosLa purificación de la mujer después del partoLeyes acerca de la lepraLevítico 14Impurezas físicasEl día de la expiaciónEl santuario únicoActos de inmoralidad prohibidosLeyes de santidad y de justiciaPenas por actos de inmoralidadSantidad de los sacerdotesSantidad de las ofrendasLas fiestas solemnesAceite para las lámparasEl año de reposo de la tierra y el año de jubileoBendiciones de la obedienciaCosas consagradas a DiosEl Libro de Levítico puede parecer complejo a primera vista, pero cuando lo leemos con detenimiento, descubrimos un profundo mensaje sobre la relación entre Dios y Su pueblo. Este libro, el tercero del Pentateuco, forma parte de la Torá y está lleno de enseñanzas que trascienden el tiempo. Aquí, Dios no solo establece reglas y rituales, sino que nos invita a vivir una vida de santidad, mostrándonos que estar cerca de Él implica algo más que cumplir con lo externo; es una transformación del corazón.Una de las cosas que más llama la atención es el rol central de los sacerdotes, quienes pertenecían a la tribu de Leví. Estos hombres no solo ofrecían sacrificios, sino que actuaban como intermediarios entre el pueblo y Dios. A través de ellos, vemos la profunda necesidad de la humanidad de reconciliarse con el Creador. Los sacrificios descritos en Levítico no son simples rituales de sangre y humo, sino poderosos símbolos de la reconciliación que Dios proveía. Cada sacrificio, ya sea por el pecado, la culpa o la gratitud, era un recordatorio de que Dios siempre ha deseado restaurar Su relación con nosotros.Uno de los momentos más significativos del libro es la descripción del Día de la Expiación o Yom Kippur. En este día sagrado, el sumo sacerdote entraba al Lugar Santísimo para ofrecer sacrificios por los pecados de todo el pueblo de Israel. Este acto simbolizaba la purificación y el perdón, y sigue siendo una poderosa imagen de cómo Dios, en Su misericordia, no desea que el pecado se interponga entre Él y Su pueblo. En la vida cristiana, este evento es una clara prefiguración de la obra de Jesucristo, quien, como el sumo sacerdote perfecto, se ofreció a Sí mismo una vez y para siempre por nuestros pecados.A menudo, cuando pensamos en Levítico, lo asociamos solo con leyes ceremoniales, pero el libro también está lleno de enseñanzas sobre la justicia social y el cuidado del prójimo. Dios no solo se preocupa por los rituales; Él quiere que Su pueblo refleje Su carácter. Por eso, encontramos mandamientos que hablan del cuidado de los pobres, la protección de los extranjeros, y el trato justo hacia los demás. En un mundo tan necesitado de equidad y justicia, Levítico nos recuerda que Dios siempre ha sido un defensor de los más vulnerables.Un punto fundamental del libro es el llamado a la santidad: “Sed santos, porque Yo soy santo” (Levítico 11:44). Este llamado resuena a lo largo de todo el texto, mostrando que Dios no es solo un Dios de reglas, sino un Dios que anhela que Su pueblo sea apartado, especial, y refleje Su pureza y amor. Ser santo no significa simplemente cumplir con rituales, sino vivir una vida completamente entregada a Él, en cada acción y decisión.Además, es impresionante cómo todo el sistema sacrificial y ritual de Levítico, que a veces puede parecernos lejano o difícil de entender, tiene su cumplimiento en Jesucristo. Cada sacrificio de animales, cada ofrenda presentada en el altar, apunta a la obra de Jesús en la cruz. Él es el Cordero de Dios que quita el pecado del mundo (Juan 1:29), el sacrificio perfecto que nos reconcilia con el Padre de una manera completa y definitiva. De este modo, Levítico no es solo un conjunto de leyes antiguas, sino una sombra de la gracia que se revela plenamente en el Nuevo Testamento.Por último, hay algo muy especial en la manera en que Levítico está estructurado. Todo el libro sigue un orden simétrico, y en su centro se encuentra el Día de la Expiación, un recordatorio de que todo gira en torno a la necesidad de reconciliación con Dios. No es casualidad que este evento clave ocupe el lugar más destacado, pues refleja el corazón de Dios: Su deseo de estar en comunión con Su pueblo.Así que, al leer Levítico, podemos sentir cómo Dios no es un ser distante ni frío. Él está profundamente interesado en cada detalle de nuestras vidas, desde nuestra relación con Él hasta cómo tratamos a los demás. Y aunque muchos de los rituales ya no se practican hoy en día, el principio que subyace sigue siendo el mismo: Dios desea que Su pueblo viva en pureza, justicia y, sobre todo, en comunión con Él.En resumen, el Libro de Levítico no es solo un compendio de leyes. Es un recordatorio de que Dios es santo, justo y misericordioso. Él busca tener una relación íntima con Su pueblo"
+}

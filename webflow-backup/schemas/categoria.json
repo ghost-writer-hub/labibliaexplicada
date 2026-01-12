@@ -1,0 +1,39 @@
+{
+  "id": "66cc37c6e520d3205900867e",
+  "displayName": "Categorias",
+  "singularName": "Categoria",
+  "slug": "categoria",
+  "createdOn": "2018-08-24T10:38:49.457Z",
+  "lastUpdated": "2025-07-13T06:34:01.777Z",
+  "fields": [
+    {
+      "id": "f6af0d5ccd6a7fdb0aa7b545f92f6922",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "e27ed1bac5950c9ed520db80268e89f2",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-los-numeros",
+    "title": "Libro de los Números",
+    "description": "El Libro de los Números narra la travesía del pueblo de Israel por el desierto, donde enfrentan pruebas, desafíos y la fidelidad constante de Dios en su camino hacia la Tierra Prometida.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Libro de los Números",
+    "canonical": "https://www.labibliaexplicada.com/libro/libro-de-los-numeros"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Libro de los Números",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/numeros-1-censo-de-israel-en-sinai",
+        "text": "Censo de Israel en Sinaí"
+      },
+      {
+        "href": "/capitulos/numeros-2-campamentos-y-jefes-de-las-tribus",
+        "text": "Campamentos y jefes de las tribus"
+      },
+      {
+        "href": "/capitulos/numeros-3-censo-y-deberes-de-los-levitas",
+        "text": "Censo y deberes de los levitas"
+      },
+      {
+        "href": "/capitulos/numeros-4-tareas-de-los-levitas",
+        "text": "Tareas de los levitas"
+      },
+      {
+        "href": "/capitulos/numeros-5-todo-inmundo-es-echado-fuera-del-campamento",
+        "text": "Todo inmundo es echado fuera del campamento"
+      },
+      {
+        "href": "/capitulos/numeros-6-el-voto-de-los-nazareos",
+        "text": "El voto de los nazareos"
+      },
+      {
+        "href": "/capitulos/numeros-7-ofrendas-para-la-dedicacion-del-altar",
+        "text": "Ofrendas para la dedicación del altar"
+      },
+      {
+        "href": "/capitulos/numeros-8-aaron-enciende-las-lamparas",
+        "text": "Aarón enciende las lámparas"
+      },
+      {
+        "href": "/capitulos/numeros-9-celebracion-de-la-pascua",
+        "text": "Celebración de la pascua"
+      },
+      {
+        "href": "/capitulos/numeros-10-las-trompetas-de-plata",
+        "text": "Las trompetas de plata"
+      },
+      {
+        "href": "/capitulos/numeros-11-jehova-envia-codornices",
+        "text": "Jehová envía codornices"
+      },
+      {
+        "href": "/capitulos/numeros-12-maria-y-aaron-murmuran-contra-moises",
+        "text": "María y Aarón murmuran contra Moisés"
+      },
+      {
+        "href": "/capitulos/numeros-13-mision-de-los-doce-espias",
+        "text": "Misión de los doce espías"
+      },
+      {
+        "href": "/capitulos/numeros-14-los-israelitas-se-rebelan-contra-jehova",
+        "text": "Los israelitas se rebelan contra Jehová"
+      },
+      {
+        "href": "/capitulos/numeros-15-leyes-sobre-las-ofrendas",
+        "text": "Leyes sobre las ofrendas"
+      },
+      {
+        "href": "/capitulos/numeros-16-la-rebelion-de-core",
+        "text": "La rebelión de Coré"
+      },
+      {
+        "href": "/capitulos/numeros-17-la-vara-de-aaron-florece",
+        "text": "La vara de Aarón florece"
+      },
+      {
+        "href": "/capitulos/numeros-18-sostenimiento-de-sacerdotes-y-levitas",
+        "text": "Sostenimiento de sacerdotes y levitas"
+      },
+      {
+        "href": "/capitulos/numeros-19-la-purificacion-de-los-inmundos",
+        "text": "La purificación de los inmundos"
+      },
+      {
+        "href": "/capitulos/numeros-20-agua-de-la-roca",
+        "text": "Agua de la roca"
+      },
+      {
+        "href": "/capitulos/numeros-21-el-rey-de-arad-ataca-a-israel",
+        "text": "El rey de Arad ataca a Israel"
+      },
+      {
+        "href": "/capitulos/numeros-22-balac-manda-llamar-a-balaam",
+        "text": "Balac manda llamar a Balaam"
+      },
+      {
+        "href": "/capitulos/numeros-23",
+        "text": "Libro de los Números 23"
+      },
+      {
+        "href": "/capitulos/numeros-24-profecia-de-balaam",
+        "text": "Profecía de Balaam"
+      },
+      {
+        "href": "/capitulos/numeros-25-israel-acude-a-baal-peor",
+        "text": "Israel acude a Baal-peor"
+      },
+      {
+        "href": "/capitulos/numeros-26-censo-del-pueblo-en-moab",
+        "text": "Censo del pueblo en Moab"
+      },
+      {
+        "href": "/capitulos/numeros-27-peticion-de-las-hijas-de-zelofehad",
+        "text": "Petición de las hijas de Zelofehad"
+      },
+      {
+        "href": "/capitulos/numeros-28-las-ofrendas-diarias",
+        "text": "Las ofrendas diarias"
+      },
+      {
+        "href": "/capitulos/numeros-29",
+        "text": "Libro de los Números 29"
+      },
+      {
+        "href": "/capitulos/numeros-30-la-ley-de-los-votos",
+        "text": "La ley de los votos"
+      },
+      {
+        "href": "/capitulos/numeros-31-venganza-de-israel-contra-madian",
+        "text": "Venganza de Israel contra Madián"
+      },
+      {
+        "href": "/capitulos/numeros-32-ruben-y-gad-se-establecen-al-oriente-del-jordan",
+        "text": "Rubén y Gad se establecen al oriente del Jordán"
+      },
+      {
+        "href": "/capitulos/numeros-33-jornadas-de-israel-desde-egipto-hasta-el-jordan",
+        "text": "Jornadas de Israel desde Egipto hasta el Jordán"
+      },
+      {
+        "href": "/capitulos/numeros-34",
+        "text": "Libro de los Números 34"
+      },
+      {
+        "href": "/capitulos/numeros-35-herencia-de-los-levitas",
+        "text": "Herencia de los levitas"
+      },
+      {
+        "href": "/capitulos/numeros-36-ley-del-casamiento-de-las-herederas",
+        "text": "Ley del casamiento de las herederas"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosLibro de los NúmerosLa BibliaLibro de los NúmerosCapítulos del libroCenso de Israel en SinaíCampamentos y jefes de las tribusCenso y deberes de los levitasTareas de los levitasTodo inmundo es echado fuera del campamentoEl voto de los nazareosOfrendas para la dedicación del altarAarón enciende las lámparasCelebración de la pascuaLas trompetas de plataJehová envía codornicesMaría y Aarón murmuran contra MoisésMisión de los doce espíasLos israelitas se rebelan contra JehováLeyes sobre las ofrendasLa rebelión de CoréLa vara de Aarón floreceSostenimiento de sacerdotes y levitasLa purificación de los inmundosAgua de la rocaEl rey de Arad ataca a IsraelBalac manda llamar a BalaamLibro de los Números 23Profecía de BalaamIsrael acude a Baal-peorCenso del pueblo en MoabPetición de las hijas de ZelofehadLas ofrendas diariasLibro de los Números 29La ley de los votosVenganza de Israel contra MadiánRubén y Gad se establecen al oriente del JordánJornadas de Israel desde Egipto hasta el JordánLibro de los Números 34Herencia de los levitasLey del casamiento de las herederasEn lo profundo del desierto del Sinaí, el Libro de los Números nos ofrece una travesía espiritual que refleja la vida misma. Aunque a veces lo reconocemos por sus censos y listas, su verdadero mensaje trasciende las estadísticas, y nos invita a caminar junto a Israel, sintiendo el polvo del desierto y escuchando la voz de Dios en medio de nuestras incertidumbres.Este libro, llamado originalmente “Bemidbar”, que significa “En el desierto”, nos recuerda que la vida es una peregrinación constante. Allí, al principio de este viaje, Moisés recibe la instrucción divina para contar a los hijos de Israel, no solo como una mera estadística, sino como un recordatorio de que cada vida cuenta para Dios. Y así, entre censos y marchas, vemos cómo el pueblo vacila y tropieza, pero también cómo es guiado por la fidelidad del Señor.Y en ese recorrido, surgen personajes clave. Miriam, la hermana de Moisés, es una figura que muchas veces pasa desapercibida. Sin embargo, su liderazgo y su desobediencia nos dejan lecciones valiosas. Su castigo por hablar contra Moisés es una advertencia sobre la importancia de la humildad y la obediencia.Uno de los episodios más enigmáticos es cuando, al enfrentar serpientes venenosas, Moisés levanta una serpiente de bronce. Aquel objeto, que podía ser visto como un simple símbolo, se convierte en un medio de salvación para el pueblo. Esta historia anticipa, para muchos cristianos, la cruz de Cristo, donde la mirada de fe trae vida.El Libro de los Números también nos advierte sobre los peligros del orgullo, como lo vemos en la rebelión de Coré. Él, junto a otros, desafía la autoridad de Moisés, y su trágico destino nos recuerda que la humildad ante la autoridad divina es fundamental para caminar en paz.Pero no todo es juicio y castigo. En medio de las pruebas del desierto, el maná, ese pan que cae del cielo, sustenta al pueblo. Sin embargo, se nos dice que el maná cesará cuando lleguen a la Tierra Prometida. Un recordatorio de que en nuestra vida siempre habrá un momento de plenitud, cuando dejemos atrás el sustento temporal y gocemos de las promesas completas de Dios.Incluso Balaam, el profeta pagano contratado para maldecir a Israel, no puede resistirse al poder de Dios y, en lugar de maldiciones, pronuncia bendiciones. Esta escena es un recordatorio de que incluso aquellos que no reconocen a Dios pueden ser instrumentos de Su plan.Finalmente, el libro nos introduce las ciudades de refugio, esos lugares de misericordia destinados a aquellos que, sin intención, han causado daño. En estos espacios, Dios revela Su justicia equilibrada con la compasión.El Libro de los Números cierra con esperanza. Después de tantas pruebas, el pueblo de Israel está a las puertas de la Tierra Prometida. Así también, en nuestras vidas, tras los desiertos y dificultades, siempre hay una promesa de redención y descanso, porque el Señor nunca abandona a los suyos.Este relato del Libro de los Números no es solo un capítulo de la historia antigua; es un reflejo de nuestras propias travesías, nuestros desafíos y la esperanza de un futuro bajo la guía fiel de Dios.ANTERIORLevíticoSIGUIENTEDeuteronomioGénesisÉxodoLibro de los NúmerosLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpíst"
+}

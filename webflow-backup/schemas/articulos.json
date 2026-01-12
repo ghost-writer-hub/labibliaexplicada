@@ -1,0 +1,154 @@
+{
+  "id": "66cc37c6e520d3205900867c",
+  "displayName": "Articulos",
+  "singularName": "Articulo",
+  "slug": "articulos",
+  "createdOn": "2018-07-12T10:07:40.370Z",
+  "lastUpdated": "2025-07-13T06:34:01.773Z",
+  "fields": [
+    {
+      "id": "2bc9803539abb389a65f8124601d3546",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Image",
+      "slug": "article-image",
+      "displayName": "Article Thumbnail",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "82fddbc0e90b97665fce9cfc3ab3cbf7",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "article-header-image",
+      "displayName": "Article Header Image",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "29185225372692db27b836fcd00d4d39",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "title",
+      "displayName": "Title",
+      "helpText": "Title of the post",
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "9ae4c77f69f643eb2c20e40527de82e3",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "text",
+      "displayName": "Intro Text",
+      "helpText": "Short description of the post",
+      "validations": {
+        "singleLine": false,
+        "maxLength": 140
+      }
+    },
+    {
+      "id": "43ee6d70e24fcc32e0987365a32d7811",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "RichText",
+      "slug": "post-content",
+      "displayName": "Post Content",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "1cfe8875a2625a122e650d689bb9b519",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Reference",
+      "slug": "author-4",
+      "displayName": "Author",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66cc37c6e520d3205900867d"
+      }
+    },
+    {
+      "id": "a870aa50d097c9eb677bcbf86b3e8c03",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Reference",
+      "slug": "category-5",
+      "displayName": "Category",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66cc37c6e520d3205900867e"
+      }
+    },
+    {
+      "id": "cb50056284f285a7e83d2c4b64218721",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "MultiReference",
+      "slug": "tags",
+      "displayName": "Tags",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66cc37c6e520d3205900867f"
+      }
+    },
+    {
+      "id": "0f2b5baa1852871b450bb6863fc42f2c",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "MultiReference",
+      "slug": "etiquetas",
+      "displayName": "etiquetas",
+      "helpText": "usar esta, no usar Tags",
+      "validations": {
+        "collectionId": "66f19fd593623cfa6563b8a6"
+      }
+    },
+    {
+      "id": "1af7a9395e774c1f803657152d0e01cd",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "MultiReference",
+      "slug": "personajes-2",
+      "displayName": "personajes",
+      "helpText": "link a multiples personajes que puedan aparecer en el libro",
+      "validations": {
+        "collectionId": "6702470515ea5801d546a781"
+      }
+    },
+    {
+      "id": "205c60ef8f285304cceb358f23614cc0",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "4768cca9d128248b0648eadbfb406fff",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

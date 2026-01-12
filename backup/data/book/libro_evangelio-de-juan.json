@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/evangelio-de-juan",
+    "title": "Evangelio de Juan",
+    "description": "El Evangelio de Juan revela a Jesús como el Verbo eterno de Dios, invitándonos a creer en Él para tener vida eterna.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Evangelio de Juan",
+    "canonical": "https://www.labibliaexplicada.com/libro/evangelio-de-juan"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Evangelio de Juan",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/juan-1-el-verbo-hecho-carne",
+        "text": "El Verbo hecho carne"
+      },
+      {
+        "href": "/capitulos/juan-2-las-bodas-de-cana",
+        "text": "Las bodas de Caná"
+      },
+      {
+        "href": "/capitulos/juan-3-jesus-y-nicodemo",
+        "text": "Jesús y Nicodemo"
+      },
+      {
+        "href": "/capitulos/juan-4-jesus-y-la-mujer-samaritana",
+        "text": "Jesús y la mujer samaritana"
+      },
+      {
+        "href": "/capitulos/juan-5-el-paralitico-de-betesda",
+        "text": "El paralítico de Betesda"
+      },
+      {
+        "href": "/capitulos/juan-6-alimentacion-de-los-cinco-mil",
+        "text": "Alimentación de los cinco mil"
+      },
+      {
+        "href": "/capitulos/juan-7-incredulidad-de-los-hermanos-de-jesus",
+        "text": "Incredulidad de los hermanos de Jesús"
+      },
+      {
+        "href": "/capitulos/juan-8-la-mujer-adultera",
+        "text": "La mujer adúltera"
+      },
+      {
+        "href": "/capitulos/juan-9-jesus-sana-a-un-ciego-de-nacimiento",
+        "text": "Jesús sana a un ciego de nacimiento"
+      },
+      {
+        "href": "/capitulos/juan-10-parabola-del-redil",
+        "text": "Parábola del redil"
+      },
+      {
+        "href": "/capitulos/juan-11-muerte-de-lazaro",
+        "text": "Muerte de Lázaro"
+      },
+      {
+        "href": "/capitulos/juan-12-jesus-es-ungido-en-betania",
+        "text": "Jesús es ungido en Betania"
+      },
+      {
+        "href": "/capitulos/juan-13-jesus-lava-los-pies-de-sus-discipulos",
+        "text": "Jesús lava los pies de sus discípulos"
+      },
+      {
+        "href": "/capitulos/juan-14-jesus-el-camino-al-padre",
+        "text": "Jesús, el camino al Padre"
+      },
+      {
+        "href": "/capitulos/juan-15-jesus-la-vid-verdadera",
+        "text": "Jesús, la vid verdadera"
+      },
+      {
+        "href": "/capitulos/juan-16-la-obra-del-espiritu-santo",
+        "text": "La obra del Espíritu Santo"
+      },
+      {
+        "href": "/capitulos/juan-17-jesus-ora-por-sus-discipulos",
+        "text": "Jesús ora por sus discípulos"
+      },
+      {
+        "href": "/capitulos/juan-18-arresto-de-jesus",
+        "text": "Arresto de Jesús"
+      },
+      {
+        "href": "/capitulos/juan-19-crucifixion-y-muerte-de-jesus",
+        "text": "Crucifixión y muerte de Jesús"
+      },
+      {
+        "href": "/capitulos/juan-20-la-resurreccion",
+        "text": "La resurrección"
+      },
+      {
+        "href": "/capitulos/juan-21-jesus-se-aparece-a-siete-de-sus-discipulos",
+        "text": "Jesús se aparece a siete de sus discípulos"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosEvangelio de JuanLa BibliaEvangelio de JuanCapítulos del libroEl Verbo hecho carneLas bodas de CanáJesús y NicodemoJesús y la mujer samaritanaEl paralítico de BetesdaAlimentación de los cinco milIncredulidad de los hermanos de JesúsLa mujer adúlteraJesús sana a un ciego de nacimientoParábola del redilMuerte de LázaroJesús es ungido en BetaniaJesús lava los pies de sus discípulosJesús, el camino al PadreJesús, la vid verdaderaLa obra del Espíritu SantoJesús ora por sus discípulosArresto de JesúsCrucifixión y muerte de JesúsLa resurrecciónJesús se aparece a siete de sus discípulosEl Evangelio de Juan es como una ventana abierta al corazón mismo de Jesús, el Verbo eterno que desde el principio ha estado con Dios y que es Dios mismo. A diferencia de los otros evangelios, Juan no solo narra los hechos de la vida de Jesús, sino que nos guía a comprender el profundo misterio de su divinidad. Desde el comienzo, con esas palabras tan cargadas de significado: “En el principio era el Verbo”, Juan nos invita a contemplar a Jesús como la Palabra viva de Dios, la que da sentido y vida a toda la creación. No se trata solo de un relato histórico; es una revelación de la naturaleza misma de Dios en la persona de Jesús.Juan, en su narrativa, tiene una forma muy especial de presentarnos a Jesús. En lugar de mostrarnos una serie de milagros como actos extraordinarios, él prefiere hablar de “signos”, actos llenos de significado espiritual que apuntan a algo mayor: a la identidad divina de Jesús. Cuando Jesús convierte el agua en vino, o cuando sana al ciego de nacimiento, no está solo mostrando su poder, sino revelando su misión como el Hijo de Dios. Cada uno de estos signos tiene una enseñanza profunda, que nos lleva a una mayor comprensión de quién es Jesús y de lo que significa tener fe en Él.En este evangelio, Jesús se revela de manera única a través de las siete declaraciones del “Yo soy”. Cada una de ellas es una puerta hacia un aspecto distinto de su persona: “Yo soy el pan de vida”, nos dice, recordándonos que en Él encontramos el sustento que nuestra alma necesita. “Yo soy la luz del mundo”, afirma, y con ello ilumina los corazones de aquellos que caminan en la oscuridad. “Yo soy el buen pastor”, nos recuerda que Él nos cuida, nos conoce por nuestro nombre, y que da su vida por nosotros. Estas afirmaciones no son solo palabras, sino un llamado a entrar en una relación viva y personal con Jesús, quien nos muestra el camino hacia el Padre.Juan también nos presenta una imagen muy íntima de la relación entre Jesús y su Padre celestial. A lo largo del evangelio, Jesús habla constantemente de su unión con el Padre, subrayando que lo que Él hace es lo que el Padre le ha encomendado. “El Padre y yo somos uno”, declara Jesús, invitándonos a participar en esa misma relación de amor y unidad.Este evangelio tiene otra particularidad: pone un énfasis especial en Jerusalén. Mientras que los otros evangelios se centran más en el ministerio de Jesús en Galilea, Juan nos muestra a Jesús regresando repetidamente a Jerusalén, donde se desarrollan muchos de los eventos clave de su ministerio. Es en esta ciudad donde ocurren algunos de los encuentros más significativos, como el de Nicodemo, un fariseo que viene de noche para buscar respuestas sobre el reino de Dios. Este diálogo profundo sobre el nuevo nacimiento es un reflejo de cómo el evangelio de Juan está cargado de enseñanzas espirituales que nos invitan a una transformación interior.En la crucifixión, Juan nos ofrece un detalle único. Nos dice que Jesús muere el día anterior a la Pascua, justo cuando los corderos pascuales eran sacrificados. Este detalle subraya el profundo simbolismo de Jesús como el Cordero de Dios que quita el pecado del mundo. No es solo un acto de sufrimiento, sino el cumplimiento de una promesa antigua, el sacrificio definitivo que nos reconcilia con Dios.Finalmente, Juan escribe con un propósito claro: que creamos en Jesús como el Cristo, el Hijo de Dios, y que al creer, tengamos vida en su nombre. Este evangelio es un llamado a la fe. No una fe superficial, sino una que transforma el corazón, que nos lleva a ver a Jesús no solo como un personaje histórico, sino como el Salvador que vive y reina hoy.Así, el Evangelio de Juan nos ofrece una visión profunda, espiritual y cargada de simbolismo. Nos invita a encontrarnos con Cristo, a ser testigos de su poder, de su amor y de su sacrificio, y a vivir en la esperanza de la vida eterna que Él nos promete. Cada palabra, cada signo, cada “Yo soy”, es una invitación a conocerle más profundamente y a seguirle de todo corazón.ANTERIOREvangelio de LucasSIGUIENTEHechos de los ApóstolesGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de"
+}

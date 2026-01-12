@@ -1,0 +1,61 @@
+{
+  "id": "66cc37c6e520d3205900867d",
+  "displayName": "Autores",
+  "singularName": "Autor",
+  "slug": "autores",
+  "createdOn": "2018-07-12T10:21:50.175Z",
+  "lastUpdated": "2025-07-13T06:34:01.774Z",
+  "fields": [
+    {
+      "id": "6e70b518680a4f23dac51fbae7261c8e",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "avatar",
+      "displayName": "Avatar",
+      "helpText": "Image of the author",
+      "validations": null
+    },
+    {
+      "id": "3420dd852549cf5819fe199ec50f169c",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "role",
+      "displayName": "Role",
+      "helpText": "Role in the company",
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "b01d8f3249b22d95ee1c7c0149f4eda9",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "1fb0e435b35b1d8c92eae250aa21bd4e",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

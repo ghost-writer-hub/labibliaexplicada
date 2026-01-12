@@ -1,0 +1,18 @@
+{
+  "collections": {
+    "articulos": 45,
+    "autores": 1,
+    "categoria": 3,
+    "libro": 69,
+    "oraciones": 0,
+    "capitulos": 1190,
+    "etiquetas": 0,
+    "personajes": 1,
+    "test": 2,
+    "conceptos": 3
+  },
+  "totalItems": 1314,
+  "pagesCount": 22,
+  "assetsCount": 30,
+  "exportDate": "2026-01-12T19:56:41.937Z"
+}

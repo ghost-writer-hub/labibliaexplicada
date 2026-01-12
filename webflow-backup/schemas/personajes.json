@@ -1,0 +1,83 @@
+{
+  "id": "6702470515ea5801d546a781",
+  "displayName": "Personajes",
+  "singularName": "Personaje",
+  "slug": "personajes",
+  "createdOn": "2024-10-06T08:15:01.141Z",
+  "lastUpdated": "2025-07-13T06:34:01.779Z",
+  "fields": [
+    {
+      "id": "56aa3f78d61fa9f42abcc14b41646a89",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "titulo",
+      "displayName": "titulo",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "e193126fc572a8108e3f8fbcfc284178",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "intro",
+      "displayName": "intro",
+      "helpText": null,
+      "validations": {
+        "singleLine": false
+      }
+    },
+    {
+      "id": "3a26759fe182bb64d0a3a680eaa168a1",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "bio",
+      "displayName": "bio",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "629f76a48e5f6525eecec9725846c4bf",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "picture-main",
+      "displayName": "picture-main",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "a2885e3819cc05acba4448ff19992ff4",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "2adfda368e6e0daceca85ecc95f9ec3c",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

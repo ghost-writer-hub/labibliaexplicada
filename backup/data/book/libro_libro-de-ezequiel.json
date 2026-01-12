@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-ezequiel",
+    "title": "Libro de Ezequiel",
+    "description": "El Libro de Ezequiel revela la soberanía y gloria de Dios a través de poderosas visiones y promesas de restauración para un pueblo en exilio.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Libro de Ezequiel",
+    "canonical": "https://www.labibliaexplicada.com/libro/libro-de-ezequiel"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Libro de Ezequiel",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/ezequiel-1-la-vision-de-la-gloria-divina",
+        "text": "La visión de la gloria divina"
+      },
+      {
+        "href": "/capitulos/ezequiel-2-llamamiento-de-ezequiel",
+        "text": "Llamamiento de Ezequiel"
+      },
+      {
+        "href": "/capitulos/ezequiel-3-el-atalaya-de-israel",
+        "text": "El atalaya de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-4-prediccion-del-sitio-de-jerusalen",
+        "text": "Predicción del sitio de Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-5",
+        "text": "Libro de Ezequiel 5"
+      },
+      {
+        "href": "/capitulos/ezequiel-6-profecia-contra-los-montes-de-israel",
+        "text": "Profecía contra los montes de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-7-el-fin-viene",
+        "text": "El fin viene"
+      },
+      {
+        "href": "/capitulos/ezequiel-8-vision-de-las-abominaciones-en-jerusalen",
+        "text": "Visión de las abominaciones en Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-9-vision-de-la-muerte-de-los-culpables",
+        "text": "Visión de la muerte de los culpables"
+      },
+      {
+        "href": "/capitulos/ezequiel-10-la-gloria-de-dios-abandona-el-templo",
+        "text": "La gloria de Dios abandona el templo"
+      },
+      {
+        "href": "/capitulos/ezequiel-11-reprension-de-los-principes-malvados",
+        "text": "Reprensión de los principes malvados"
+      },
+      {
+        "href": "/capitulos/ezequiel-12-salida-de-ezequiel-en-senal-de-la-cautividad",
+        "text": "Salida de Ezequiel en señal de la cautividad"
+      },
+      {
+        "href": "/capitulos/ezequiel-13-condenacion-de-los-falsos-profetas",
+        "text": "Condenación de los falsos profetas"
+      },
+      {
+        "href": "/capitulos/ezequiel-14-juicio-contra-los-idolatras-que-consultan-al-profeta",
+        "text": "Juicio contra los idólatras que consultan al profeta"
+      },
+      {
+        "href": "/capitulos/ezequiel-15-jerusalen-es-como-una-vid-inutil",
+        "text": "Jerusalén es como una vid inútil"
+      },
+      {
+        "href": "/capitulos/ezequiel-16-infidelidad-de-jerusalen",
+        "text": "Infidelidad de Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-17-parabola-de-las-aguilas-y-la-vid",
+        "text": "Parábola de las águilas y la vid"
+      },
+      {
+        "href": "/capitulos/ezequiel-18-el-alma-que-pecare-morira",
+        "text": "El alma que pecare morirá"
+      },
+      {
+        "href": "/capitulos/ezequiel-19-lamentacion-sobre-los-principes-de-israel",
+        "text": "Lamentación sobre los principes de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-20-modo-de-proceder-de-dios-con-israel",
+        "text": "Modo de proceder de Dios con Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-21-la-espada-afilada-de-jehova",
+        "text": "La espada afilada de Jehová"
+      },
+      {
+        "href": "/capitulos/ezequiel-22-los-pecados-de-jerusalen",
+        "text": "Los pecados de Jerusalén"
+      },
+      {
+        "href": "/capitulos/ezequiel-23-las-dos-hermanas",
+        "text": "Las dos hermanas"
+      },
+      {
+        "href": "/capitulos/ezequiel-24-parabola-de-la-olla-hirviente",
+        "text": "Parábola de la olla hirviente"
+      },
+      {
+        "href": "/capitulos/ezequiel-25-profecia-contra-amon",
+        "text": "Profecía contra Amón"
+      },
+      {
+        "href": "/capitulos/ezequiel-26-profecia-contra-tiro",
+        "text": "Profecía contra Tiro"
+      },
+      {
+        "href": "/capitulos/ezequiel-27",
+        "text": "Libro de Ezequiel 27"
+      },
+      {
+        "href": "/capitulos/ezequiel-28-profecia-contra-sidon",
+        "text": "Profecía contra Sidón"
+      },
+      {
+        "href": "/capitulos/ezequiel-29-profecias-contra-egipto",
+        "text": "Profecías contra Egipto"
+      },
+      {
+        "href": "/capitulos/ezequiel-30",
+        "text": "Libro de Ezequiel 30"
+      },
+      {
+        "href": "/capitulos/ezequiel-31",
+        "text": "Libro de Ezequiel 31"
+      },
+      {
+        "href": "/capitulos/ezequiel-32",
+        "text": "Libro de Ezequiel 32"
+      },
+      {
+        "href": "/capitulos/ezequiel-33-el-deber-del-atalaya",
+        "text": "El deber del atalaya"
+      },
+      {
+        "href": "/capitulos/ezequiel-34-profecia-contra-los-pastores-de-israel",
+        "text": "Profecía contra los pastores de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-35-profecia-contra-el-monte-seir",
+        "text": "Profecía contra el Monte Seir"
+      },
+      {
+        "href": "/capitulos/ezequiel-36-restauracion-futura-de-israel",
+        "text": "Restauración futura de Israel"
+      },
+      {
+        "href": "/capitulos/ezequiel-37-el-valle-de-los-huesos-secos",
+        "text": "El valle de los huesos secos"
+      },
+      {
+        "href": "/capitulos/ezequiel-38-profecia-contra-gog",
+        "text": "Profecía contra Gog"
+      },
+      {
+        "href": "/capitulos/ezequiel-39",
+        "text": "Libro de Ezequiel 39"
+      },
+      {
+        "href": "/capitulos/ezequiel-40-la-vision-del-templo",
+        "text": "La visión del templo"
+      },
+      {
+        "href": "/capitulos/ezequiel-41",
+        "text": "Libro de Ezequiel 41"
+      },
+      {
+        "href": "/capitulos/ezequiel-42",
+        "text": "Libro de Ezequiel 42"
+      },
+      {
+        "href": "/capitulos/ezequiel-43-la-gloria-de-jehova-llena-el-templo",
+        "text": "La gloria de Jehová llena el templo"
+      },
+      {
+        "href": "/capitulos/ezequiel-44",
+        "text": "Libro de Ezequiel 44"
+      },
+      {
+        "href": "/capitulos/ezequiel-45",
+        "text": "Libro de Ezequiel 45"
+      },
+      {
+        "href": "/capitulos/ezequiel-46",
+        "text": "Libro de Ezequiel 46"
+      },
+      {
+        "href": "/capitulos/ezequiel-47-las-aguas-salutiferas",
+        "text": "Las aguas salutíferas"
+      },
+      {
+        "href": "/capitulos/ezequiel-48",
+        "text": "Libro de Ezequiel 48"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosLibro de EzequielLa BibliaLibro de EzequielCapítulos del libroLa visión de la gloria divinaLlamamiento de EzequielEl atalaya de IsraelPredicción del sitio de JerusalénLibro de Ezequiel 5Profecía contra los montes de IsraelEl fin vieneVisión de las abominaciones en JerusalénVisión de la muerte de los culpablesLa gloria de Dios abandona el temploReprensión de los principes malvadosSalida de Ezequiel en señal de la cautividadCondenación de los falsos profetasJuicio contra los idólatras que consultan al profetaJerusalén es como una vid inútilInfidelidad de JerusalénParábola de las águilas y la vidEl alma que pecare moriráLamentación sobre los principes de IsraelModo de proceder de Dios con IsraelLa espada afilada de JehováLos pecados de JerusalénLas dos hermanasParábola de la olla hirvienteProfecía contra AmónProfecía contra TiroLibro de Ezequiel 27Profecía contra SidónProfecías contra EgiptoLibro de Ezequiel 30Libro de Ezequiel 31Libro de Ezequiel 32El deber del atalayaProfecía contra los pastores de IsraelProfecía contra el Monte SeirRestauración futura de IsraelEl valle de los huesos secosProfecía contra GogLibro de Ezequiel 39La visión del temploLibro de Ezequiel 41Libro de Ezequiel 42La gloria de Jehová llena el temploLibro de Ezequiel 44Libro de Ezequiel 45Libro de Ezequiel 46Las aguas salutíferasLibro de Ezequiel 48El Libro de Ezequiel es una ventana a un tiempo de grandes pruebas para Israel, pero también una muestra de la profunda gloria de Dios que, aún en medio del exilio y la destrucción, nunca deja de buscar la restauración de Su pueblo. Ezequiel, tanto profeta como sacerdote, tenía una visión clara de la santidad de Dios y de Su deseo de redimir a un pueblo que había sido infiel.Desde el principio, cuando es llamado a los 30 años, la vida de Ezequiel se convierte en una serie de acciones y visiones impactantes, que reflejan el mensaje profundo de que el Señor sigue siendo soberano. Sus acciones simbólicas, como acostarse durante largos días, no solo llamaban la atención del pueblo, sino que eran un recordatorio tangible de que cada acción de Dios tiene un propósito.Entre sus visiones más memorables está la del carro de Dios, un símbolo de la omnipresencia divina, un recordatorio de que el Señor no está limitado por fronteras ni distancias. Él es el Señor sobre toda la tierra. Y es en este contexto que Ezequiel constantemente proclama: “Y sabrán que yo soy el Señor”.Quizás uno de los momentos más inspiradores es la visión del valle de los huesos secos. En medio de la desolación, Dios muestra cómo puede traer vida de lo que parece estar completamente muerto. Esta promesa de restauración no solo fue para Israel, sino que sigue siendo una palabra viva para nosotros hoy, una promesa de que no hay situación que esté fuera del alcance del poder de Dios.Ezequiel también fue un fiel defensor de la verdad, denunciando a los falsos profetas que ofrecían palabras vacías. Su misión era clara: advertir al pueblo de los peligros del pecado, pero también ofrecerles la esperanza de la redención.En sus últimos capítulos, Ezequiel pinta un cuadro de un Templo futuro, un lugar donde la presencia de Dios habitaría con Su pueblo, señalando hacia un tiempo de completa restauración. Esta visión final nos recuerda que la promesa de Dios no solo es para un futuro lejano, sino que está viva en nuestro presente, invitándonos a vivir en comunión con Él, sabiendo que Él es el Señor.Este libro es una invitación a abrir nuestros corazones a las promesas de Dios, sabiendo que, aunque los tiempos sean difíciles, Su gloria siempre brillará y Su plan de restauración sigue adelante.ANTERIORLibro de las LamentacionesSIGUIENTELibro de DanielGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de EzequielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegunda epístola de PedroPrimera epístola de JuanSegunda epístola de JuanTercera epístola de JuanEpístola de JudasApocalipsisMas LIBROsApocalipsisEpístola de JudasTercera epístola de JuanSegunda epístola de JuanPrimera epístola de JuanSegunda epístola de PedroPrimera epístola de PedroE"
+}

@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/genesis",
+    "title": "Génesis",
+    "description": "El Génesis narra los orígenes del universo y la humanidad",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66e6a8d3f04fad8bb50463ed_1_image.jpg",
+    "ogTitle": "Génesis",
+    "canonical": "https://www.labibliaexplicada.com/libro/genesis"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Génesis",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/genesis-1-la-creacion",
+        "text": "La Creación"
+      },
+      {
+        "href": "/capitulos/genesis-2-el-hombre-en-el-huerto-del-eden",
+        "text": "El hombre en el huerto del Edén"
+      },
+      {
+        "href": "/capitulos/genesis-2-el-hombre-en-el-huerto-del-eden-027e0",
+        "text": "El hombre en el huerto del Edén"
+      },
+      {
+        "href": "/capitulos/genesis-3-desobediencia-del-hombre",
+        "text": "Desobediencia del hombre"
+      },
+      {
+        "href": "/capitulos/genesis-4-cain-y-abel",
+        "text": "Caín y Abel"
+      },
+      {
+        "href": "/capitulos/genesis-5-los-descendientes-de-adan",
+        "text": "Los descendientes de Adán"
+      },
+      {
+        "href": "/capitulos/genesis-6-la-maldad-de-los-hombres",
+        "text": "La maldad de los hombres"
+      },
+      {
+        "href": "/capitulos/genesis-7-el-diluvio",
+        "text": "El diluvio"
+      },
+      {
+        "href": "/capitulos/genesis-8",
+        "text": "Génesis 8"
+      },
+      {
+        "href": "/capitulos/genesis-9-pacto-de-dios-con-noe",
+        "text": "Pacto de Dios con Noé"
+      },
+      {
+        "href": "/capitulos/genesis-10-los-descendientes-de-los-hijos-de-noe",
+        "text": "Los descendientes de los hijos de Noé"
+      },
+      {
+        "href": "/capitulos/genesis-11-la-torre-de-babel",
+        "text": "La torre de Babel"
+      },
+      {
+        "href": "/capitulos/genesis-12-dios-llama-a-abram",
+        "text": "Dios llama a Abram"
+      },
+      {
+        "href": "/capitulos/genesis-13-abram-y-lot-se-separan",
+        "text": "Abram y Lot se separan"
+      },
+      {
+        "href": "/capitulos/genesis-14-abram-liberta-a-lot",
+        "text": "Abram liberta a Lot"
+      },
+      {
+        "href": "/capitulos/genesis-15-dios-promete-a-abram-un-hijo",
+        "text": "Dios promete a Abram un hijo"
+      },
+      {
+        "href": "/capitulos/genesis-16-agar-e-ismael",
+        "text": "Agar e Ismael"
+      },
+      {
+        "href": "/capitulos/genesis-17-la-circuncision-senal-del-pacto",
+        "text": "La circuncisión, señal del pacto"
+      },
+      {
+        "href": "/capitulos/genesis-18-promesa-del-nacimiento-de-isaac",
+        "text": "Promesa del nacimiento de Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-19-destruccion-de-sodoma-y-gomorra",
+        "text": "Destrucción de Sodoma y Gomorra"
+      },
+      {
+        "href": "/capitulos/genesis-20-abraham-y-abimelec",
+        "text": "Abraham y Abimelec"
+      },
+      {
+        "href": "/capitulos/genesis-21-nacimiento-de-isaac",
+        "text": "Nacimiento de Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-22-dios-ordena-a-abraham-que-sacrifique-a-isaac",
+        "text": "Dios ordena a Abraham que sacrifique a Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-23-muerte-y-sepultura-de-sara",
+        "text": "Muerte y sepultura de Sara"
+      },
+      {
+        "href": "/capitulos/genesis-24-abraham-busca-esposa-para-isaac",
+        "text": "Abraham busca esposa para Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-25-los-descendientes-de-abraham-y-cetura",
+        "text": "Los descendientes de Abraham y Cetura"
+      },
+      {
+        "href": "/capitulos/genesis-26-isaac-en-gerar",
+        "text": "Isaac en Gerar"
+      },
+      {
+        "href": "/capitulos/genesis-27-jacob-obtiene-la-bendicion-de-isaac",
+        "text": "Jacob obtiene la bendición de Isaac"
+      },
+      {
+        "href": "/capitulos/genesis-28-dios-se-aparece-a-jacob-en-bet-el",
+        "text": "Dios se aparece a Jacob en Bet-el"
+      },
+      {
+        "href": "/capitulos/genesis-29-jacob-sirve-a-laban-por-raquel-y-lea",
+        "text": "Jacob sirve a Labán por Raquel y Lea"
+      },
+      {
+        "href": "/capitulos/genesis-30-tretas-de-jacob-y-de-laban",
+        "text": "Tretas de Jacob y de Labán"
+      },
+      {
+        "href": "/capitulos/genesis-31-jacob-huye-de-laban",
+        "text": "Jacob huye de Labán"
+      },
+      {
+        "href": "/capitulos/genesis-32-jacob-se-prepara-para-el-encuentro-con-esau",
+        "text": "Jacob se prepara para el encuentro con Esaú"
+      },
+      {
+        "href": "/capitulos/genesis-33-reconciliacion-entre-jacob-y-esau",
+        "text": "Reconciliación entre Jacob y Esaú"
+      },
+      {
+        "href": "/capitulos/genesis-34-la-deshonra-de-dina-vengada",
+        "text": "La deshonra de Dina vengada"
+      },
+      {
+        "href": "/capitulos/genesis-35-dios-bendice-a-jacob-en-bet-el",
+        "text": "Dios bendice a Jacob en Bet-el"
+      },
+      {
+        "href": "/capitulos/genesis-36-los-descendientes-de-esau",
+        "text": "Los descendientes de Esaú"
+      },
+      {
+        "href": "/capitulos/genesis-37-jose-es-vendido-por-sus-hermanos",
+        "text": "José es vendido por sus hermanos"
+      },
+      {
+        "href": "/capitulos/genesis-38-juda-y-tamar",
+        "text": "Judá y Tamar"
+      },
+      {
+        "href": "/capitulos/genesis-39-jose-y-la-esposa-de-potifar",
+        "text": "José y la esposa de Potifar"
+      },
+      {
+        "href": "/capitulos/genesis-40-jose-interpreta-dos-suenos",
+        "text": "José interpreta dos sueños"
+      },
+      {
+        "href": "/capitulos/genesis-41-jose-interpreta-el-sueno-de-faraon",
+        "text": "José interpreta el sueño de Faraón"
+      },
+      {
+        "href": "/capitulos/genesis-42-los-hermanos-de-jose-vienen-por-alimentos",
+        "text": "Los hermanos de José vienen por alimentos"
+      },
+      {
+        "href": "/capitulos/genesis-43-los-hermanos-de-jose-regresan-con-benjamin",
+        "text": "Los hermanos de José regresan con Benjamín"
+      },
+      {
+        "href": "/capitulos/genesis-44-la-copa-de-jose",
+        "text": "La copa de José"
+      },
+      {
+        "href": "/capitulos/genesis-45-jose-se-da-a-conocer-a-sus-hermanos",
+        "text": "José se da a conocer a sus hermanos"
+      },
+      {
+        "href": "/capitulos/genesis-46-jacob-y-su-familia-en-egipto",
+        "text": "Jacob y su familia en Egipto"
+      },
+      {
+        "href": "/capitulos/genesis-47",
+        "text": "Génesis 47"
+      },
+      {
+        "href": "/capitulos/genesis-48-jacob-bendice-a-efrain-y-a-manases",
+        "text": "Jacob bendice a Efraín y a Manasés"
+      },
+      {
+        "href": "/capitulos/genesis-49-profecia-de-jacob-acerca-de-sus-hijos",
+        "text": "Profecía de Jacob acerca de sus hijos"
+      },
+      {
+        "href": "/capitulos/genesis-50-muerte-de-jose",
+        "text": "Muerte de José"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosGénesisLa BibliaGénesisCapítulos del libroLa CreaciónEl hombre en el huerto del EdénEl hombre en el huerto del EdénDesobediencia del hombreCaín y AbelLos descendientes de AdánLa maldad de los hombresEl diluvioGénesis 8Pacto de Dios con NoéLos descendientes de los hijos de NoéLa torre de BabelDios llama a AbramAbram y Lot se separanAbram liberta a LotDios promete a Abram un hijoAgar e IsmaelLa circuncisión, señal del pactoPromesa del nacimiento de IsaacDestrucción de Sodoma y GomorraAbraham y AbimelecNacimiento de IsaacDios ordena a Abraham que sacrifique a IsaacMuerte y sepultura de SaraAbraham busca esposa para IsaacLos descendientes de Abraham y CeturaIsaac en GerarJacob obtiene la bendición de IsaacDios se aparece a Jacob en Bet-elJacob sirve a Labán por Raquel y LeaTretas de Jacob y de LabánJacob huye de LabánJacob se prepara para el encuentro con EsaúReconciliación entre Jacob y EsaúLa deshonra de Dina vengadaDios bendice a Jacob en Bet-elLos descendientes de EsaúJosé es vendido por sus hermanosJudá y TamarJosé y la esposa de PotifarJosé interpreta dos sueñosJosé interpreta el sueño de FaraónLos hermanos de José vienen por alimentosLos hermanos de José regresan con BenjamínLa copa de JoséJosé se da a conocer a sus hermanosJacob y su familia en EgiptoGénesis 47Jacob bendice a Efraín y a ManasésProfecía de Jacob acerca de sus hijosMuerte de JoséEl libro del Génesis, primero en la Biblia, es una fuente rica y profunda de historias que han moldeado la fe y la comprensión humana desde tiempos inmemoriales. Al sumergirnos en sus páginas, descubrimos no solo los relatos familiares de la creación y los patriarcas, sino también detalles y matices que enriquecen aún más su mensaje.Desde el principio, Génesis nos presenta dos narrativas de la creación que, aunque diferentes en enfoque, se complementan en profundidad. En el primer relato, contemplamos cómo Dios ordena el caos primordial en seis días, culminando con un séptimo día de descanso que establece el ritmo sagrado del tiempo. Este relato nos muestra un universo creado con propósito y armonía, donde cada elemento ocupa su lugar en el gran diseño divino.El segundo relato nos acerca más al corazón de la humanidad. Aquí, Dios forma al hombre del polvo de la tierra y sopla en él aliento de vida, plantando un jardín para él y creando a la mujer como compañera indispensable. Esta narrativa resalta la intimidad entre Dios y sus criaturas, y establece las bases de las relaciones humanas y nuestra conexión con la naturaleza.El nombre “Génesis” en sí, que significa “origen” o “comienzo”, nos invita a reflexionar sobre los inicios no solo del mundo físico, sino también de nuestra propia historia y destino. En hebreo, el libro se conoce como “Bereshit”, “En el principio”, recordándonos el momento en que todo lo que conocemos cobró existencia bajo la palabra creativa de Dios.A medida que avanzamos, encontramos figuras como Matusalén, cuyo asombroso lapso de vida de 969 años nos habla de tiempos en los que la existencia humana estaba estrechamente vinculada con lo eterno. Estas largas vidas han sido interpretadas de diversas maneras, desde lecturas literales hasta simbólicas, pero siempre nos llevan a considerar la grandeza y el misterio de la vida en los primeros tiempos.Es fascinante observar cómo algunos relatos del Génesis resuenan con antiguas historias mesopotámicas. Las similitudes entre el Diluvio de Noé y la Epopeya de Gilgamesh, por ejemplo, nos muestran cómo diferentes culturas han buscado entender eventos catastróficos y la relación entre lo divino y lo humano. Sin embargo, el Génesis aporta una perspectiva única, enfatizando la misericordia de Dios que establece un pacto de esperanza con la humanidad.La figura de la serpiente en el Jardín del Edén es otro elemento que despierta reflexión. Aunque en interpretaciones posteriores se la asocia con Satanás, en el texto original es simplemente descrita como la más astuta de las criaturas. Esta distinción nos invita a considerar la naturaleza del mal y la tentación, y cómo las decisiones humanas juegan un papel crucial en nuestra separación o acercamiento a Dios.La mención de la esposa de Caín, sin detalles sobre su origen, nos plantea preguntas sobre los inicios de la humanidad y nos recuerda que el texto bíblico a veces guarda silencios que invitan a la meditación y al debate. Estos misterios nos animan a profundizar en nuestra comprensión y a buscar respuestas más allá de lo evidente.El pacto del arco iris tras el Diluvio es una poderosa promesa de Dios a Noé y, por extensión, a toda la creación. Cada vez que vemos un arco iris en el cielo, somos recordados de la fidelidad de Dios y de su compromiso de nunca más destruir la tierra con agua. Es un símbolo de esperanza que atraviesa generaciones y nos habla del amor constante de Dios por su creación.El sueño de Jacob, donde ve una escalera que une la tierra con el cielo y ángeles que suben y bajan por ella, es una de las visiones más evocado"
+}

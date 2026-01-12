@@ -1,0 +1,20 @@
+{
+  "total": 1318,
+  "success": 1318,
+  "failed": 0,
+  "byTemplate": {
+    "chapter": 1190,
+    "home": 1,
+    "static": 6,
+    "article": 45,
+    "author": 1,
+    "category": 3,
+    "book": 66,
+    "unknown": 3,
+    "concept": 3
+  },
+  "errors": [],
+  "startTime": "2026-01-12T19:22:57.068Z",
+  "endTime": "2026-01-12T19:33:15.906Z",
+  "duration": 618.838
+}

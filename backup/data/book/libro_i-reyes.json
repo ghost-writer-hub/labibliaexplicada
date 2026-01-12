@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/i-reyes",
+    "title": "I Reyes",
+    "description": "El Libro de I Reyes relata la división del reino de Israel, la construcción del Templo de Salomón y las advertencias de Dios a través del profeta Elías frente a la idolatría del pueblo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "I Reyes",
+    "canonical": "https://www.labibliaexplicada.com/libro/i-reyes"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "I Reyes",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-reyes-1-abisag-sirve-a-david",
+        "text": "Abisag sirve a David"
+      },
+      {
+        "href": "/capitulos/1-reyes-2-mandato-de-david-a-salomon",
+        "text": "Mandato de David a Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-3-salomon-se-casa-con-la-hija-de-faraon",
+        "text": "Salomón se casa con la hija de Faraón"
+      },
+      {
+        "href": "/capitulos/1-reyes-4",
+        "text": "I Reyes 4"
+      },
+      {
+        "href": "/capitulos/1-reyes-5-pacto-de-salomon-con-hiram",
+        "text": "Pacto de Salomón con Hiram"
+      },
+      {
+        "href": "/capitulos/1-reyes-6-salomon-edifica-el-templo",
+        "text": "Salomón edifica el templo"
+      },
+      {
+        "href": "/capitulos/1-reyes-7-otros-edificios-de-salomon",
+        "text": "Otros edificios de Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-8-salomon-traslada-el-arca-al-templo",
+        "text": "Salomón traslada el arca al templo"
+      },
+      {
+        "href": "/capitulos/1-reyes-9-pacto-de-dios-con-salomon",
+        "text": "Pacto de Dios con Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-10-la-reina-de-saba-visita-a-salomon",
+        "text": "La reina de Sabá visita a Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-11-apostasia-y-dificultades-de-salomon",
+        "text": "Apostasía y dificultades de Salomón"
+      },
+      {
+        "href": "/capitulos/1-reyes-12-rebelion-de-israel",
+        "text": "Rebelión de Israel"
+      },
+      {
+        "href": "/capitulos/1-reyes-13-un-profeta-de-juda-amonesta-a-jeroboam",
+        "text": "Un profeta de Judá amonesta a Jeroboam"
+      },
+      {
+        "href": "/capitulos/1-reyes-14-profecia-de-ahias-contra-jeroboam",
+        "text": "Profecía de Ahías contra Jeroboam"
+      },
+      {
+        "href": "/capitulos/1-reyes-15-reinado-de-abiam",
+        "text": "Reinado de Abiam"
+      },
+      {
+        "href": "/capitulos/1-reyes-16-reinados-de-ela-y-de-zimri",
+        "text": "Reinados de Ela y de Zimri"
+      },
+      {
+        "href": "/capitulos/1-reyes-17-elias-predice-la-sequia",
+        "text": "Elías predice la sequía"
+      },
+      {
+        "href": "/capitulos/1-reyes-18-elias-regresa-a-ver-a-acab",
+        "text": "Elías regresa a ver a Acab"
+      },
+      {
+        "href": "/capitulos/1-reyes-19-elias-huye-a-horeb",
+        "text": "Elías huye a Horeb"
+      },
+      {
+        "href": "/capitulos/1-reyes-20-acab-derrota-a-los-sirios",
+        "text": "Acab derrota a los sirios"
+      },
+      {
+        "href": "/capitulos/1-reyes-21-acab-y-la-vina-de-nabot",
+        "text": "Acab y la viña de Nabot"
+      },
+      {
+        "href": "/capitulos/1-reyes-22-micaias-profetiza-la-derrota-de-acab",
+        "text": "Micaías profetiza la derrota de Acab"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosI ReyesLa BibliaI ReyesCapítulos del libroAbisag sirve a DavidMandato de David a SalomónSalomón se casa con la hija de FaraónI Reyes 4Pacto de Salomón con HiramSalomón edifica el temploOtros edificios de SalomónSalomón traslada el arca al temploPacto de Dios con SalomónLa reina de Sabá visita a SalomónApostasía y dificultades de SalomónRebelión de IsraelUn profeta de Judá amonesta a JeroboamProfecía de Ahías contra JeroboamReinado de AbiamReinados de Ela y de ZimriElías predice la sequíaElías regresa a ver a AcabElías huye a HorebAcab derrota a los siriosAcab y la viña de NabotMicaías profetiza la derrota de AcabEl Libro de I Reyes nos ofrece una mirada profunda a cómo Dios guía la historia de su pueblo, no solo a través de grandes reyes y eventos monumentales, sino también en medio de sus fallos y debilidades. Es un libro que revela tanto la grandeza del reinado de Salomón como las consecuencias del alejamiento de Dios.Uno de los hitos más importantes que nos presenta este libro es la construcción del Templo de Salomón. Este magnífico templo no solo fue una hazaña arquitectónica, sino que también simbolizaba la presencia de Dios entre su pueblo. El corazón de Jerusalén se llenaba de esperanza, pues el pueblo creía que Dios habitaba entre ellos de manera más tangible que nunca. Pero, aunque las paredes del templo resplandecían, las decisiones del rey Salomón empezaron a ensombrecer su legado. Su famosa sabiduría, que atrajo a líderes de todo el mundo, como la Reina de Saba, eventualmente quedó eclipsada por su inclinación hacia dioses extranjeros, introducidos por sus muchas esposas. Este desvío del corazón de Salomón fue un momento crítico, que nos recuerda cómo incluso los más sabios pueden perder su camino si se alejan de los mandamientos de Dios.Este desvío trajo consecuencias dolorosas. Tras la muerte de Salomón, el reino unificado que había heredado se fragmentó, dando lugar a los reinos divididos de Israel en el norte y Judá en el sur. En este punto, Dios permitió que las decisiones de los reyes y el pueblo condujeran a conflictos y a una falta de estabilidad. Jeroboam, el primer rey del reino del norte, introdujo prácticas idolátricas, estableciendo centros de adoración en Betel y Dan, lejos del templo en Jerusalén. Este acto de desobediencia creó una fractura aún mayor en la relación entre el pueblo y Dios.A lo largo del libro, vemos cómo la idolatría y la búsqueda de poder distorsionaron la misión del pueblo de Israel. Pero aun en este contexto de decadencia espiritual, Dios no se mantuvo en silencio. Es aquí donde el profeta Elías entra en escena. A través de su vida, vemos la fidelidad de Dios en levantar voces que claman por justicia y verdad, aun cuando todo parece desmoronarse. Uno de los episodios más poderosos del libro es la confrontación en el Monte Carmelo, donde Elías desafía a los profetas de Baal. En un acto cargado de fe, Elías clama a Dios y el fuego del cielo desciende, consumiendo la ofrenda y demostrando ante todo Israel que solo hay un Dios verdadero.El Libro de I Reyes nos muestra también cómo el pecado tiene consecuencias. Dios, en su misericordia, advierte al pueblo una y otra vez, pero cuando no hay arrepentimiento, permite que naciones extranjeras invadan y opriman a Israel, como una forma de llamar al pueblo de vuelta a la obediencia. Sin embargo, a pesar del juicio, siempre encontramos destellos de esperanza. El relato de Elías nos enseña que Dios nunca abandona a su pueblo. Su relación con la viuda en Sarepta, quien en su pobreza comparte lo poco que tiene, nos recuerda que la fidelidad de Dios se manifiesta incluso en los actos más sencillos y humildes.Al final del libro, vemos la preparación para un nuevo capítulo en la historia del pueblo de Israel. Aunque los reyes no siempre fueron fieles, y aunque el pueblo cayó una y otra vez en la idolatría, la mano de Dios seguía guiando la historia. Este libro nos invita a reconocer que nuestra verdadera fortaleza no proviene de reyes o templos, sino de nuestra relación con el Dios vivo.El Libro de I Reyes no solo es un relato histórico; es una invitación a reflexionar sobre cómo nuestras decisiones pueden acercarnos o alejarnos de Dios. Nos recuerda que, aunque el ser humano puede fallar, Dios sigue siendo fiel. Incluso en tiempos de oscuridad, Él levanta voces como las de Elías para guiarnos de vuelta a su luz. En cada página, el libro nos invita a mantenernos firmes en nuestra fe, sabiendo que el Dios de Israel nunca abandona a su pueblo.ANTERIORII SamuelSIGUIENTEII ReyesGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelI ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasL"
+}

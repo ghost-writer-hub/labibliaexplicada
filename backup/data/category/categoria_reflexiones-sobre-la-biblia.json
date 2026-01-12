@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/categoria/reflexiones-sobre-la-biblia",
+    "title": "La biblia explicada",
+    "description": "",
+    "ogImage": "",
+    "ogTitle": "",
+    "canonical": "https://www.labibliaexplicada.com/categoria/reflexiones-sobre-la-biblia"
+  },
+  "templateType": "category",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745e0bdd8ff0a9dc20192bb_Eli%CC%81as%20y%20el%20fuego%20del%20cielo%20en%20el%20monte%20Carmelo.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745df74ed8f5bcb455d8c93_Los%20disci%CC%81pulos%20en%20el%20camino%20a%20Emau%CC%81s.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745de5a43a9fb5355588b61_El%20juicio%20de%20Salomo%CC%81n%20y%20la%20verdadera%20madre.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745dd619be47a18627a39e1_El%20suen%CC%83o%20de%20Jacob%20y%20la%20escalera%20al%20cielo.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745dc685de95bed6b7b2a86_%20La%20viuda%20de%20Sarepta%20y%20el%20aceite%20que%20no%20se%20agoto%CC%81.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745db40cb5baa384cd81100_%20Naama%CC%81n%20y%20el%20ri%CC%81o%20Jorda%CC%81n%20sanidad%20a%20trave%CC%81s%20de%20la%20humildad.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9d2b6a0361b353521cf_La%20cai%CC%81da%20de%20los%20muros%20de%20Jerico%CC%81.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9be185f784b932eb7b3_Jonas%20y%20el%20gran%20pez%202.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9a781e71189d36e7895_Ester%2C%20la%20reina%20que%20salvo%CC%81%20a%20su%20pueblo.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6745d9956f45e857c6b4166c_Gideon%20y%20sus%20300%20valientes.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67067c6d7314c0aaa85b3be6_Ezequiel%20y%20el%20Valle%20de%20los%20Huesos%20Secos.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67067b24cf5f9ed98e94487e_Melquisedec%2C%20el%20Misterioso%20Rey%20y%20Sacerdote.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670679b88a70af435d0a6c54_Los%20Tres%20Jo%CC%81venes%20en%20el%20Horno%20de%20Fuego%20Ardiente.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67067818e0c62ae9e627c187_Oseas%20y%20su%20Amor%20Inquebrantable%20por%20Gomer.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6706764b9f734efdfd369ee6_La%20Misericordia%20de%20David%20hacia%20Mefiboset.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6706748d4a3ca607c0a1a8a9_El%20Di%CC%81a%20en%20que%20el%20Sol%20se%20Detuvo%20en%20Gabao%CC%81n.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670670b54a3ca607c09e7ec0_Eliseo%20y%20el%20Hacha%20Flotante.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67061f7c366fbbc084e8ca2f_Balaam%20y%20el%20Asna%20que%20Hablo.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/67026bca8647f3b8c71ae858_Debora%20liberando%20a%20Israel.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66eed146511b32da09078558_ascension.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66cc37c6e520d320590086f5_image-14.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {},
+  "cleanText": "ConceptosLibrosNosotrosReflexiones sobre La BibliaReflexiones sobre La BibliaElías y el fuego del cielo en el monte CarmeloByEstherReflexiones sobre La BibliaLos discípulos en el camino a EmaúsByEstherReflexiones sobre La BibliaEl juicio de Salomón y la verdadera madreByEstherReflexiones sobre La BibliaEl sueño de Jacob y la escalera al cieloByEstherReflexiones sobre La Biblia La viuda de Sarepta y el aceite que no se agotóByEstherReflexiones sobre La Biblia Naamán y el río Jordán: sanidad a través de la humildadByEstherReflexiones sobre La BibliaLa caída de los muros de JericóByEstherReflexiones sobre La BibliaJonás y el gran pez: una lección de obedienciaByEstherReflexiones sobre La BibliaEster, la reina que salvó a su puebloByEstherReflexiones sobre La BibliaGideón y los 300 valientes que derrotaron a un ejércitoByEstherReflexiones sobre La BibliaEzequiel y el Valle de los Huesos SecosByEstherReflexiones sobre La BibliaMelquisedec, el Misterioso Rey y SacerdoteByEstherReflexiones sobre La BibliaLos Tres Jóvenes en el Horno de Fuego ArdienteByEstherReflexiones sobre La BibliaOseas y su Amor Inquebrantable por GomerByEstherReflexiones sobre La BibliaLa Misericordia de David hacia MefibosetByEstherReflexiones sobre La BibliaEl Día en que el Sol se Detuvo en GabaónByEstherReflexiones sobre La BibliaEl Milagro del Hacha Flotante de EliseoByEstherReflexiones sobre La BibliaBalaam y el Asna que HablóByEstherReflexiones sobre La BibliaDébora, la mujer que lideró a Israel a la victoriaByEstherReflexiones sobre La BibliaReflejos eternos de la condición humana en la cultura popByEstherReflexiones sobre La BibliaEl Tiempo: De la Divina Providencia a la Tiranía de las MáquinasByEsther2025 LA biblia explicadaCategoryArticulosCuriosidades y conceptosReflexiones sobre La BibliaCATEGORIASArticulosCuriosidades y conceptosReflexiones sobre La Biblia"
+}

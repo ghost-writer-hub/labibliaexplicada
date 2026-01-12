@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-isaias",
+    "title": "Libro de Isaías",
+    "description": "El Libro de Isaías es un poderoso mensaje de juicio y esperanza, donde Dios revela su plan de salvación para Israel y las naciones.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Libro de Isaías",
+    "canonical": "https://www.labibliaexplicada.com/libro/libro-de-isaias"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Libro de Isaías",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/isaias-1-una-nacion-pecadora",
+        "text": "Una nación pecadora"
+      },
+      {
+        "href": "/capitulos/isaias-2-reinado-universal-de-jehova",
+        "text": "Reinado universal de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-3-juicio-de-jehova-contra-juda-y-jerusalen",
+        "text": "Juicio de Jehová contra Judá y Jerusalén"
+      },
+      {
+        "href": "/capitulos/isaias-4-futuro-glorioso-de-jerusalen",
+        "text": "Futuro glorioso de Jerusalén"
+      },
+      {
+        "href": "/capitulos/isaias-5-parabola-de-la-vina",
+        "text": "Parábola de la viña"
+      },
+      {
+        "href": "/capitulos/isaias-6-vision-y-llamamiento-de-isaias",
+        "text": "Visión y llamamiento de Isaías"
+      },
+      {
+        "href": "/capitulos/isaias-7-mensaje-de-isaias-a-acaz",
+        "text": "Mensaje de Isaías a Acaz"
+      },
+      {
+        "href": "/capitulos/isaias-8-ser-jehova-vuestro-temor",
+        "text": "Ser Jehová vuestro temor"
+      },
+      {
+        "href": "/capitulos/isaias-9-nacimiento-y-reinado-del-mesias",
+        "text": "Nacimiento y reinado del Mesías"
+      },
+      {
+        "href": "/capitulos/isaias-10-asiria-instrumento-de-dios",
+        "text": "Asiria, instrumento de Dios"
+      },
+      {
+        "href": "/capitulos/isaias-11-reinado-justo-del-mesias",
+        "text": "Reinado justo del Mesías"
+      },
+      {
+        "href": "/capitulos/isaias-12-cantico-de-accion-de-gracias",
+        "text": "Cántico de acción de gracias"
+      },
+      {
+        "href": "/capitulos/isaias-13-profecia-sobre-babilonia",
+        "text": "Profecía sobre Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-14-escarnio-contra-el-rey-de-babilonia",
+        "text": "Escarnio contra el rey de Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-15-profecia-sobre-moab",
+        "text": "Profecía sobre Moab"
+      },
+      {
+        "href": "/capitulos/isaias-16",
+        "text": "Libro de Isaías 16"
+      },
+      {
+        "href": "/capitulos/isaias-17-profecia-sobre-damasco",
+        "text": "Profecía sobre Damasco"
+      },
+      {
+        "href": "/capitulos/isaias-18-profecia-sobre-etiopia",
+        "text": "Profecía sobre Etiopía"
+      },
+      {
+        "href": "/capitulos/isaias-19-profecia-sobre-egipto",
+        "text": "Profecía sobre Egipto"
+      },
+      {
+        "href": "/capitulos/isaias-20-prediccion-de-la-conquista-de-egipto-y-de-etiopia-por-asiria",
+        "text": "Predicción de la conquista de Egipto y de Etiopía por Asiria"
+      },
+      {
+        "href": "/capitulos/isaias-21-profecia-sobre-el-desierto-del-mar",
+        "text": "Profecía sobre el desierto del mar"
+      },
+      {
+        "href": "/capitulos/isaias-22-profecia-sobre-el-valle-de-la-vision",
+        "text": "Profecía sobre el valle de la visión"
+      },
+      {
+        "href": "/capitulos/isaias-23-profecia-sobre-tiro",
+        "text": "Profecía sobre Tiro"
+      },
+      {
+        "href": "/capitulos/isaias-24-el-juicio-de-jehova-sobre-la-tierra",
+        "text": "El juicio de Jehová sobre la tierra"
+      },
+      {
+        "href": "/capitulos/isaias-25-cantico-de-alabanza-por-el-favor-de-jehova",
+        "text": "Cántico de alabanza por el favor de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-26-cantico-de-confianza-en-la-proteccion-de-jehova",
+        "text": "Cántico de confianza en la protección de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-27-liberacion-y-regreso-de-israel",
+        "text": "Liberación y regreso de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-28-condenacion-de-efrain",
+        "text": "Condenación de Efraín"
+      },
+      {
+        "href": "/capitulos/isaias-29-ariel-y-sus-enemigos",
+        "text": "Ariel y sus enemigos"
+      },
+      {
+        "href": "/capitulos/isaias-30-la-futilidad-de-confiar-en-egipto",
+        "text": "La futilidad de confiar en Egipto"
+      },
+      {
+        "href": "/capitulos/isaias-31-los-egipcios-son-hombres-y-no-dioses",
+        "text": "Los egipcios son hombres y no dioses"
+      },
+      {
+        "href": "/capitulos/isaias-32-el-rey-justo",
+        "text": "El Rey justo"
+      },
+      {
+        "href": "/capitulos/isaias-33-jehova-traera-salvacion",
+        "text": "Jehová traerá salvación"
+      },
+      {
+        "href": "/capitulos/isaias-34-la-ira-de-jehova-contra-las-naciones",
+        "text": "La ira de jehová contra las naciones"
+      },
+      {
+        "href": "/capitulos/isaias-35-futuro-glorioso-de-sion",
+        "text": "Futuro glorioso de Sion"
+      },
+      {
+        "href": "/capitulos/isaias-36-la-invasion-de-senaquerib",
+        "text": "La invasión de Senaquerib"
+      },
+      {
+        "href": "/capitulos/isaias-37-juda-es-librado-de-senaquerib",
+        "text": "Judá es librado de Senaquerib"
+      },
+      {
+        "href": "/capitulos/isaias-38-enfermedad-de-ezequias",
+        "text": "Enfermedad de Ezequías"
+      },
+      {
+        "href": "/capitulos/isaias-39-ezequias-recibe-a-los-enviados-de-babilonia",
+        "text": "Ezequías recibe a los enviados de Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-40-jehova-consuela-a-sion",
+        "text": "Jehová consuela a Sion"
+      },
+      {
+        "href": "/capitulos/isaias-41-seguridad-de-dios-para-israel",
+        "text": "Seguridad de Dios para Israel"
+      },
+      {
+        "href": "/capitulos/isaias-42-el-siervo-de-jehova",
+        "text": "El Siervo de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-43-jehova-es-el-unico-redentor",
+        "text": "Jehová es el único Redentor"
+      },
+      {
+        "href": "/capitulos/isaias-44-jehova-es-el-unico-dios",
+        "text": "Jehová es el único Dios"
+      },
+      {
+        "href": "/capitulos/isaias-45-encargo-de-dios-para-ciro",
+        "text": "Encargo de Dios para Ciro"
+      },
+      {
+        "href": "/capitulos/isaias-46",
+        "text": "Libro de Isaías 46"
+      },
+      {
+        "href": "/capitulos/isaias-47-juicio-sobre-babilonia",
+        "text": "Juicio sobre Babilonia"
+      },
+      {
+        "href": "/capitulos/isaias-48-dios-reprende-la-infidelidad-de-israel",
+        "text": "Dios reprende la infidelidad de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-49-israel-siervo-de-jehova",
+        "text": "Israel, siervo de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-50-jehova-ayuda-a-quienes-confian-en-el",
+        "text": "Jehová ayuda a quienes confían en él"
+      },
+      {
+        "href": "/capitulos/isaias-51-palabras-de-consuelo-para-sion",
+        "text": "Palabras de consuelo para Sion"
+      },
+      {
+        "href": "/capitulos/isaias-52-dios-librara-del-cautiverio-a-sion",
+        "text": "Dios librará del cautiverio a Sion"
+      },
+      {
+        "href": "/capitulos/isaias-53",
+        "text": "Libro de Isaías 53"
+      },
+      {
+        "href": "/capitulos/isaias-54-el-amor-eterno-de-jehova-hacia-israel",
+        "text": "El amor eterno de Jehová hacia Israel"
+      },
+      {
+        "href": "/capitulos/isaias-55-misericordia-gratuita-para-todos",
+        "text": "Misericordia gratuita para todos"
+      },
+      {
+        "href": "/capitulos/isaias-56-recompensa-de-los-que-guardan-el-pacto-de-dios",
+        "text": "Recompensa de los que guardan el pacto de Dios"
+      },
+      {
+        "href": "/capitulos/isaias-57-condenacion-de-la-idolatria-de-israel",
+        "text": "Condenación de la idolatría de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-58-el-verdadero-ayuno",
+        "text": "El verdadero ayuno"
+      },
+      {
+        "href": "/capitulos/isaias-59-confesion-del-pecado-de-israel",
+        "text": "Confesión del pecado de Israel"
+      },
+      {
+        "href": "/capitulos/isaias-60-la-futura-gloria-de-sion",
+        "text": "La futura gloria de Sion"
+      },
+      {
+        "href": "/capitulos/isaias-61-buenas-nuevas-de-salvacion-para-sion",
+        "text": "Buenas nuevas de salvacion para Sion"
+      },
+      {
+        "href": "/capitulos/isaias-62",
+        "text": "Libro de Isaías 62"
+      },
+      {
+        "href": "/capitulos/isaias-63-el-dia-de-la-venganza-de-jehova",
+        "text": "El día de la venganza de Jehová"
+      },
+      {
+        "href": "/capitulos/isaias-64",
+        "text": "Libro de Isaías 64"
+      },
+      {
+        "href": "/capitulos/isaias-65-castigo-de-los-rebeldes",
+        "text": "Castigo de los rebeldes"
+      },
+      {
+        "href": "/capitulos/isaias-66-los-juicios-de-jehova-y-la-futura-prosperidad-de-sion",
+        "text": "Los juicios de Jehová y la futura prosperidad de Sion"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosLibro de IsaíasLa BibliaLibro de IsaíasCapítulos del libroUna nación pecadoraReinado universal de JehováJuicio de Jehová contra Judá y JerusalénFuturo glorioso de JerusalénParábola de la viñaVisión y llamamiento de IsaíasMensaje de Isaías a AcazSer Jehová vuestro temorNacimiento y reinado del MesíasAsiria, instrumento de DiosReinado justo del MesíasCántico de acción de graciasProfecía sobre BabiloniaEscarnio contra el rey de BabiloniaProfecía sobre MoabLibro de Isaías 16Profecía sobre DamascoProfecía sobre EtiopíaProfecía sobre EgiptoPredicción de la conquista de Egipto y de Etiopía por AsiriaProfecía sobre el desierto del marProfecía sobre el valle de la visiónProfecía sobre TiroEl juicio de Jehová sobre la tierraCántico de alabanza por el favor de JehováCántico de confianza en la protección de JehováLiberación y regreso de IsraelCondenación de EfraínAriel y sus enemigosLa futilidad de confiar en EgiptoLos egipcios son hombres y no diosesEl Rey justoJehová traerá salvaciónLa ira de jehová contra las nacionesFuturo glorioso de SionLa invasión de SenaqueribJudá es librado de SenaqueribEnfermedad de EzequíasEzequías recibe a los enviados de BabiloniaJehová consuela a SionSeguridad de Dios para IsraelEl Siervo de JehováJehová es el único RedentorJehová es el único DiosEncargo de Dios para CiroLibro de Isaías 46Juicio sobre BabiloniaDios reprende la infidelidad de IsraelIsrael, siervo de JehováJehová ayuda a quienes confían en élPalabras de consuelo para SionDios librará del cautiverio a SionLibro de Isaías 53El amor eterno de Jehová hacia IsraelMisericordia gratuita para todosRecompensa de los que guardan el pacto de DiosCondenación de la idolatría de IsraelEl verdadero ayunoConfesión del pecado de IsraelLa futura gloria de SionBuenas nuevas de salvacion para SionLibro de Isaías 62El día de la venganza de JehováLibro de Isaías 64Castigo de los rebeldesLos juicios de Jehová y la futura prosperidad de SionEl Libro de Isaías es como un faro que brilla en la vasta historia de Israel, recordando al pueblo tanto el juicio como la esperanza. Isaías, uno de los profetas más citados en el Nuevo Testamento, no solo predicó sobre el castigo que vendría debido a la desobediencia, sino también sobre la restauración y el consuelo que Dios prometía. A lo largo de sus palabras, vemos cómo Dios, aunque justo, es también lleno de gracia.El libro nos lleva por diferentes etapas, desde advertencias hasta promesas de salvación, pasando por la caída de imperios como Babilonia, que Isaías profetizó con precisión, hasta la esperanza que trajo al predicar el futuro retorno de Israel. Todo esto está envuelto en una historia de amor y corrección, donde Dios es el dueño de una viña, y aunque esa viña produce uvas amargas, el amor de Dios no se aparta de su pueblo.Quizás el corazón de este libro lo encontramos en el siervo sufriente (Isaías 53), un texto que ha tocado los corazones de creyentes y estudiosos durante siglos. Es en este pasaje donde muchos ven un anticipo de Cristo, el Mesías que sufriría y redimiría al mundo. Este siervo, sin embargo, también puede representar al propio Israel, llamado a una vida de sacrificio.Y no podemos dejar de lado el momento en que Isaías fue llamado. La visión de Isaías en el capítulo 6 es uno de los relatos más profundos de la Biblia. En ese encuentro, Isaías se siente completamente indigno ante la santidad de Dios, pero a pesar de su sentimiento de insuficiencia, acepta el llamado de ser el mensajero de Yahvé. En este encuentro, vemos un Dios que no se aleja de los pecadores, sino que los purifica y los envía con un propósito.Isaías es, en su esencia, un libro de esperanza, aun cuando habla de juicio. Su nombre mismo significa “Yahvé es salvación”, y este es el eco que resuena en cada capítulo. Desde las advertencias iniciales hasta las promesas de redención, nos invita a confiar en la obra transformadora de Dios en nuestras vidas. Es un recordatorio de que, aunque las circunstancias sean difíciles, siempre hay un camino de retorno hacia los brazos de nuestro Creador.Este mensaje de Isaías sigue siendo tan relevante hoy como lo fue hace siglos, recordándonos que en cada prueba y cada momento de juicio, Dios está allí, ofreciendo siempre salvación y restauración a quienes se vuelven a Él.ANTERIORCantar de los CantaresSIGUIENTELibro de JeremíasGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésLibro de IsaíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola "
+}

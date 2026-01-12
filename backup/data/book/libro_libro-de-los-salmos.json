@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/libro-de-los-salmos",
+    "title": "Libro de los Salmos",
+    "description": "El Libro de los Salmos es un canto de alabanza y oración que conecta el corazón humano con la presencia de Dios en todas las circunstancias de la vida.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Libro de los Salmos",
+    "canonical": "https://www.labibliaexplicada.com/libro/libro-de-los-salmos"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Libro de los Salmos",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/salmos-1-el-justo-y-los-pecadores",
+        "text": "El justo y los pecadores"
+      },
+      {
+        "href": "/capitulos/salmos-2-el-reino-del-ungido-de-jehova",
+        "text": "El reino del ungido de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-3-oracion-matutina-de-confianza-en-dios",
+        "text": "Oración matutina de confianza en Dios"
+      },
+      {
+        "href": "/capitulos/salmos-4-oracion-vespertina-de-confianza-en-dios",
+        "text": "Oración vespertina de confianza en Dios"
+      },
+      {
+        "href": "/capitulos/salmos-5-plegaria-pidiendo-proteccion",
+        "text": "Plegaria pidiendo protección"
+      },
+      {
+        "href": "/capitulos/salmos-6-oracion-pidiendo-misericordia-en-tiempo-de-prueba",
+        "text": "Oración pidiendo misericordia en tiempo de prueba"
+      },
+      {
+        "href": "/capitulos/salmos-7-plegaria-pidiendo-vindicacion",
+        "text": "Plegaria pidiendo vindicación"
+      },
+      {
+        "href": "/capitulos/salmos-8-la-gloria-de-dios-y-la-honra-del-hombre",
+        "text": "La gloria de Dios y la honra del hombre"
+      },
+      {
+        "href": "/capitulos/salmos-9-accion-de-gracias-por-la-justicia-de-dios",
+        "text": "Acción de gracias por la justicia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-10-plegaria-pidiendo-la-destruccion-de-los-malvados",
+        "text": "Plegaria pidiendo la destrucción de los malvados"
+      },
+      {
+        "href": "/capitulos/salmos-11-el-refugio-del-justo",
+        "text": "El refugio del justo"
+      },
+      {
+        "href": "/capitulos/salmos-12-oracion-pidiendo-ayuda-contra-los-malos",
+        "text": "Oración pidiendo ayuda contra los malos"
+      },
+      {
+        "href": "/capitulos/salmos-13-plegaria-pidiendo-ayuda-en-la-afliccion",
+        "text": "Plegaria pidiendo ayuda en la aflicción"
+      },
+      {
+        "href": "/capitulos/salmos-14-necedad-y-corrupcion-del-hombre",
+        "text": "Necedad y corrupción del hombre"
+      },
+      {
+        "href": "/capitulos/salmos-15-los-que-habitaran-en-el-monte-santo-de-dios",
+        "text": "Los que habitarán en el monte santo de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-16-una-herencia-escogida",
+        "text": "Una herencia escogida"
+      },
+      {
+        "href": "/capitulos/salmos-17-plegaria-pidiendo-proteccion-contra-los-opresores",
+        "text": "Plegaria pidiendo protección contra los opresores"
+      },
+      {
+        "href": "/capitulos/salmos-18-accion-de-gracias-por-la-victoria",
+        "text": "Acción de gracias por la victoria"
+      },
+      {
+        "href": "/capitulos/salmos-19-las-obras-de-dios-y-la-palabra-de-dios",
+        "text": "Las obras de Dios y la palabra de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-20-oracion-pidiendo-la-victoria",
+        "text": "Oración pidiendo la victoria"
+      },
+      {
+        "href": "/capitulos/salmos-21-alabanza-por-haber-sido-librado-del-enemigo",
+        "text": "Alabanza por haber sido librado del enemigo"
+      },
+      {
+        "href": "/capitulos/salmos-22-un-grito-de-angustia-y-un-canto-de-alabanza",
+        "text": "Un grito de angustia y un canto de alabanza"
+      },
+      {
+        "href": "/capitulos/salmos-23-jehova-es-mi-pastor",
+        "text": "Jehová es mi pastor"
+      },
+      {
+        "href": "/capitulos/salmos-24-el-rey-de-gloria",
+        "text": "El rey de gloria"
+      },
+      {
+        "href": "/capitulos/salmos-25-david-implora-direccion-perdon-y-proteccion",
+        "text": "David implora dirección, perdón y protección"
+      },
+      {
+        "href": "/capitulos/salmos-26-declaracion-de-integridad",
+        "text": "Declaración de integridad"
+      },
+      {
+        "href": "/capitulos/salmos-27-jehova-es-mi-luz-y-mi-salvacion",
+        "text": "Jehová es mi luz y mi salvación"
+      },
+      {
+        "href": "/capitulos/salmos-28-plegaria-pidiendo-ayuda-y-alabanza-por-la-respuesta",
+        "text": "Plegaria pidiendo ayuda, y alabanza por la respuesta"
+      },
+      {
+        "href": "/capitulos/salmos-29-poder-y-gloria-de-jehova",
+        "text": "Poder y gloria de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-30-accion-de-gracias-por-haber-sido-librado-de-la-muerte",
+        "text": "Acción de gracias por haber sido librado de la muerte"
+      },
+      {
+        "href": "/capitulos/salmos-31-declaracion-de-confianza",
+        "text": "Declaración de confianza"
+      },
+      {
+        "href": "/capitulos/salmos-32-la-dicha-del-perdon",
+        "text": "La dicha del perdón"
+      },
+      {
+        "href": "/capitulos/salmos-33-alabanzas-al-creador-y-preservador",
+        "text": "Alabanzas al Creador y Preservador"
+      },
+      {
+        "href": "/capitulos/salmos-34-la-proteccion-divina",
+        "text": "La protección divina"
+      },
+      {
+        "href": "/capitulos/salmos-35-plegaria-pidiendo-ser-librado-de-los-enemigos",
+        "text": "Plegaria pidiendo ser librado de los enemigos"
+      },
+      {
+        "href": "/capitulos/salmos-36-la-misericordia-de-dios",
+        "text": "La misericordia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-37-el-camino-de-los-malos",
+        "text": "El camino de los malos"
+      },
+      {
+        "href": "/capitulos/salmos-38-oracion-de-un-penitente",
+        "text": "Oración de un penitente"
+      },
+      {
+        "href": "/capitulos/salmos-39-el-caracter-transitorio-de-la-vida",
+        "text": "El carácter transitorio de la vida"
+      },
+      {
+        "href": "/capitulos/salmos-40-alabanza-por-la-liberacion-divina",
+        "text": "Alabanza por la liberación divina"
+      },
+      {
+        "href": "/capitulos/salmos-41-oracion-pidiendo-salud",
+        "text": "Oración pidiendo salud"
+      },
+      {
+        "href": "/capitulos/salmos-42-mi-alma-tiene-sed-de-dios",
+        "text": "Mi alma tiene sed de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-43-plegaria-pidiendo-vindicacion-y-liberacion",
+        "text": "Plegaria pidiendo vindicación y liberación"
+      },
+      {
+        "href": "/capitulos/salmos-44-liberaciones-pasadas-y-pruebas-presentes",
+        "text": "Liberaciones pasadas y pruebas presentes"
+      },
+      {
+        "href": "/capitulos/salmos-45-cantico-de-las-bodas-del-rey",
+        "text": "Cantico de las bodas del rey"
+      },
+      {
+        "href": "/capitulos/salmos-46-dios-es-nuestro-amparo-y-fortaleza",
+        "text": "Dios es nuestro amparo y fortaleza"
+      },
+      {
+        "href": "/capitulos/salmos-47-dios-el-rey-de-toda-la-tierra",
+        "text": "Dios, el Rey de toda la tierra"
+      },
+      {
+        "href": "/capitulos/salmos-48-hermosura-y-gloria-en-sion",
+        "text": "Hermosura y gloria en Sion"
+      },
+      {
+        "href": "/capitulos/salmos-49-la-insensatez-de-confiar-en-las-riquezas",
+        "text": "La insensatez de confiar en las riquezas"
+      },
+      {
+        "href": "/capitulos/salmos-50-dios-juzgara-al-mundo",
+        "text": "Dios juzgará al mundo"
+      },
+      {
+        "href": "/capitulos/salmos-51-arrepentimiento-y-plegaria-pidiendo-purificacion",
+        "text": "Arrepentimiento, y plegaria pidiendo purificación"
+      },
+      {
+        "href": "/capitulos/salmos-52-futilidad-de-la-jactancia-del-malo",
+        "text": "Futilidad de la jactancia del malo"
+      },
+      {
+        "href": "/capitulos/salmos-53-insensatez-y-maldad-de-los-hombres",
+        "text": "Insensatez y maldad de los hombres"
+      },
+      {
+        "href": "/capitulos/salmos-54-plegaria-pidiendo-proteccion-contra-los-enemigos",
+        "text": "Plegaria pidiendo protección contra los enemigos"
+      },
+      {
+        "href": "/capitulos/salmos-55-plegaria-pidiendo-la-destruccion-de-enemigos-traicioneros",
+        "text": "Plegaria pidiendo la destrucción de enemigos traicioneros"
+      },
+      {
+        "href": "/capitulos/salmos-56-oracion-de-confianza",
+        "text": "Oración de confianza"
+      },
+      {
+        "href": "/capitulos/salmos-57-plegaria-pidiendo-ser-librado-de-los-perseguidores",
+        "text": "Plegaria pidiendo ser librado de los perseguidores"
+      },
+      {
+        "href": "/capitulos/salmos-58-plegaria-pidiendo-el-castigo-de-los-malos",
+        "text": "Plegaria pidiendo el castigo de los malos"
+      },
+      {
+        "href": "/capitulos/salmos-59-oracion-pidiendo-ser-librado-de-los-enemigos",
+        "text": "Oración pidiendo ser librado de los enemigos"
+      },
+      {
+        "href": "/capitulos/salmos-60-plegaria-pidiendo-ayuda-contra-el-enemigo",
+        "text": "Plegaria pidiendo ayuda contra el enemigo"
+      },
+      {
+        "href": "/capitulos/salmos-61-confianza-en-la-proteccion-de-dios",
+        "text": "Confianza en la protección de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-62-dios-el-unico-refugio",
+        "text": "Dios, el único refugio"
+      },
+      {
+        "href": "/capitulos/salmos-63-dios-satisfacion-del-alma",
+        "text": "Dios, satisfación del alma"
+      },
+      {
+        "href": "/capitulos/salmos-64-plegaria-pidiendo-proteccion-contra-enemigos-ocultos",
+        "text": "Plegaria pidiendo protección contra enemigos ocultos"
+      },
+      {
+        "href": "/capitulos/salmos-65-la-generosidad-de-dios-en-la-naturaleza",
+        "text": "La generosidad de Dios en la naturaleza"
+      },
+      {
+        "href": "/capitulos/salmos-66-alabanza-por-los-hechos-poderosos-de-dios",
+        "text": "Alabanza por los hechos poderosos de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-67-exhortacion-a-las-naciones-para-que-alaben-a-dios",
+        "text": "Exhortación a las naciones, para que alaben a Dios"
+      },
+      {
+        "href": "/capitulos/salmos-68-el-dios-de-sinai-y-del-santuario",
+        "text": "El Dios de Sinaí y del santuario"
+      },
+      {
+        "href": "/capitulos/salmos-69-un-grito-de-angustia",
+        "text": "Un grito de angustia"
+      },
+      {
+        "href": "/capitulos/salmos-70-suplica-por-liberacion",
+        "text": "Súplica por liberación"
+      },
+      {
+        "href": "/capitulos/salmos-71-oracion-de-un-anciano",
+        "text": "Oración de un anciano"
+      },
+      {
+        "href": "/capitulos/salmos-72-el-reino-de-un-rey-justo",
+        "text": "El reino de un rey justo"
+      },
+      {
+        "href": "/capitulos/salmos-73-el-destino-de-los-malos",
+        "text": "El destino de los malos"
+      },
+      {
+        "href": "/capitulos/salmos-74-apelacion-a-dios-en-contra-del-enemigo",
+        "text": "Apelación a Dios en contra del enemigo"
+      },
+      {
+        "href": "/capitulos/salmos-75-dios-abate-al-malo-y-exalta-al-justo",
+        "text": "Dios abate al malo y exalta al justo"
+      },
+      {
+        "href": "/capitulos/salmos-76-el-dios-de-la-victoria-y-del-juicio",
+        "text": "El Dios de la victoria y del juicio"
+      },
+      {
+        "href": "/capitulos/salmos-77-meditacion-sobre-los-hechos-poderosos-de-dios",
+        "text": "Meditación sobre los hechos poderosos de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-78-fidelidad-de-dios-hacia-su-pueblo-infiel",
+        "text": "Fidelidad de Dios hacia su pueblo infiel"
+      },
+      {
+        "href": "/capitulos/salmos-79-lamento-por-la-destruccion-de-jerusalen",
+        "text": "Lamento por la destrucción de Jerusalén"
+      },
+      {
+        "href": "/capitulos/salmos-80-suplica-por-la-restauracion",
+        "text": "Súplica por la restauración"
+      },
+      {
+        "href": "/capitulos/salmos-81-bondad-de-dios-y-perversidad-de-israel",
+        "text": "Bondad de Dios y perversidad de Israel"
+      },
+      {
+        "href": "/capitulos/salmos-82-amonestacion-contra-los-juicios-injustos",
+        "text": "Amonestación contra los juicios injustos"
+      },
+      {
+        "href": "/capitulos/salmos-83-plegaria-pidiendo-la-destruccion-de-los-enemigos-de-israel",
+        "text": "Plegaria pidiendo la destrucción de los enemigos de Israel"
+      },
+      {
+        "href": "/capitulos/salmos-84-anhelo-por-la-casa-de-dios",
+        "text": "Anhelo por la casa de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-85-suplica-por-l-misericordia-de-dios-sobre-israel",
+        "text": "Súplica por l misericordia de Dios sobre Israel"
+      },
+      {
+        "href": "/capitulos/salmos-86-oracion-pidiendo-la-continuada-misericordia-de-dios",
+        "text": "Oración pidiendo la continuada misericordia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-87-el-privilegio-de-morar-en-sion",
+        "text": "El privilegio de morar en Sion"
+      },
+      {
+        "href": "/capitulos/salmos-88-suplica-por-la-liberacion-de-la-muerte",
+        "text": "Súplica por la liberación de la muerte"
+      },
+      {
+        "href": "/capitulos/salmos-89-pacto-de-dios-con-david",
+        "text": "Pacto de Dios con David"
+      },
+      {
+        "href": "/capitulos/salmos-90-la-eternidad-de-dios-y-la-transitoriedad-del-hombre",
+        "text": "La eternidad de Dios y la transitoriedad del hombre"
+      },
+      {
+        "href": "/capitulos/salmos-91-morando-bajo-la-sombra-del-omnipotente",
+        "text": "Morando bajo la sombra del Omnipotente"
+      },
+      {
+        "href": "/capitulos/salmos-92-alabanza-por-la-bondad-de-dios",
+        "text": "Alabanza por la bondad de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-93-la-majestad-de-jehova",
+        "text": "La majestad de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-94-oracion-clamando-por-venganza",
+        "text": "Oración clamando por venganza"
+      },
+      {
+        "href": "/capitulos/salmos-95-cantico-de-alabanza-y-de-adoracion",
+        "text": "Cántico de alabanza y de adoración"
+      },
+      {
+        "href": "/capitulos/salmos-96-cantico-de-alabanza",
+        "text": "Cántico de alabanza"
+      },
+      {
+        "href": "/capitulos/salmos-97-el-dominio-y-el-poder-de-jehova",
+        "text": "El dominio y el poder de Jehová"
+      },
+      {
+        "href": "/capitulos/salmos-98-alabanza-por-la-justicia-de-dios",
+        "text": "Alabanza por la justicia de Dios"
+      },
+      {
+        "href": "/capitulos/salmos-99-fidelidad-de-jehova-para-con-israel",
+        "text": "Fidelidad de Jehová para con Israel"
+      },
+      {
+        "href": "/capitulos/salmos-100-exhortacion-a-la-gratitud",
+        "text": "Exhortación a la gratitud"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosLibro de los SalmosLa BibliaLibro de los SalmosCapítulos del libroEl justo y los pecadoresEl reino del ungido de JehováOración matutina de confianza en DiosOración vespertina de confianza en DiosPlegaria pidiendo protecciónOración pidiendo misericordia en tiempo de pruebaPlegaria pidiendo vindicaciónLa gloria de Dios y la honra del hombreAcción de gracias por la justicia de DiosPlegaria pidiendo la destrucción de los malvadosEl refugio del justoOración pidiendo ayuda contra los malosPlegaria pidiendo ayuda en la aflicciónNecedad y corrupción del hombreLos que habitarán en el monte santo de DiosUna herencia escogidaPlegaria pidiendo protección contra los opresoresAcción de gracias por la victoriaLas obras de Dios y la palabra de DiosOración pidiendo la victoriaAlabanza por haber sido librado del enemigoUn grito de angustia y un canto de alabanzaJehová es mi pastorEl rey de gloriaDavid implora dirección, perdón y protecciónDeclaración de integridadJehová es mi luz y mi salvaciónPlegaria pidiendo ayuda, y alabanza por la respuestaPoder y gloria de JehováAcción de gracias por haber sido librado de la muerteDeclaración de confianzaLa dicha del perdónAlabanzas al Creador y PreservadorLa protección divinaPlegaria pidiendo ser librado de los enemigosLa misericordia de DiosEl camino de los malosOración de un penitenteEl carácter transitorio de la vidaAlabanza por la liberación divinaOración pidiendo saludMi alma tiene sed de DiosPlegaria pidiendo vindicación y liberaciónLiberaciones pasadas y pruebas presentesCantico de las bodas del reyDios es nuestro amparo y fortalezaDios, el Rey de toda la tierraHermosura y gloria en SionLa insensatez de confiar en las riquezasDios juzgará al mundoArrepentimiento, y plegaria pidiendo purificaciónFutilidad de la jactancia del maloInsensatez y maldad de los hombresPlegaria pidiendo protección contra los enemigosPlegaria pidiendo la destrucción de enemigos traicionerosOración de confianzaPlegaria pidiendo ser librado de los perseguidoresPlegaria pidiendo el castigo de los malosOración pidiendo ser librado de los enemigosPlegaria pidiendo ayuda contra el enemigoConfianza en la protección de DiosDios, el único refugioDios, satisfación del almaPlegaria pidiendo protección contra enemigos ocultosLa generosidad de Dios en la naturalezaAlabanza por los hechos poderosos de DiosExhortación a las naciones, para que alaben a DiosEl Dios de Sinaí y del santuarioUn grito de angustiaSúplica por liberaciónOración de un ancianoEl reino de un rey justoEl destino de los malosApelación a Dios en contra del enemigoDios abate al malo y exalta al justoEl Dios de la victoria y del juicioMeditación sobre los hechos poderosos de DiosFidelidad de Dios hacia su pueblo infielLamento por la destrucción de JerusalénSúplica por la restauraciónBondad de Dios y perversidad de IsraelAmonestación contra los juicios injustosPlegaria pidiendo la destrucción de los enemigos de IsraelAnhelo por la casa de DiosSúplica por l misericordia de Dios sobre IsraelOración pidiendo la continuada misericordia de DiosEl privilegio de morar en SionSúplica por la liberación de la muertePacto de Dios con DavidLa eternidad de Dios y la transitoriedad del hombreMorando bajo la sombra del OmnipotenteAlabanza por la bondad de DiosLa majestad de JehováOración clamando por venganzaCántico de alabanza y de adoraciónCántico de alabanzaEl dominio y el poder de JehováAlabanza por la justicia de DiosFidelidad de Jehová para con IsraelExhortación a la gratitudEl Libro de los Salmos es más que un conjunto de himnos y oraciones; es un espacio sagrado donde los corazones encuentran consuelo, esperanza y guía en la presencia de Dios. Es como si cada salmo fuera un puente que conecta nuestras emociones humanas, tan variadas y complejas, con la eterna paz del Señor. Ya sea en momentos de alegría o en las profundidades de la angustia, este libro nos ofrece palabras que resuenan con nuestra alma.El Rey David, aunque es el autor más conocido, no es el único que nos habla a través de los Salmos. Autores como Asaf, los hijos de Coré, e incluso Moisés nos invitan a unirnos a sus cánticos y oraciones. Cada voz aporta una perspectiva única, pero en todas encontramos la misma verdad: Dios es digno de alabanza en cada circunstancia.La estructura del libro, dividido en cinco secciones, refleja de alguna manera los cinco libros de la Torá. Este paralelismo nos recuerda que los Salmos no solo son poemas para ser recitados, sino que son enseñanzas vivas que, al igual que la Ley, deben guiar nuestras vidas. En cada sección, se nos ofrece una visión más profunda de la relación del hombre con Dios.Un aspecto que a menudo pasa desapercibido es que muchos salmos, más allá de ser una expresión de alabanza, son también clamores de lamento y súplica. El salmista no duda en expresar su dolor, su frustración, e incluso su sensación de abandono. Y es precisamente en estos momentos de vulnerabilidad donde descubrimos un Dios que no solo escucha, sino que"
+}

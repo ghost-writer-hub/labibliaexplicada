@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/categoria/curiosidades",
+    "title": "La biblia explicada",
+    "description": "",
+    "ogImage": "",
+    "ogTitle": "",
+    "canonical": "https://www.labibliaexplicada.com/categoria/curiosidades"
+  },
+  "templateType": "category",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68224bb592e6f62fb55dfdb1_7-mujeres-poderosas-del-antiguo-testamento-sus-historias-2.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670246aa652606eceaa12b37_gilgamesh.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {},
+  "cleanText": "ConceptosLibrosNosotrosCuriosidades y conceptosCuriosidades y conceptos7 Mujeres Poderosas del Antiguo Testamento: Sus HistoriasByEstherCuriosidades y conceptosGilgamesh: la búsqueda de un propósitoByEsther2025 LA biblia explicadaCategoryArticulosCuriosidades y conceptosReflexiones sobre La BibliaCATEGORIASArticulosCuriosidades y conceptosReflexiones sobre La Biblia"
+}

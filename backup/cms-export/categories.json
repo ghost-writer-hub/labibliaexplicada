@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "category-0",
+    "slug": "curiosidades",
+    "url": "https://www.labibliaexplicada.com/categoria/curiosidades",
+    "name": "La biblia explicada",
+    "metaTitle": "La biblia explicada",
+    "metaDescription": "",
+    "ogImage": ""
+  },
+  {
+    "_id": "category-1",
+    "slug": "historia",
+    "url": "https://www.labibliaexplicada.com/categoria/historia",
+    "name": "La biblia explicada",
+    "metaTitle": "La biblia explicada",
+    "metaDescription": "",
+    "ogImage": ""
+  },
+  {
+    "_id": "category-2",
+    "slug": "reflexiones-sobre-la-biblia",
+    "url": "https://www.labibliaexplicada.com/categoria/reflexiones-sobre-la-biblia",
+    "name": "La biblia explicada",
+    "metaTitle": "La biblia explicada",
+    "metaDescription": "",
+    "ogImage": ""
+  }
+]

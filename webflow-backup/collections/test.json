@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6702ae3b131d41ce93145ffb",
+    "cmsLocaleId": "66cc37c6e520d32059008672",
+    "lastPublished": "2024-10-06T15:35:32.850Z",
+    "lastUpdated": "2024-10-06T15:35:23.376Z",
+    "createdOn": "2024-10-06T15:35:23.376Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "test-fecha": "2024-10-07T00:00:00.000Z",
+      "name": "7 de octubre",
+      "slug": "7-de-octubre"
+    }
+  },
+  {
+    "id": "6702add9db95efc3aad75ed4",
+    "cmsLocaleId": "66cc37c6e520d32059008672",
+    "lastPublished": "2024-10-06T15:35:32.850Z",
+    "lastUpdated": "2024-10-06T15:33:45.953Z",
+    "createdOn": "2024-10-06T15:33:45.953Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "test-fecha": "2024-10-06T00:00:00.000Z",
+      "name": "6 de octubre",
+      "slug": "6-de-octubre"
+    }
+  }
+]

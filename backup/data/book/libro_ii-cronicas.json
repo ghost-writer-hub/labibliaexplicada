@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/ii-cronicas",
+    "title": "II Crónicas",
+    "description": "El Libro de II Crónicas narra la fidelidad de Dios hacia Judá a través de sus reyes, mostrando el poder del arrepentimiento y la restauración.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "II Crónicas",
+    "canonical": "https://www.labibliaexplicada.com/libro/ii-cronicas"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "II Crónicas",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-cronicas-1-salomon-pide-sabiduria",
+        "text": "Salomón pide sabiduría"
+      },
+      {
+        "href": "/capitulos/2-cronicas-2-pacto-de-salomon-con-hiram",
+        "text": "Pacto de Salomón con Hiram"
+      },
+      {
+        "href": "/capitulos/2-cronicas-3-salomon-edifica-el-templo",
+        "text": "Salomón edifica el templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-4-mobiliario-del-templo",
+        "text": "Mobiliario del templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-5-salomon-traslada-el-arca-al-templo",
+        "text": "Salomón traslada el arca al templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-6-dedicacion-del-templo",
+        "text": "Dedicación del templo"
+      },
+      {
+        "href": "/capitulos/2-cronicas-7-pacto-de-dios-con-salomon",
+        "text": "Pacto de Dios con Salomón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-8-otras-actividades-de-salomon",
+        "text": "Otras actividades de Salomón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-9-la-reina-de-saba-visita-a-salomon",
+        "text": "La reina de Sabá visita a Salomón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-10-rebelion-de-israel",
+        "text": "Rebelión de Israel"
+      },
+      {
+        "href": "/capitulos/2-cronicas-11-prosperidad-de-roboam",
+        "text": "Prosperidad de Roboam"
+      },
+      {
+        "href": "/capitulos/2-cronicas-12-sisac-invade-juda",
+        "text": "Sisac invade Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-13-reinado-de-abias",
+        "text": "Reinado de Abías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-14-reinado-de-asa",
+        "text": "Reinado de Asa"
+      },
+      {
+        "href": "/capitulos/2-cronicas-15-reformas-religiosas-de-asa",
+        "text": "Reformas religiosas de Asa"
+      },
+      {
+        "href": "/capitulos/2-cronicas-16-alianza-de-asa-con-ben-adad",
+        "text": "Alianza de Asa con Ben-adad"
+      },
+      {
+        "href": "/capitulos/2-cronicas-17-reinado-de-josafat",
+        "text": "Reinado de Josafat"
+      },
+      {
+        "href": "/capitulos/2-cronicas-18-micaias-profetiza-la-derrota-de-acab",
+        "text": "Micaías profetiza la derrota de Acab"
+      },
+      {
+        "href": "/capitulos/2-cronicas-19-el-profeta-jehu-amonesta-a-josafat",
+        "text": "El profeta Jehú amonesta a Josafat"
+      },
+      {
+        "href": "/capitulos/2-cronicas-20-victoria-sobre-moab-y-amon",
+        "text": "Victoria sobre Moab y Amón"
+      },
+      {
+        "href": "/capitulos/2-cronicas-21-reinado-de-joram-de-juda",
+        "text": "Reinado de Joram de Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-22-reinado-de-ocozias-de-juda",
+        "text": "Reinado de Ocozías de Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-23",
+        "text": "II Crónicas 23"
+      },
+      {
+        "href": "/capitulos/2-cronicas-24-reinado-de-joas-de-juda",
+        "text": "Reinado de Joás de Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-25-reinado-de-amasias",
+        "text": "Reinado de Amasías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-26-reinado-de-uzias",
+        "text": "Reinado de Uzías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-27-reinado-de-jotam",
+        "text": "Reinado de Jotam"
+      },
+      {
+        "href": "/capitulos/2-cronicas-28",
+        "text": "II Crónicas 28"
+      },
+      {
+        "href": "/capitulos/2-cronicas-29-reinado-de-acaz",
+        "text": "Reinado de Acaz"
+      },
+      {
+        "href": "/capitulos/2-cronicas-30-ezequias-celebra-la-pascua",
+        "text": "Ezequías celebra la pascua"
+      },
+      {
+        "href": "/capitulos/2-cronicas-31-ezequias-reorganiza-el-servicio-de-los-sacerdotes-y-levitas",
+        "text": "Ezequías reorganiza el servicio de los sacerdotes y levitas"
+      },
+      {
+        "href": "/capitulos/2-cronicas-32-senaquerib-invade-a-juda",
+        "text": "Senaquerib invade a Judá"
+      },
+      {
+        "href": "/capitulos/2-cronicas-33-reinado-de-manases",
+        "text": "Reinado de Manasés"
+      },
+      {
+        "href": "/capitulos/2-cronicas-34-reinado-de-josias",
+        "text": "Reinado de Josías"
+      },
+      {
+        "href": "/capitulos/2-cronicas-35-josias-celebra-la-pascua",
+        "text": "Josías celebra la pascua"
+      },
+      {
+        "href": "/capitulos/2-cronicas-36-reinado-y-destronamiento-de-joacaz",
+        "text": "Reinado y destronamiento de Joacaz"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosII CrónicasLa BibliaII CrónicasCapítulos del libroSalomón pide sabiduríaPacto de Salomón con HiramSalomón edifica el temploMobiliario del temploSalomón traslada el arca al temploDedicación del temploPacto de Dios con SalomónOtras actividades de SalomónLa reina de Sabá visita a SalomónRebelión de IsraelProsperidad de RoboamSisac invade JudáReinado de AbíasReinado de AsaReformas religiosas de AsaAlianza de Asa con Ben-adadReinado de JosafatMicaías profetiza la derrota de AcabEl profeta Jehú amonesta a JosafatVictoria sobre Moab y AmónReinado de Joram de JudáReinado de Ocozías de JudáII Crónicas 23Reinado de Joás de JudáReinado de AmasíasReinado de UzíasReinado de JotamII Crónicas 28Reinado de AcazEzequías celebra la pascuaEzequías reorganiza el servicio de los sacerdotes y levitasSenaquerib invade a JudáReinado de ManasésReinado de JosíasJosías celebra la pascuaReinado y destronamiento de JoacazEl Libro de II Crónicas es una obra que refleja la historia de Judá bajo una luz muy particular. A diferencia de otros textos históricos, el cronista decidió enfocarse exclusivamente en el reino del sur. Es como si quisiera recordarnos que, aunque la historia de Israel también es importante, la relación de Dios con Judá es clave para comprender Su plan. En este libro, Judá es el centro, y a través de sus reyes vemos cómo la fidelidad a Dios siempre lleva a la bendición, mientras que la desobediencia trae consecuencias.Uno de los temas más destacados es el Templo de Jerusalén. Desde la majestuosidad de su construcción bajo Salomón, hasta su destrucción final, este lugar sagrado es un símbolo del corazón de la fe. El cronista nos recuerda constantemente cómo el templo no solo es un edificio, sino el lugar donde el pueblo se encontraba con Dios. Salomón, en su oración, clama a Dios que escuche siempre a Su pueblo cuando oren hacia este lugar, y es una oración que sigue resonando en los corazones de muchos hasta hoy.Los reyes que más se destacan en el relato son aquellos que llevaron al pueblo de vuelta a Dios. Ezequías y Josías, por ejemplo, son retratados con gran admiración, ya que ambos lideraron reformas religiosas que restauraron la adoración verdadera. Estos reyes no solo se preocupaban por las cuestiones políticas, sino que entendieron que sin la fidelidad al Señor, su reinado no tendría éxito.Es interesante que el libro también presenta a los profetas como figuras fundamentales. Mientras los reyes gobernaban, los profetas eran la voz de Dios. Isaías y Jeremías son algunos de los que tienen un papel importante en II Crónicas. Ellos recordaban a los reyes que, aunque podían tener el poder temporal, era la voluntad divina la que realmente guiaba el destino de la nación.A pesar de los muchos momentos difíciles que Judá atravesó, como el exilio a Babilonia, el libro termina con un mensaje de esperanza. El decreto de Ciro permite al pueblo regresar a su tierra, una señal de que Dios nunca los abandonó del todo. Esto es un recordatorio poderoso para todos nosotros: aun cuando enfrentamos tiempos de exilio o dolor, Dios siempre tiene un plan de restauración.El libro también tiene personajes que, aunque menos conocidos, nos enseñan grandes lecciones. Asa, por ejemplo, fue un rey que, durante la mayor parte de su vida, fue fiel a Dios. Sin embargo, al final de sus días, se apartó, recordándonos que nunca es tarde para volver al Señor y que cada etapa de nuestra vida importa a los ojos de Dios.Otro aspecto interesante es cómo el cronista resalta el rol de los levitas. Ellos eran los encargados de las funciones espirituales en el templo, y su trabajo es un reflejo del orden y la dedicación que Dios espera en la adoración. El servicio fiel de los levitas es un modelo para nosotros, pues cada uno tiene un papel importante en la comunidad de fe.En resumen, el Libro de II Crónicas no solo es un registro de hechos históricos, sino una profunda reflexión sobre la relación entre el pueblo y Dios. Las lecciones de fe, arrepentimiento y restauración que encontramos en sus páginas siguen siendo relevantes hoy en día. Nos recuerda que, aunque podemos alejarnos, el Señor siempre está dispuesto a restaurar a aquellos que buscan su rostro con sinceridad.ANTERIORI CrónicasSIGUIENTELibro de EsdrasGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesII CrónicasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístol"
+}

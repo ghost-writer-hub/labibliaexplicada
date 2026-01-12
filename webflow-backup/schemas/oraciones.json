@@ -1,0 +1,130 @@
+{
+  "id": "66ccc84472a28233d62fb2c1",
+  "displayName": "Oraciones",
+  "singularName": "Oracione",
+  "slug": "oraciones",
+  "createdOn": "2024-08-26T18:24:04.917Z",
+  "lastUpdated": "2025-07-13T06:34:01.776Z",
+  "fields": [
+    {
+      "id": "c1d11173fa4add74548bb510aefc4542",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Image",
+      "slug": "article-image",
+      "displayName": "Article Thumbnail",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "833634650220cc2e2ed02c33e36e3dc0",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Image",
+      "slug": "article-header-image",
+      "displayName": "Article Header Image",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "f6c4fa8d3c788d16bcd069685ba9e20f",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "title",
+      "displayName": "Title",
+      "helpText": "Title of the post",
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "b7695ee310b99f1bfd174b977262e6c6",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "text",
+      "displayName": "Intro Text",
+      "helpText": "Short description of the post",
+      "validations": {
+        "singleLine": false,
+        "maxLength": 140
+      }
+    },
+    {
+      "id": "3ff380cf7d6055bcf67454a907924490",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "RichText",
+      "slug": "post-content",
+      "displayName": "Post Content",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "446e59e47089d52e3fdf05a8a3e9229f",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Reference",
+      "slug": "author-4",
+      "displayName": "Author",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66cc37c6e520d3205900867d"
+      }
+    },
+    {
+      "id": "b312e350300a42afd569fb00b11422fe",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "Reference",
+      "slug": "category-5",
+      "displayName": "Category",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66cc37c6e520d3205900867e"
+      }
+    },
+    {
+      "id": "28de20649253bf8769fa39035ff23d1f",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "MultiReference",
+      "slug": "tags",
+      "displayName": "Tags",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66cc37c6e520d3205900867f"
+      }
+    },
+    {
+      "id": "780ff827bd103e2a16d42b5e9c833e11",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "994aeeb2e8aad2df7716b36df4993e34",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "6702b80e6cbbdd837f8ed960",
+  "displayName": "Conceptos",
+  "singularName": "Concepto",
+  "slug": "conceptos",
+  "createdOn": "2024-10-06T16:17:18.451Z",
+  "lastUpdated": "2025-07-13T06:34:01.783Z",
+  "fields": [
+    {
+      "id": "504653ce3f23fe972b3805c0fe9f5a67",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "intro",
+      "displayName": "intro",
+      "helpText": "texto intro que sirva para el opengraph",
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "038730be012aff68b6161cbb6cc90174",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "title-seo",
+      "displayName": "title-seo",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "e8e6cc2193b9983ea208601d34f5052b",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "body",
+      "displayName": "body",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "add18ee1d1df613814e0849e256aca77",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "quote",
+      "displayName": "quote",
+      "helpText": "citas que puedan darse, iran maquetadas de una manera especial",
+      "validations": {
+        "singleLine": false
+      }
+    },
+    {
+      "id": "37c41c490e7f2e39c8aeec030ab82521",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "faqs",
+      "displayName": "faqs",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "81958ba38ed461194358e2c4c80a6784",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "concept-image",
+      "displayName": "concept-image",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "ff559518db399333ffc208f8c8abcc57",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "9f9a452f4748a6766ef6d274ba62983c",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sites": [
+    {
+      "id": "66cc37c5e520d320590085ca",
+      "workspaceId": "6332eac74bdcdf010930f1e5",
+      "displayName": "La biblia explicada",
+      "shortName": "la-biblia-explicada",
+      "previewUrl": "https://screenshots.webflow.com/sites/66cc37c5e520d320590085ca/20250918074351_9ad6269e14f47baa64448bbcc1c0d38d.png",
+      "timeZone": "Europe/Paris",
+      "createdOn": "2024-08-26T08:07:33.832Z",
+      "lastUpdated": "2026-01-12T19:49:01.237Z",
+      "lastPublished": "2025-09-18T07:43:51.624Z",
+      "parentFolderId": null,
+      "customDomains": [
+        {
+          "id": "67154f23690cf1c9e96c8712",
+          "url": "www.labibliaexplicada.com",
+          "lastPublished": "2025-09-18T07:43:51.624Z"
+        }
+      ],
+      "locales": {
+        "primary": {
+          "id": "66cc37c6e520d32059008671",
+          "cmsLocaleId": "66cc37c6e520d32059008672",
+          "enabled": false,
+          "displayName": "Spanish (Spain)",
+          "displayImageId": null,
+          "redirect": true,
+          "subdirectory": "es-es",
+          "tag": "es-ES"
+        },
+        "secondary": [
+          {
+            "id": "66cc3c60113bfd408edf4abb",
+            "cmsLocaleId": "66cc3c60113bfd408edf4ac2",
+            "enabled": false,
+            "displayName": "English",
+            "displayImageId": null,
+            "subdirectory": "en",
+            "tag": "en"
+          }
+        ]
+      },
+      "dataCollectionEnabled": false,
+      "dataCollectionType": "always"
+    }
+  ]
+}

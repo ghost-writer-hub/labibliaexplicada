@@ -1,0 +1,314 @@
+{
+  "article": {
+    "count": 45,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/articulos/12-profetas-menores-resumen-y-mensajes-principales",
+        "title": "12 Profetas Menores: Resumen y Mensajes Principales",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/articulos/5-pasos-para-entender-el-libro-de-apocalipsis",
+        "title": "5 Pasos para Entender el Libro de Apocalipsis",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/articulos/7-mujeres-poderosas-del-antiguo-testamento-sus-historias",
+        "title": "7 Mujeres Poderosas del Antiguo Testamento: Sus Historias",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/articulos/balaam-y-el-asna-que-hablo",
+        "title": "Balaam y el Asna que Habló",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/articulos/como-la-ropa-simple-refleja-humildad-en-la-biblia",
+        "title": "Cómo la Ropa Simple Refleja Humildad en la Biblia",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "author": {
+    "count": 1,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/autores/esther",
+        "title": "La biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "book": {
+    "count": 66,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/libro/apocalipsis",
+        "title": "Apocalipsis",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/libro/cantar-de-los-cantares",
+        "title": "Cantar de los Cantares",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/libro/deuteronomio",
+        "title": "Deuteronomio",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/libro/epistola-a-filemon",
+        "title": "Epístola a Filemón",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/libro/epistola-a-los-colosenses",
+        "title": "Epístola a los colosenses",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "category": {
+    "count": 3,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/categoria/curiosidades",
+        "title": "La biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/categoria/historia",
+        "title": "La biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/categoria/reflexiones-sobre-la-biblia",
+        "title": "La biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "chapter": {
+    "count": 1190,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/capitulos/1-corintios-1-salutacion",
+        "title": "Salutación - La Biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/capitulos/1-corintios-10-amonestaciones-contra-la-idolatria",
+        "title": "Amonestaciones contra la idolatría - La Biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/capitulos/1-corintios-11-atavio-de-las-mujeres",
+        "title": "Atavío de las mujeres - La Biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/capitulos/1-corintios-12-dones-espirituales",
+        "title": "Dones espirituales - La Biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/capitulos/1-corintios-13-la-preeminencia-del-amor",
+        "title": "La preeminencia del amor - La Biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "concept": {
+    "count": 3,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/conceptos/el-santo-rosario-una-oracion-poderosa",
+        "title": "El Santo Rosario: Una Oración Poderosa",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/conceptos/los-diez-mandamientos",
+        "title": "Los Diez Mandamientos",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/conceptos/obras-de-misericordia",
+        "title": "Obras de misericordia",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "home": {
+    "count": 1,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com",
+        "title": "La Biblia Explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "sitemap.xml": {
+    "count": 0,
+    "samples": [],
+    "commonClasses": []
+  },
+  "static": {
+    "count": 6,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/articulos-recientes",
+        "title": "Artículos recientes",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/conceptos-biblicos",
+        "title": "Conceptos biblicos recientes",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/lecturas-de-hoy",
+        "title": "Lecturas de hoy",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/libros-de-la-biblia",
+        "title": "Libros de la Biblia",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/search",
+        "title": "Search Results",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "unknown": {
+    "count": 3,
+    "samples": [
+      {
+        "url": "https://www.labibliaexplicada.com/personajes/adan",
+        "title": "La biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/test/6-de-octubre",
+        "title": "La biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      },
+      {
+        "url": "https://www.labibliaexplicada.com/test/7-de-octubre",
+        "title": "La biblia explicada",
+        "classes": {
+          "body": "",
+          "main": ""
+        }
+      }
+    ],
+    "commonClasses": []
+  },
+  "urls.txt": {
+    "count": 0,
+    "samples": [],
+    "commonClasses": []
+  }
+}

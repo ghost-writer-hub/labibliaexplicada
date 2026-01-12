@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/categoria/historia",
+    "title": "La biblia explicada",
+    "description": "",
+    "ogImage": "",
+    "ogTitle": "",
+    "canonical": "https://www.labibliaexplicada.com/categoria/historia"
+  },
+  "templateType": "category",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c968fd3553b0da9d5a9cbd_Charlie%20Kirk.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c948c65c3576e2b498d5b7_Evidencia%20arqueolo%CC%81gica%20del%20legado%20de%20Babel%20%20.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c947fe455a91bb51c0353b_Contexto%20judi%CC%81o%20de%20los%20milagros%20de%20Jesu%CC%81s.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c946b97a747d8be567cdbc_Gui%CC%81a%20completa%20para%20leer%20y%20entender%20el%20libro%20de%20los%20Salmos.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c9431db773caa68b5a9ae5_Co%CC%81mo%20la%20Ropa%20Simple%20Refleja%20Humildad%20en%20la%20Biblia.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c94210593e6a1f0307ec2a_Por%20que%CC%81%20Jesu%CC%81s%20limpio%CC%81%20el%20templo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c9403136b6c6570f575725_Moise%CC%81s%20como%20mediador%20en%20el%20Sinai%CC%81.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c93dbc04689570e249c795_Principios%20Bi%CC%81blicos%20de%20Justicia%20y%20Liberacio%CC%81n.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c93b4a8def6ff3da9564a4_Jesu%CC%81s%20y%20los%20saduceos-%20Debate%20sobre%20la%20resurreccio%CC%81n.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68c93642dd12b13380ff2231_Co%CC%81mo%20los%2010%20Mandamientos%20Reflejan%20el%20Pacto%20en%20el%20Sinai%CC%81.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68246df72b68fa661df87e7e_justicia-economica-en-la-biblia-principios-clave.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68246ce586f7d8ea826d6d1a_exodo-y-liberacion-de-la-esclavitud.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68246c0cfb1a840a25dc4dbd_importancia-del-contexto-literario-en-la-biblia.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/682339680915eb425e66e184_que-significa-ser-creado-a-imagen-de-dios.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68233862ab1f3c5d259ba9f4_el-significado-del-borde-del-manto-de-jesus.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6823371915765002fa0697ac_parabolas-de-jesus-vs-historias-biblicas-comparacion.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/682333726e9faeafcefa939a_12-profetas-menores-resumen-y-mensajes-principales.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/682330a3bdf6ba53b3da8d7c_los-10-mandamientos-significado-y-aplicacion-actual.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68232f195b82a3b938d3f13e_5-pasos-para-entender-el-libro-de-apocalipsis.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/68224acca68352dc4024fa16_quien-era-maria-magdalena-historia-y-verdades-biblicas.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/6822485160aac20ca0410c10_guia-basica-como-interpretar-los-salmos-correctamente.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670266d3fbcd7916646bcc45_Ehud%20el%20juez%20zurdo.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {},
+  "cleanText": "ConceptosLibrosNosotrosArticulosArticulosContinúa la búsqueda del sospechoso del asesinato de Charlie KirkByEstherArticulosEvidencia arqueológica del legado de BabelByEstherArticulosContexto judío de los milagros de JesúsByEstherArticulosGuía completa para leer y entender el libro de los SalmosByEstherArticulosCómo la Ropa Simple Refleja Humildad en la BibliaByEstherArticulos¿Por qué Jesús limpió el templo?ByEstherArticulosMoisés como mediador en el SinaíByEstherArticulosDescubre los principios bíblicos de justicia y liberación, centrados en cuidar a los vulnerables y renovar las relaciones sociales.ByEstherArticulosJesús y los saduceos: Debate sobre la resurrecciónByEstherArticulosCómo los 10 Mandamientos Reflejan el Pacto en el SinaíByEstherArticulosJusticia económica en la Biblia: Principios claveByEstherArticulosExodo y Liberación de la EsclavitudByEstherArticulosImportancia del Contexto Literario en la BibliaByEstherArticulos¿Qué Significa Ser Creado a Imagen de Dios?ByEstherArticulosEl Significado del Borde del Manto de JesúsByEstherArticulosParábolas de Jesús vs Historias Bíblicas: ComparaciónByEstherArticulos12 Profetas Menores: Resumen y Mensajes PrincipalesByEstherArticulosLos 10 Mandamientos: Significado y Aplicación ActualByEstherArticulos5 Pasos para Entender el Libro de ApocalipsisByEstherArticulos¿Quién Era María Magdalena? Historia y Verdades BíblicasByEstherArticulosGuía Básica: Cómo Interpretar los Salmos CorrectamenteByEstherArticulosEl poder del zurdoByEsther2025 LA biblia explicadaCategoryArticulosCuriosidades y conceptosReflexiones sobre La BibliaCATEGORIASArticulosCuriosidades y conceptosReflexiones sobre La Biblia"
+}

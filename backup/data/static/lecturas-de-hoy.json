@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/lecturas-de-hoy",
+    "title": "Lecturas de hoy",
+    "description": "",
+    "ogImage": "",
+    "ogTitle": "Lecturas de hoy",
+    "canonical": "https://www.labibliaexplicada.com/lecturas-de-hoy"
+  },
+  "templateType": "static",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {},
+  "cleanText": "ConceptosLibrosNosotrosLECTURAS PARA HOYSumérgete en las 12 lecturas bíblicas recomendadas para hoy en ‘La Biblia Explicada’. Cada pasaje ha sido cuidadosamente seleccionado para brindarte inspiración y reflexión en tu vida diaria. Descubre las enseñanzas clave y la sabiduría eterna que la Biblia ofrece, con interpretaciones claras y accesibles que te ayudarán a profundizar en la Palabra de Dios.Epístola a los colosensesLa vida antigua y la nuevaLibro de los SalmosOración de un afligidoLibro de EsdrasRestauración del altar y del cultoII SamuelConsejos de Ahitofel y de HusaiII ReyesAtalía usurpa el tronoPrimera epístola a TimoteoPredicción de la apostasíaEpístola a los romanosDeberes cristianosLibro de OseasEfraín reprendido por su falsedad y opresiónLibro de IsaíasSeguridad de Dios para IsraelÉxodoLa plaga de ranasLibro de los SalmosDavid implora dirección, perdón y protecciónLibro de los NúmerosLibro de los Números 232025 LA biblia explicadaCategoryArticulosCuriosidades y conceptosReflexiones sobre La BibliaCATEGORIASArticulosCuriosidades y conceptosReflexiones sobre La Biblia"
+}

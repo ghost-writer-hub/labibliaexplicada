@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/ii-reyes",
+    "title": "II Reyes",
+    "description": "El Libro de II Reyes narra la caída de los reinos de Israel y Judá, destacando el juicio divino, la fidelidad de Dios y su inquebrantable misericordia.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "II Reyes",
+    "canonical": "https://www.labibliaexplicada.com/libro/ii-reyes"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "II Reyes",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/2-reyes-1-muerte-de-ocozias",
+        "text": "Muerte de Ocozías"
+      },
+      {
+        "href": "/capitulos/2-reyes-2-eliseo-sucede-a-elias",
+        "text": "Eliseo sucede a Elías"
+      },
+      {
+        "href": "/capitulos/2-reyes-3-reinado-de-joram-de-israel",
+        "text": "Reinado de Joram de Israel"
+      },
+      {
+        "href": "/capitulos/2-reyes-4-el-aceite-de-la-viuda",
+        "text": "El aceite de la viuda"
+      },
+      {
+        "href": "/capitulos/2-reyes-5-eliseo-y-naaman",
+        "text": "Eliseo y Naamán"
+      },
+      {
+        "href": "/capitulos/2-reyes-6-eliseo-hace-flotar-el-hacha",
+        "text": "Eliseo hace flotar el hacha"
+      },
+      {
+        "href": "/capitulos/2-reyes-7",
+        "text": "II Reyes 7"
+      },
+      {
+        "href": "/capitulos/2-reyes-8-los-bienes-de-la-sunamita-devueltos",
+        "text": "Los bienes de la sunamita devueltos"
+      },
+      {
+        "href": "/capitulos/2-reyes-9-jehu-es-ungido-rey-de-israel",
+        "text": "Jehú es ungido rey de Israel"
+      },
+      {
+        "href": "/capitulos/2-reyes-10-jehu-extermina-la-casa-de-acab",
+        "text": "Jehú extermina la casa de Acab"
+      },
+      {
+        "href": "/capitulos/2-reyes-11-atalia-usurpa-el-trono",
+        "text": "Atalía usurpa el trono"
+      },
+      {
+        "href": "/capitulos/2-reyes-12-reinado-de-joas-de-juda",
+        "text": "Reinado de Joás de Judá"
+      },
+      {
+        "href": "/capitulos/2-reyes-13-reinado-de-joacaz",
+        "text": "Reinado de Joacaz"
+      },
+      {
+        "href": "/capitulos/2-reyes-14-reinado-de-amasias",
+        "text": "Reinado de Amasías"
+      },
+      {
+        "href": "/capitulos/2-reyes-15-reinado-de-azarias",
+        "text": "Reinado de Azarías"
+      },
+      {
+        "href": "/capitulos/2-reyes-16-reinado-de-acaz",
+        "text": "Reinado de Acaz"
+      },
+      {
+        "href": "/capitulos/2-reyes-17-caida-de-samaria-y-cautiverio-de-israel",
+        "text": "Caída de Samaria y cautiverio de Israel"
+      },
+      {
+        "href": "/capitulos/2-reyes-18-reinado-de-ezequias",
+        "text": "Reinado de Ezequías"
+      },
+      {
+        "href": "/capitulos/2-reyes-19-juda-es-librado-de-senaquerib",
+        "text": "Judá es librado de Senaquerib"
+      },
+      {
+        "href": "/capitulos/2-reyes-20-enfermedad-de-ezequias",
+        "text": "Enfermedad de Ezequías"
+      },
+      {
+        "href": "/capitulos/2-reyes-21-reinado-de-manases",
+        "text": "Reinado de Manasés"
+      },
+      {
+        "href": "/capitulos/2-reyes-22-reinado-de-josias",
+        "text": "Reinado de Josías"
+      },
+      {
+        "href": "/capitulos/2-reyes-23-reformas-de-josias",
+        "text": "Reformas de Josías"
+      },
+      {
+        "href": "/capitulos/2-reyes-24-joaquin-y-los-pobres-son-llevados-cautivos-a-babilonia",
+        "text": "Joaquín y los pobres son llevados cautivos a Babilonia"
+      },
+      {
+        "href": "/capitulos/2-reyes-25-caida-de-jerusalen",
+        "text": "Caída de Jerusalén"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosII ReyesLa BibliaII ReyesCapítulos del libroMuerte de OcozíasEliseo sucede a ElíasReinado de Joram de IsraelEl aceite de la viudaEliseo y NaamánEliseo hace flotar el hachaII Reyes 7Los bienes de la sunamita devueltosJehú es ungido rey de IsraelJehú extermina la casa de AcabAtalía usurpa el tronoReinado de Joás de JudáReinado de JoacazReinado de AmasíasReinado de AzaríasReinado de AcazCaída de Samaria y cautiverio de IsraelReinado de EzequíasJudá es librado de SenaqueribEnfermedad de EzequíasReinado de ManasésReinado de JosíasReformas de JosíasJoaquín y los pobres son llevados cautivos a BabiloniaCaída de JerusalénEl Libro de II Reyes nos lleva por un recorrido lleno de altos y bajos en la vida del pueblo de Israel y Judá. Es un testimonio de cómo las decisiones humanas, especialmente las de los reyes, influían profundamente en la relación entre Dios y su pueblo. A lo largo de los relatos, podemos ver claramente dos temas que se entrelazan: el juicio por la desobediencia y la misericordia de Dios que no se apaga, incluso en los momentos de mayor oscuridad.Uno de los personajes más llamativos de este libro es el profeta Eliseo, cuya vida está marcada por un ministerio lleno de milagros. No es coincidencia que se le atribuyan más milagros que a cualquier otro profeta del Antiguo Testamento. En él, Dios no solo interviene en los grandes asuntos nacionales, sino también en la vida cotidiana de las personas, como cuando purifica el agua para una ciudad o resucita al hijo de una humilde mujer sunamita. Estos actos nos recuerdan que Dios no es ajeno a nuestras necesidades diarias. A través de Eliseo, Dios nos muestra que siempre está presente, desde lo más pequeño hasta lo más trascendental.La caída de Samaria en el año 722 a.C., que marca el fin del Reino del Norte, es un punto crítico en la historia de Israel. Aquí se ve el juicio inevitable sobre un reino que, durante generaciones, se había apartado de Dios, entregándose a la idolatría. Es un recordatorio solemne de las consecuencias de alejarse de los caminos de Dios, pero también un llamado a reflexionar sobre la importancia de la fidelidad.Sin embargo, mientras el Reino del Norte desaparece, el Reino de Judá sigue resistiendo un poco más. Aquí entra en escena el rey Ezequías, cuyo gobierno está marcado por una confianza inquebrantable en Dios. Rodeado por las poderosas tropas del rey asirio Senaquerib, Ezequías hace lo único que puede: acudir en oración a Dios. Y Dios responde de una manera milagrosa, enviando a un ángel que destruye al ejército asirio en una sola noche. Este evento no solo es un testimonio de la capacidad de Dios para intervenir en la historia, sino también una lección sobre la importancia de acudir a Él en los momentos de mayor desesperación.Poco después, otro rey, Josías, intenta lo impensable: una reforma espiritual que devuelve al pueblo el culto verdadero a Dios. Tras descubrir el Libro de la Ley en el templo, Josías toma medidas drásticas para eliminar la idolatría y restaurar el culto puro. Su pasión y dedicación por las cosas de Dios son inspiradoras, pero su muerte prematura en batalla nos recuerda cuán frágiles somos y cuán efímeros pueden ser incluso nuestros esfuerzos más piadosos si no están respaldados por una transformación profunda en el corazón del pueblo.Finalmente, llegamos al trágico destino de Jerusalén en el año 586 a.C., cuando Nabucodonosor, rey de Babilonia, destruye la ciudad y el templo, llevando al pueblo al exilio. Sedecías, el último rey de Judá, encarna la desobediencia y la resistencia a la voluntad de Dios. Al ignorar las advertencias de los profetas y rebelarse contra Babilonia, provoca la ruina final de su reino. Es un momento devastador para el pueblo de Dios, pero también una oportunidad para recordar que el juicio de Dios, aunque severo, nunca es el final de la historia.Dios, en su misericordia, siempre deja una puerta abierta para la restauración. Incluso después de la destrucción, Él sigue siendo fiel a sus promesas, preservando un remanente fiel que mantendrá viva la esperanza de un futuro retorno y restauración. Este remanente es una muestra del amor inagotable de Dios, que no abandona a su pueblo, aun cuando todo parece estar perdido. Aquí radica la belleza y la profundidad del Libro de II Reyes: en medio del juicio, la misericordia de Dios nunca se apaga.A través de estas historias, Dios nos recuerda una y otra vez que su propósito no es destruir, sino restaurar. El exilio en Babilonia no es el fin, sino un nuevo comienzo para el pueblo de Dios, un llamado a renovar su fe, a purificar su corazón y a regresar a Él. Así como ocurrió con Israel y Judá, nuestras propias vidas también pueden tener momentos de juicio y de caída, pero Dios siempre está dispuesto a restaurar y a levantarnos nuevamente.En este texto podemos ver cómo el Libro de II Reyes no solo es una crónica de eventos históricos, sino una profunda reflexión sobre la fidelidad de Dios. Aunque el pueblo falla una y ot"
+}

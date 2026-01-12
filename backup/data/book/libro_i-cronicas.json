@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/i-cronicas",
+    "title": "I Crónicas",
+    "description": "El Libro de I Crónicas narra la historia de Israel destacando la fidelidad de Dios, el linaje de David y la centralidad del templo en la vida del pueblo.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "I Crónicas",
+    "canonical": "https://www.labibliaexplicada.com/libro/i-cronicas"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "I Crónicas",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-cronicas-1-descendientes-de-adan",
+        "text": "Descendientes de Adán"
+      },
+      {
+        "href": "/capitulos/1-cronicas-2-los-hijos-de-israel",
+        "text": "Los hijos de Israel"
+      },
+      {
+        "href": "/capitulos/1-cronicas-3-los-hijos-de-david",
+        "text": "Los hijos de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-4-descendientes-de-juda",
+        "text": "Descendientes de Judá"
+      },
+      {
+        "href": "/capitulos/1-cronicas-5-descendientes-de-ruben",
+        "text": "Descendientes de Rubén"
+      },
+      {
+        "href": "/capitulos/1-cronicas-6-descendientes-de-levi",
+        "text": "Descendientes de Leví"
+      },
+      {
+        "href": "/capitulos/1-cronicas-7-descendientes-de-isacar",
+        "text": "Descendientes de Isacar"
+      },
+      {
+        "href": "/capitulos/1-cronicas-8-descendientes-de-benjamin",
+        "text": "Descendientes de Benjamín"
+      },
+      {
+        "href": "/capitulos/1-cronicas-9-los-que-regresaron-de-babilonia",
+        "text": "Los que regresaron de Babilonia"
+      },
+      {
+        "href": "/capitulos/1-cronicas-10-muerte-de-saul-y-de-sus-hijos",
+        "text": "Muerte de Saúl y de sus hijos"
+      },
+      {
+        "href": "/capitulos/1-cronicas-11-david-es-proclamado-rey-de-israel",
+        "text": "David es proclamado rey de Israel"
+      },
+      {
+        "href": "/capitulos/1-cronicas-12-el-ejercito-de-david",
+        "text": "El ejército de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-13-david-propone-trasladar-el-arca-a-jerusalen",
+        "text": "David propone trasladar el arca a Jerusalén"
+      },
+      {
+        "href": "/capitulos/1-cronicas-14-hiram-envia-enbajadores-a-david",
+        "text": "Hiram envía enbajadores a David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-15-david-trae-el-arca-a-jerusalen",
+        "text": "David trae el arca a Jerusalén"
+      },
+      {
+        "href": "/capitulos/1-cronicas-16-salmo-de-accion-de-gracias-de-david",
+        "text": "Salmo de acción de gracias de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-17-pacto-de-dios-con-david",
+        "text": "Pacto de Dios con David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-18-david-extiende-sus-dominios",
+        "text": "David extiende sus dominios"
+      },
+      {
+        "href": "/capitulos/1-cronicas-19-derrotas-de-los-amonitas-y-sirios",
+        "text": "Derrotas de los amonitas y sirios"
+      },
+      {
+        "href": "/capitulos/1-cronicas-20-david-captura-a-raba",
+        "text": "David captura a Rabá"
+      },
+      {
+        "href": "/capitulos/1-cronicas-21-david-censa-al-pueblo",
+        "text": "David censa al pueblo"
+      },
+      {
+        "href": "/capitulos/1-cronicas-22-preparativos-para-el-templo",
+        "text": "Preparativos para el templo"
+      },
+      {
+        "href": "/capitulos/1-cronicas-23-distribucion-y-deberes-de-los-levitas",
+        "text": "Distribución y deberes de los levitas"
+      },
+      {
+        "href": "/capitulos/1-cronicas-24",
+        "text": "I Crónicas 24"
+      },
+      {
+        "href": "/capitulos/1-cronicas-25-distribucion-de-musicos-y-cantores",
+        "text": "Distribución de músicos y cantores"
+      },
+      {
+        "href": "/capitulos/1-cronicas-26-porteros-y-oficiales",
+        "text": "Porteros y oficiales"
+      },
+      {
+        "href": "/capitulos/1-cronicas-27-otros-oficiales-de-david",
+        "text": "Otros oficiales de David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-28-salomon-sucede-a-david",
+        "text": "Salomón sucede a David"
+      },
+      {
+        "href": "/capitulos/1-cronicas-29-muerte-de-david",
+        "text": "Muerte de David"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosI CrónicasLa BibliaI CrónicasCapítulos del libroDescendientes de AdánLos hijos de IsraelLos hijos de DavidDescendientes de JudáDescendientes de RubénDescendientes de LevíDescendientes de IsacarDescendientes de BenjamínLos que regresaron de BabiloniaMuerte de Saúl y de sus hijosDavid es proclamado rey de IsraelEl ejército de DavidDavid propone trasladar el arca a JerusalénHiram envía enbajadores a DavidDavid trae el arca a JerusalénSalmo de acción de gracias de DavidPacto de Dios con DavidDavid extiende sus dominiosDerrotas de los amonitas y siriosDavid captura a RabáDavid censa al puebloPreparativos para el temploDistribución y deberes de los levitasI Crónicas 24Distribución de músicos y cantoresPorteros y oficialesOtros oficiales de DavidSalomón sucede a DavidMuerte de DavidEl Libro de I Crónicas nos ofrece una nueva manera de contemplar la historia de Israel. En lugar de enfocarse en los errores y fracasos, se nos invita a ver el lado positivo y redentor del caminar de Dios con su pueblo. Al comenzar con una lista genealógica que conecta a Adán con el presente, se nos recuerda que Dios ha sido fiel a lo largo de las generaciones. Su plan no ha sido interrumpido, ni siquiera por el exilio.A lo largo del libro, vemos cómo el reino de Judá recibe un enfoque especial, como el remanente fiel del plan de Dios. Es como si el autor nos quisiera mostrar que, aunque el reino de Israel se desmoronó, el linaje de David y su promesa permanecen firmes. Esto nos lleva a reflexionar sobre la importancia del templo, ese lugar donde Dios habita con su pueblo, y cómo cada detalle fue cuidadosamente preparado por David y Salomón, dos figuras clave en el establecimiento del culto verdadero.Es fascinante cómo el sacerdocio levítico juega un rol esencial aquí. Nos recuerda que en tiempos difíciles, cuando las cosas parecen rotas, siempre hay un grupo fiel que mantiene la llama encendida. Estos levitas, dedicados al servicio de Dios, son un símbolo de la dedicación que todos estamos llamados a tener en nuestro propio camino espiritual.Y, por supuesto, no podemos olvidar el enfoque en el rey David, presentado como un líder ideal, alguien que cometió errores, pero cuyo corazón permaneció alineado con Dios. Esta versión de la historia no oculta los pecados, sino que los pasa por alto para que el lector postexílico encuentre esperanza en el modelo de un líder que guía a su pueblo hacia la adoración genuina.Finalmente, el perdón es un tema recurrente. A pesar del exilio, del pecado y de la desobediencia, I Crónicas nos recuerda que Dios siempre está dispuesto a restaurar a su pueblo. ¿No es eso lo que todos anhelamos en nuestro caminar? Una restauración profunda que nos devuelva al centro de Su voluntad, tal como lo hizo con Israel, incluso después de los tiempos más oscuros.ANTERIORII ReyesSIGUIENTEII CrónicasGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesI CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegunda epístola de PedroPrimera epístola de JuanSegunda epístola de JuanTercera epístola de JuanEpístola de JudasApocalipsisMas LIBROsApocalipsisEpístola de JudasTercera epístola de JuanSegunda epístola de JuanPrimera epístola de JuanSegunda epístola de PedroPrimera epístola de PedroEpístola de SantiagoEpístola a los hebreosEpístola a FilemónEpístola a TitoSegunda epístola a TimoteoPrimera epístola a TimoteoSegunda epístola a los tesalonicensesPrimera epístola a los tesalonicensesEpístola a los colosensesEpístola a los filipensesEpístola a los efesiosEpístola a los gálatasSegunda epístola a los corintiosPrimera epístola a los corintiosEpístola a los romanosHechos de los ApóstolesEvangelio de JuanEvangelio de LucasEvangelio de MarcosEvangelio de MateoLibro de MalaquíasLibro de ZacaríasLibro de HageoLibro de SofoníasLibro de HabacucLibro de NahumLibro de MiqueasLibro de JonásLibro de AbdíasLibro de AmósLibro de JoelLibro de OseasLibro de DanielLibro de EzequielLibro de las LamentacionesLibro de JeremíasLibro de IsaíasLibro del EclesiastésProverbiosLibro de los SalmosLibro de JobLibro de EsterL"
+}

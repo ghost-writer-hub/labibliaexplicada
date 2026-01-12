@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getLibros, getLibro, getCapitulosByLibro, getAssetUrl } from '../../lib/directus';
+
+export async function getStaticPaths() {
+  const libros = await getLibros();
+  return libros.map((libro) => ({
+    params: { slug: libro.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const libro = await getLibro(slug);
+
+if (!libro) {
+  return Astro.redirect('/404');
+}
+
+const capitulos = await getCapitulosByLibro(libro.id);
+---
+
+<BaseLayout
+  title={`${libro.title} - La Biblia Explicada`}
+  description={libro.details}
+  image={libro.image ? getAssetUrl(libro.image) : undefined}
+>
+  <article class="libro-detail">
+    <!-- Hero -->
+    <section class="title-section bg-gradient-to-b from-gray-50 to-white py-16">
+      <div class="container max-w-4xl mx-auto px-4 text-center">
+        <div class="text-sm text-primary-600 font-medium mb-4">
+          {libro.testament === 'antiguo' ? 'Antiguo Testamento' : 'Nuevo Testamento'}
+        </div>
+        <h1 class="text-4xl md:text-5xl font-bold font-serif mb-6">{libro.title}</h1>
+        <p class="text-xl text-gray-600">{libro.details}</p>
+      </div>
+    </section>
+
+    <!-- Book Image -->
+    {libro.image && (
+      <section class="book-image py-8">
+        <div class="container max-w-4xl mx-auto px-4">
+          <img
+            src={getAssetUrl(libro.image)}
+            alt={libro.image_alt || libro.title}
+            class="w-full rounded-lg shadow-lg"
+          />
+        </div>
+      </section>
+    )}
+
+    <!-- Chapters List -->
+    <section class="chapters-list py-16">
+      <div class="container max-w-4xl mx-auto px-4">
+        <h2 class="text-2xl font-bold mb-8">Capítulos ({capitulos.length})</h2>
+
+        <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
+          {capitulos.map((capitulo) => (
+            <a
+              href={`/capitulos/${capitulo.slug}`}
+              class="chapter-card p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition text-center"
+            >
+              <div class="text-2xl font-bold text-primary-600">{capitulo.chapter_id}</div>
+              <div class="text-sm text-gray-600 mt-1 line-clamp-2">
+                {capitulo.chapter_title || capitulo.name}
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- Explanation -->
+    {libro.explanation && (
+      <section class="explanation py-16 bg-gray-50">
+        <div class="container max-w-4xl mx-auto px-4">
+          <h2 class="text-2xl font-bold mb-8">Sobre {libro.title}</h2>
+          <div class="prose prose-lg max-w-none" set:html={libro.explanation} />
+        </div>
+      </section>
+    )}
+
+    <!-- FAQs -->
+    {libro.faqs && (
+      <section class="faqs py-16">
+        <div class="container max-w-4xl mx-auto px-4">
+          <h2 class="text-2xl font-bold mb-8">Preguntas Frecuentes</h2>
+          <div class="prose prose-lg max-w-none" set:html={libro.faqs} />
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>

@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  directus:
+    image: directus/directus:10.13
+    ports:
+      - "8055:8055"
+    environment:
+      SECRET: "${DIRECTUS_SECRET:-change-me-to-a-random-string}"
+      ADMIN_EMAIL: "${DIRECTUS_ADMIN_EMAIL:-admin@labibliaexplicada.com}"
+      ADMIN_PASSWORD: "${DIRECTUS_ADMIN_PASSWORD:-admin123}"
+      DB_CLIENT: "postgres"
+      DB_HOST: "postgres"
+      DB_PORT: "5432"
+      DB_DATABASE: "directus"
+      DB_USER: "directus"
+      DB_PASSWORD: "directus"
+      CACHE_ENABLED: "true"
+      CACHE_STORE: "redis"
+      REDIS: "redis://cache:6379"
+      PUBLIC_URL: "${PUBLIC_URL:-http://localhost:8055}"
+      CORS_ENABLED: "true"
+      CORS_ORIGIN: "*"
+    volumes:
+      - directus_uploads:/directus/uploads
+      - directus_extensions:/directus/extensions
+    depends_on:
+      - postgres
+      - cache
+    restart: unless-stopped
+
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: "directus"
+      POSTGRES_USER: "directus"
+      POSTGRES_PASSWORD: "directus"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  cache:
+    image: redis:7-alpine
+    restart: unless-stopped
+
+volumes:
+  directus_uploads:
+  directus_extensions:
+  postgres_data:

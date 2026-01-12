@@ -1,0 +1,148 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getLibros, getArticulos, getCapitulosByLibro, getAssetUrl } from '../lib/directus';
+
+const libros = await getLibros();
+const articulos = await getArticulos();
+
+// Get featured book (e.g., Daniel)
+const featuredBook = libros.find(l => l.slug === 'libro-de-daniel') || libros[0];
+
+// Get recent articles
+const recentArticulos = articulos.slice(0, 4);
+
+// Get some chapters for daily reading
+const genesisCapitulos = featuredBook ? await getCapitulosByLibro(featuredBook.id) : [];
+const dailyReadings = genesisCapitulos.slice(0, 10);
+---
+
+<BaseLayout title="La Biblia Explicada - Tu recurso para entender la Biblia">
+  <!-- Hero Section -->
+  <section class="hero bg-gradient-to-b from-gray-50 to-white py-16 md:py-24">
+    <div class="container max-w-7xl mx-auto px-4 text-center">
+      <h1 class="h1 text-4xl md:text-5xl font-bold font-serif mb-6">
+        La Biblia Explicada
+      </h1>
+      <p class="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
+        Tu recurso en línea para leer la Biblia con explicaciones claras, contexto histórico y reflexiones profundas.
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/libros-de-la-biblia" class="bg-primary-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-700 transition">
+          Explorar los Libros
+        </a>
+        <a href="/articulos-recientes" class="border border-gray-300 px-8 py-3 rounded-lg font-medium hover:bg-gray-50 transition">
+          Ver Artículos
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Book -->
+  {featuredBook && (
+    <section class="featured-book py-16 bg-white">
+      <div class="container max-w-7xl mx-auto px-4">
+        <h2 class="section-title text-2xl font-bold mb-8">Libro Destacado</h2>
+        <div class="flex flex-col md:flex-row gap-8 items-center">
+          {featuredBook.image && (
+            <img
+              src={getAssetUrl(featuredBook.image)}
+              alt={featuredBook.image_alt || featuredBook.title}
+              class="w-full md:w-1/3 rounded-lg shadow-lg"
+            />
+          )}
+          <div class="flex-1">
+            <h3 class="text-3xl font-bold font-serif mb-4">{featuredBook.title}</h3>
+            <p class="text-gray-600 mb-6">{featuredBook.details}</p>
+            <a
+              href={`/libro/${featuredBook.slug}`}
+              class="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-700 transition"
+            >
+              Leer {featuredBook.title}
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Recent Articles -->
+  <section class="recent-articles py-16 bg-gray-50">
+    <div class="container max-w-7xl mx-auto px-4">
+      <div class="flex justify-between items-center mb-8">
+        <h2 class="section-title text-2xl font-bold">Artículos Recientes</h2>
+        <a href="/articulos-recientes" class="text-primary-600 hover:underline">Ver todos →</a>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {recentArticulos.map((articulo) => (
+          <article class="card bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition">
+            {articulo.thumbnail && (
+              <img
+                src={getAssetUrl(articulo.thumbnail)}
+                alt={articulo.title}
+                class="w-full h-48 object-cover"
+              />
+            )}
+            <div class="p-4">
+              {typeof articulo.category === 'object' && articulo.category && (
+                <a href={`/categoria/${articulo.category.slug}`} class="text-sm text-primary-600 font-medium">
+                  {articulo.category.name}
+                </a>
+              )}
+              <h3 class="font-bold mt-2 line-clamp-2">
+                <a href={`/articulos/${articulo.slug}`} class="hover:text-primary-600">
+                  {articulo.title}
+                </a>
+              </h3>
+              {typeof articulo.author === 'object' && articulo.author && (
+                <p class="text-sm text-gray-500 mt-2">Por {articulo.author.name}</p>
+              )}
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Daily Readings -->
+  <section class="daily-readings py-16 bg-white">
+    <div class="container max-w-7xl mx-auto px-4">
+      <h2 class="section-title text-2xl font-bold mb-8">Lecturas Recomendadas</h2>
+
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
+        {dailyReadings.map((capitulo) => (
+          <a
+            href={`/capitulos/${capitulo.slug}`}
+            class="card p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition text-center"
+          >
+            <div class="font-medium">{capitulo.chapter_title || capitulo.name}</div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Bible Books Grid -->
+  <section class="bible-books py-16 bg-gray-50">
+    <div class="container max-w-7xl mx-auto px-4">
+      <div class="flex justify-between items-center mb-8">
+        <h2 class="section-title text-2xl font-bold">Libros de la Biblia</h2>
+        <a href="/libros-de-la-biblia" class="text-primary-600 hover:underline">Ver todos →</a>
+      </div>
+
+      <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
+        {libros.slice(0, 12).map((libro) => (
+          <a
+            href={`/libro/${libro.slug}`}
+            class="card p-4 bg-white rounded-lg shadow hover:shadow-md transition text-center"
+          >
+            <div class="font-medium text-sm">{libro.title}</div>
+            <div class="text-xs text-gray-500 mt-1">
+              {libro.testament === 'antiguo' ? 'AT' : 'NT'}
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

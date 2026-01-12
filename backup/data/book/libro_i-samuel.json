@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/i-samuel",
+    "title": "I Samuel",
+    "description": "El Libro de I Samuel relata la transición de Israel de una teocracia a una monarquía, mostrando cómo Dios elige y guía a sus líderes a través de la obediencia y la fe.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "I Samuel",
+    "canonical": "https://www.labibliaexplicada.com/libro/i-samuel"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "I Samuel",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/1-samuel-1-nacimiento-de-samuel",
+        "text": "Nacimiento de Samuel"
+      },
+      {
+        "href": "/capitulos/1-samuel-2-cantico-de-ana",
+        "text": "Cántico de Ana"
+      },
+      {
+        "href": "/capitulos/1-samuel-3-jehova-llama-a-samuel",
+        "text": "Jehová llama a Samuel"
+      },
+      {
+        "href": "/capitulos/1-samuel-4-los-filisteos-capturan-el-arca",
+        "text": "Los filisteos capturan el arca"
+      },
+      {
+        "href": "/capitulos/1-samuel-5-el-arca-en-tierra-de-los-filisteos",
+        "text": "El arca en tierra de los filisteos"
+      },
+      {
+        "href": "/capitulos/1-samuel-6-los-filisteos-devuelven-el-arca",
+        "text": "Los filisteos devuelven el arca"
+      },
+      {
+        "href": "/capitulos/1-samuel-7-samuel-juez-de-israel",
+        "text": "Samuel, juez de Israel"
+      },
+      {
+        "href": "/capitulos/1-samuel-8-israel-pide-rey",
+        "text": "Israel pide rey"
+      },
+      {
+        "href": "/capitulos/1-samuel-9-saul-es-elegido-rey",
+        "text": "Saúl es elegido rey"
+      },
+      {
+        "href": "/capitulos/1-samuel-10",
+        "text": "I Samuel 10"
+      },
+      {
+        "href": "/capitulos/1-samuel-11-saul-derrota-a-los-amonitas",
+        "text": "Saúl derrota a los amonitas"
+      },
+      {
+        "href": "/capitulos/1-samuel-12-discurso-de-samuel-al-pueblo",
+        "text": "Discurso de Samuel al pueblo"
+      },
+      {
+        "href": "/capitulos/1-samuel-13-guerra-contra-los-filisteos",
+        "text": "Guerra contra los filisteos"
+      },
+      {
+        "href": "/capitulos/1-samuel-14",
+        "text": "I Samuel 14"
+      },
+      {
+        "href": "/capitulos/1-samuel-15-saul-desobedece-y-es-desechado",
+        "text": "Saúl desobedece y es desechado"
+      },
+      {
+        "href": "/capitulos/1-samuel-16-samuel-unge-a-david",
+        "text": "Samuel unge a David"
+      },
+      {
+        "href": "/capitulos/1-samuel-17-david-mata-a-goliat",
+        "text": "David mata a Goliat"
+      },
+      {
+        "href": "/capitulos/1-samuel-18-pacto-de-jonatan-y-david",
+        "text": "Pacto de Jonatán y David"
+      },
+      {
+        "href": "/capitulos/1-samuel-19-saul-procura-matar-a-david",
+        "text": "Saúl procura matar a David"
+      },
+      {
+        "href": "/capitulos/1-samuel-20-amistad-de-david-y-jonatan",
+        "text": "Amistad de David y Jonatán"
+      },
+      {
+        "href": "/capitulos/1-samuel-21-david-huy-de-saul",
+        "text": "David huy de Saúl"
+      },
+      {
+        "href": "/capitulos/1-samuel-22-saul-mata-a-los-sacerdotes-de-nob",
+        "text": "Saúl mata a los sacerdotes de Nob"
+      },
+      {
+        "href": "/capitulos/1-samuel-23-david-en-el-desierto",
+        "text": "David en el desierto"
+      },
+      {
+        "href": "/capitulos/1-samuel-24-david-perdona-la-vida-a-saul-en-en-gadi",
+        "text": "David perdona la vida a Saúl en En-gadi"
+      },
+      {
+        "href": "/capitulos/1-samuel-25-david-y-abigail",
+        "text": "David y Abigail"
+      },
+      {
+        "href": "/capitulos/1-samuel-26-david-perdona-la-vida-a-saul-en-zif",
+        "text": "David perdona la vida a Saúl en Zif"
+      },
+      {
+        "href": "/capitulos/1-samuel-27-david-entre-los-filisteos",
+        "text": "David entre los filisteos"
+      },
+      {
+        "href": "/capitulos/1-samuel-28-saul-y-la-adivina-de-endor",
+        "text": "Saúl y la adivina de Endor"
+      },
+      {
+        "href": "/capitulos/1-samuel-29-los-filisteos-desconfian-de-david",
+        "text": "Los filisteos desconfían de David"
+      },
+      {
+        "href": "/capitulos/1-samuel-30-david-derrota-a-los-amalecitas",
+        "text": "David derrota a los amalecitas"
+      },
+      {
+        "href": "/capitulos/1-samuel-31-muerte-de-saul-y-de-sus-hijos",
+        "text": "Muerte de Saúl y de sus hijos"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosI SamuelLa BibliaI SamuelCapítulos del libroNacimiento de SamuelCántico de AnaJehová llama a SamuelLos filisteos capturan el arcaEl arca en tierra de los filisteosLos filisteos devuelven el arcaSamuel, juez de IsraelIsrael pide reySaúl es elegido reyI Samuel 10Saúl derrota a los amonitasDiscurso de Samuel al puebloGuerra contra los filisteosI Samuel 14Saúl desobedece y es desechadoSamuel unge a DavidDavid mata a GoliatPacto de Jonatán y DavidSaúl procura matar a DavidAmistad de David y JonatánDavid huy de SaúlSaúl mata a los sacerdotes de NobDavid en el desiertoDavid perdona la vida a Saúl en En-gadiDavid y AbigailDavid perdona la vida a Saúl en ZifDavid entre los filisteosSaúl y la adivina de EndorLos filisteos desconfían de DavidDavid derrota a los amalecitasMuerte de Saúl y de sus hijosEl Libro de I Samuel es una obra profunda, llena de momentos que nos revelan tanto la justicia como la misericordia de Dios. Comienza con la historia de una madre, Ana, que en su dolor clamó al Señor y fue escuchada. ¡Qué ejemplo tan hermoso del poder de la oración! Su hijo, Samuel, no solo fue respuesta a esa oración, sino que se convirtió en el líder espiritual de una nación. Desde su niñez, Samuel nos enseña la importancia de escuchar la voz de Dios, de estar atentos a ese llamado divino, incluso en los momentos más inesperados.A lo largo del libro, vemos cómo Dios interviene en la historia de su pueblo. Cuando el arca fue capturada por los filisteos, ellos creyeron que habían vencido, pero la presencia de Dios era tan poderosa que no pudieron soportarla. Este episodio nos recuerda que Dios es soberano, incluso cuando parece que todo está perdido.La historia de Saúl, el primer rey de Israel, es una advertencia para todos. Saúl fue elegido por Dios, pero sus propias decisiones lo alejaron del camino. A pesar de sus fallos, David, quien sería su sucesor, nunca dejó de respetar a Saúl como el ungido del Señor. Esta actitud de David nos habla de una humildad profunda, de reconocer el lugar que Dios da a cada uno.Y en medio de esta trama, surge una amistad que es un ejemplo para todos nosotros: la relación entre David y Jonatán. Una amistad basada en el amor, la lealtad, y sobre todo, en la fe. A veces nos encontramos con personas que nos acompañan en nuestro caminar, y esa relación puede ser un verdadero don de Dios, como lo fue para ellos.En todo esto, la Biblia nos muestra que incluso en los momentos más oscuros, siempre hay una oportunidad de volver a Dios. Saúl tuvo momentos de arrepentimiento, y aunque su final fue trágico, nos recuerda que siempre hay esperanza mientras tengamos vida. Dios sigue trabajando en nuestras historias, incluso cuando no lo entendemos.El Libro de I Samuel nos invita a confiar en el plan de Dios, a orar fervientemente, a valorar las relaciones que Él nos da y, sobre todo, a caminar con humildad y obediencia ante su presencia.ANTERIORLibro de RutSIGUIENTEII SamuelGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesI SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegunda epístola de PedroPrimera epístola de JuanSegunda epístola de JuanTercera epístola de JuanEpístola de JudasApocalipsisMas LIBROsApocalipsisEpístola de JudasTercera epístola de JuanSegunda epístola de JuanPrimera epístola de JuanSegunda epístola de PedroPrimera epístola de PedroEpístola de SantiagoEpístola a los hebreosEpístola a FilemónEpístola a TitoSegunda epístola a TimoteoPrimera epístola a TimoteoSegunda epístola a los tesalonicensesPrimera epístola a los tesalonicensesEpístola a los colosensesEpístola a los filipensesEpístola a los efesiosEpístola a los gálatasSegunda epístola a los corintiosPrimera epístola a los corintiosEpístola a los romanosHechos de los ApóstolesEvangelio de JuanEvangelio de LucasEvangelio de MarcosEvangelio de MateoLibro de MalaquíasLibro de ZacaríasLibro de HageoLibro de SofoníasLibro de HabacucLibro de NahumLibro de MiqueasLibro de JonásLibro de AbdíasLibro de AmósLibro de JoelLibro de OseasLibro de DanielLibro de EzequielLibro de las LamentacionesLibro de Jeremías"
+}

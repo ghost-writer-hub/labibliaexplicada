@@ -1,0 +1,41 @@
+[
+  {
+    "id": "66f05e7e9f325c0bd5238b18",
+    "cmsLocaleId": "66cc37c6e520d32059008672",
+    "lastPublished": "2024-10-20T18:18:10.514Z",
+    "lastUpdated": "2024-10-20T18:17:53.018Z",
+    "createdOn": "2024-09-22T18:14:22.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "name": "Articulos",
+      "slug": "historia"
+    }
+  },
+  {
+    "id": "66f05e76a174dc0405eadf46",
+    "cmsLocaleId": "66cc37c6e520d32059008672",
+    "lastPublished": "2024-10-20T18:18:10.514Z",
+    "lastUpdated": "2024-10-20T18:17:34.645Z",
+    "createdOn": "2024-09-22T18:14:14.907Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "name": "Curiosidades y conceptos",
+      "slug": "curiosidades"
+    }
+  },
+  {
+    "id": "66f05e6aa174dc0405ead867",
+    "cmsLocaleId": "66cc37c6e520d32059008672",
+    "lastPublished": "2024-10-26T10:33:33.070Z",
+    "lastUpdated": "2024-10-26T10:33:08.260Z",
+    "createdOn": "2024-09-22T18:14:02.299Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "name": "Reflexiones sobre La Biblia",
+      "slug": "reflexiones-sobre-la-biblia"
+    }
+  }
+]

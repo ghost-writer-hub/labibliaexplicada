@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/deuteronomio",
+    "title": "Deuteronomio",
+    "description": "El Libro de Deuteronomio es una invitación a renovar el pacto con Dios, destacando el amor, la obediencia y la justicia como pilares de una vida plena.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Deuteronomio",
+    "canonical": "https://www.labibliaexplicada.com/libro/deuteronomio"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Deuteronomio",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/deuteronomio-1-moises-recuerda-a-israel-las-promesas-de-jehova-en-horeb",
+        "text": "Moisés recuerda a Israel las promesas de Jehová en Horeb"
+      },
+      {
+        "href": "/capitulos/deuteronomio-2-los-anos-en-el-desierto",
+        "text": "Los años en el desierto"
+      },
+      {
+        "href": "/capitulos/deuteronomio-3-israel-derrota-a-og-rey-de-basan",
+        "text": "Israel derrota a Og rey de Basán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-4-moises-exhorta-a-la-obediencia",
+        "text": "Moisés exhorta a la obediencia"
+      },
+      {
+        "href": "/capitulos/deuteronomio-5-los-diez-mandamientos",
+        "text": "Los Diez Mandamientos"
+      },
+      {
+        "href": "/capitulos/deuteronomio-6-el-gran-mandamiento",
+        "text": "El gran mandamiento"
+      },
+      {
+        "href": "/capitulos/deuteronomio-7-advertencias-contra-la-idolatria-de-canaan",
+        "text": "Advertencias contra la idolatría de Canaán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-8-la-buena-tierra-que-han-de-poseer",
+        "text": "La buena tierra que han de poseer"
+      },
+      {
+        "href": "/capitulos/deuteronomio-9-dios-destruira-a-las-naciones-de-canaan",
+        "text": "Dios destruirá a las naciones de Canaán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-10-el-pacto-renovado",
+        "text": "El pacto renovado"
+      },
+      {
+        "href": "/capitulos/deuteronomio-11-la-grandeza-de-jehova",
+        "text": "La grandeza de Jehová"
+      },
+      {
+        "href": "/capitulos/deuteronomio-12-el-santuario-unico",
+        "text": "El santuario único"
+      },
+      {
+        "href": "/capitulos/deuteronomio-13",
+        "text": "Deuteronomio 13"
+      },
+      {
+        "href": "/capitulos/deuteronomio-14-animales-limpios-e-inmundos",
+        "text": "Animales limpios e inmundos"
+      },
+      {
+        "href": "/capitulos/deuteronomio-15-el-ano-de-remision",
+        "text": "El año de remisión"
+      },
+      {
+        "href": "/capitulos/deuteronomio-16-fiestas-anuales",
+        "text": "Fiestas anuales"
+      },
+      {
+        "href": "/capitulos/deuteronomio-17-instrucciones-acerca-de-un-rey",
+        "text": "Instrucciones acerca de un rey"
+      },
+      {
+        "href": "/capitulos/deuteronomio-18-las-porciones-de-los-levitas",
+        "text": "Las porciones de los levitas"
+      },
+      {
+        "href": "/capitulos/deuteronomio-19-las-ciudades-de-refugio",
+        "text": "Las ciudades de refugio"
+      },
+      {
+        "href": "/capitulos/deuteronomio-20-leyes-sobre-la-guerra",
+        "text": "Leyes sobre la guerra"
+      },
+      {
+        "href": "/capitulos/deuteronomio-21-expiacion-de-un-asesinato-cuyo-autor-se-desconoce",
+        "text": "Expiación de un asesinato cuyo autor se desconoce"
+      },
+      {
+        "href": "/capitulos/deuteronomio-22-leyes-sobre-la-castidad",
+        "text": "Leyes sobre la castidad"
+      },
+      {
+        "href": "/capitulos/deuteronomio-23-los-excluidos-de-la-congregacion",
+        "text": "Los excluidos de la congregación"
+      },
+      {
+        "href": "/capitulos/deuteronomio-24",
+        "text": "Deuteronomio 24"
+      },
+      {
+        "href": "/capitulos/deuteronomio-25-orden-de-exterminar-a-amalec",
+        "text": "Orden de exterminar a Amalec"
+      },
+      {
+        "href": "/capitulos/deuteronomio-26-primicias-y-diezmos",
+        "text": "Primicias y diezmos"
+      },
+      {
+        "href": "/capitulos/deuteronomio-27-orden-de-escribir-la-ley-en-piedras-sobre-el-monte-ebal",
+        "text": "Orden de escribir la ley en piedras sobre el Monte Ebal"
+      },
+      {
+        "href": "/capitulos/deuteronomio-28-bendiciones-de-la-obediencia",
+        "text": "Bendiciones de la obediencia"
+      },
+      {
+        "href": "/capitulos/deuteronomio-29-pacto-de-jehova-con-israel-en-moab",
+        "text": "Pacto de Jehová con Israel en Moab"
+      },
+      {
+        "href": "/capitulos/deuteronomio-30-condiciones-para-la-restauracion-y-la-bendicion",
+        "text": "Condiciones para la restauración y la bendición"
+      },
+      {
+        "href": "/capitulos/deuteronomio-31-josue-es-instalado-como-sucesor-de-moises",
+        "text": "Josué es instalado como sucesor de Moisés"
+      },
+      {
+        "href": "/capitulos/deuteronomio-32-se-le-permite-a-moises-contemplar-la-tierra-de-canaan",
+        "text": "Se le permite a Moisés contemplar la tierra de Canaán"
+      },
+      {
+        "href": "/capitulos/deuteronomio-33-moises-bendice-a-las-doce-tribus-de-israel",
+        "text": "Moisés bendice a las doce tribus de Israel"
+      },
+      {
+        "href": "/capitulos/deuteronomio-34-muerte-y-sepultura-de-moises",
+        "text": "Muerte y sepultura de Moisés"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosDeuteronomioLa BibliaDeuteronomioCapítulos del libroMoisés recuerda a Israel las promesas de Jehová en HorebLos años en el desiertoIsrael derrota a Og rey de BasánMoisés exhorta a la obedienciaLos Diez MandamientosEl gran mandamientoAdvertencias contra la idolatría de CanaánLa buena tierra que han de poseerDios destruirá a las naciones de CanaánEl pacto renovadoLa grandeza de JehováEl santuario únicoDeuteronomio 13Animales limpios e inmundosEl año de remisiónFiestas anualesInstrucciones acerca de un reyLas porciones de los levitasLas ciudades de refugioLeyes sobre la guerraExpiación de un asesinato cuyo autor se desconoceLeyes sobre la castidadLos excluidos de la congregaciónDeuteronomio 24Orden de exterminar a AmalecPrimicias y diezmosOrden de escribir la ley en piedras sobre el Monte EbalBendiciones de la obedienciaPacto de Jehová con Israel en MoabCondiciones para la restauración y la bendiciónJosué es instalado como sucesor de MoisésSe le permite a Moisés contemplar la tierra de CanaánMoisés bendice a las doce tribus de IsraelMuerte y sepultura de MoisésEl Libro de Deuteronomio es una invitación cálida a reflexionar sobre lo que significa caminar en la voluntad de Dios. Su mismo nombre, que quiere decir “segunda ley”, nos recuerda que es una repetición de la Ley, pero también una renovación, una oportunidad para que el pueblo de Israel reafirme su pacto con el Señor antes de cruzar el Jordán. Aquí, Moisés, con el peso de los años y la sabiduría acumulada, se presenta como un líder preocupado por el futuro de su gente. Sus palabras no son simples mandamientos; son un llamado a la fidelidad, al amor y a la obediencia que brota desde lo más profundo del corazón.Es en este contexto donde encontramos uno de los textos más conocidos y queridos: el Shema Israel. “Escucha, Israel: El Señor es nuestro Dios, el Señor es uno”. ¡Qué poderosa declaración! No solo es una afirmación de la unicidad de Dios, sino una invitación a amarlo con toda el alma, con todas las fuerzas. De hecho, uno de los grandes temas de Deuteronomio es el amor a Dios como el fundamento de la vida. No es solo una ley fría y distante; es una relación viva que exige nuestra devoción más profunda.Moisés también nos recuerda la importancia de la justicia social. En varios pasajes del libro, Dios muestra su corazón por los pobres, los huérfanos y los extranjeros. Nos enseña que el verdadero seguimiento a Dios no es solo una cuestión de rituales o palabras bonitas, sino de cómo tratamos a los más vulnerables entre nosotros.Y es aquí donde aparece otro de los temas importantes de Deuteronomio: la bendición y la maldición. Moisés habla con claridad, describiendo con detalle las bendiciones que esperan al pueblo si permanecen fieles, y las maldiciones que vendrán si se apartan de los caminos de Dios. Esto nos recuerda que nuestras decisiones tienen consecuencias, y que caminar en los caminos del Señor trae vida y prosperidad.El Libro de Deuteronomio fue redescubierto durante las reformas del rey Josías, un momento crucial en la historia de Israel. Este hallazgo renovó el espíritu del pueblo, llevándolos a un compromiso renovado con su Dios. Quizás este sea el mensaje más importante de Deuteronomio para nosotros hoy: la oportunidad siempre presente de volver al Señor, de renovar nuestro pacto con Él, y de vivir una vida en plenitud bajo su dirección.En este libro también vemos claramente que muchas de las enseñanzas que encontramos en el Nuevo Testamento tienen sus raíces aquí. Jesús mismo cita Deuteronomio cuando habla del amor a Dios y al prójimo, mostrándonos que la ley, lejos de ser un conjunto de reglas rígidas, es una guía para una vida abundante.Deuteronomio nos habla desde el corazón de Dios, recordándonos que nuestro caminar con Él no es solo acerca de seguir normas, sino de vivir en amor, justicia y obediencia. ¡Qué grande es el llamado de Dios a vivir de esta manera!ANTERIORLibro de los NúmerosSIGUIENTELibro de JosuéGénesisÉxodoLevíticoDeuteronomioLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasEvangelio de JuanHechos de los ApóstolesEpístola a los romanosPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegun"
+}

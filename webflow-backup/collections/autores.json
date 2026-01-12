@@ -1,0 +1,21 @@
+[
+  {
+    "id": "66cc37c6e520d320590086c2",
+    "cmsLocaleId": "66cc37c6e520d32059008672",
+    "lastPublished": "2024-09-22T18:15:51.387Z",
+    "lastUpdated": "2024-09-22T18:15:02.493Z",
+    "createdOn": "2018-07-12T10:50:29.080Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "name": "Esther",
+      "slug": "esther",
+      "avatar": {
+        "fileId": "66cc37c6e520d320590086fb",
+        "url": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/66cc37c6e520d320590086fb_4.jpg",
+        "alt": null
+      },
+      "role": "Editora"
+    }
+  }
+]

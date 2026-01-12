@@ -1,0 +1,12 @@
+{
+  "exportDate": "2026-01-12T19:34:01.837Z",
+  "collections": {
+    "articles": 45,
+    "books": 66,
+    "chapters": 1190,
+    "categories": 3,
+    "staticPages": 7
+  },
+  "totalItems": 1311,
+  "bookChapterRelationships": 66
+}

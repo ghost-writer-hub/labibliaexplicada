@@ -1,0 +1,303 @@
+{
+  "totalPages": 1318,
+  "webflowClassUsage": {
+    "nav": [
+      "w-nav",
+      "w-nav-menu",
+      "w-nav-button",
+      "w-nav-overlay",
+      "w-dropdown",
+      "w-dropdown-toggle",
+      "w-dropdown-list"
+    ],
+    "form": [
+      "w-form",
+      "w-input",
+      "w-button"
+    ],
+    "richText": [
+      "w-richtext",
+      "w-richtext-align-center",
+      "w-richtext-figure-type-image",
+      "w-richtext-align-fullwidth"
+    ],
+    "embed": [
+      "w-embed",
+      "w-iframe"
+    ],
+    "dyn": [
+      "w-dyn-list",
+      "w-dyn-items",
+      "w-dyn-item",
+      "w-dyn-bind-empty"
+    ],
+    "column": [
+      "w-row",
+      "w-col",
+      "w-col-6",
+      "w-col-4",
+      "w-col-7",
+      "w-col-5",
+      "w-col-3"
+    ],
+    "container": [
+      "w-container"
+    ]
+  },
+  "commonCustomClasses": {
+    "w-mod-js": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "w-mod-ix": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n1-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i1-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n2-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i2-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n3-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i3-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n4-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i4-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n5-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i5-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n6-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i6-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n7-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i7-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n8-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i8-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-n9-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-montserrat-i9-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-tenorsans-n4-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-sourceserifpro-n4-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-sourceserifpro-n7-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-librefranklin-n4-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-librefranklin-n6-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "wf-active": {
+      "count": 1318,
+      "percentage": "100.0%"
+    },
+    "navigation": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "navigation-container": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "logo": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "w-inline-block": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "image-logo": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "nav-menu": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "navigation-link": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "navigation-link-text": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "navigation-hover": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "search": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "search-input": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "search-button": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "menu-button": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "icon-2": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "w-icon-nav-menu": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "container": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "footer": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "container-footer": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "top-section": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "cc-footer": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "footer-small-text": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "separator-footer": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "separator-color": {
+      "count": 1315,
+      "percentage": "99.8%"
+    },
+    "footer-line": {
+      "count": 1315,
+      "percentage": "99.8%"
+    }
+  },
+  "templatePatterns": [
+    {
+      "structure": {
+        "hasHeader": false,
+        "hasNav": true,
+        "hasMain": false,
+        "hasFooter": false,
+        "hasSidebar": false
+      },
+      "pageCount": 1315,
+      "samplePages": [
+        "articulos_12-profetas-menores-resumen-y-mensajes-principales.html",
+        "articulos_5-pasos-para-entender-el-libro-de-apocalipsis.html",
+        "articulos_7-mujeres-poderosas-del-antiguo-testamento-sus-historias.html",
+        "articulos_balaam-y-el-asna-que-hablo.html",
+        "articulos_como-la-ropa-simple-refleja-humildad-en-la-biblia.html"
+      ]
+    },
+    {
+      "structure": {
+        "hasHeader": false,
+        "hasNav": false,
+        "hasMain": false,
+        "hasFooter": false,
+        "hasSidebar": false
+      },
+      "pageCount": 3,
+      "samplePages": [
+        "search.html",
+        "test_6-de-octubre.html",
+        "test_7-de-octubre.html"
+      ]
+    }
+  ],
+  "collectionTypes": [],
+  "componentUsage": {
+    "form": {
+      "totalInstances": 1316,
+      "pagesUsed": 1316
+    },
+    "card": {
+      "totalInstances": 97742,
+      "pagesUsed": 1257
+    },
+    "hero": {
+      "totalInstances": 2513,
+      "pagesUsed": 1257
+    },
+    "feature": {
+      "totalInstances": 1202,
+      "pagesUsed": 1191
+    }
+  },
+  "sectionPatterns": []
+}

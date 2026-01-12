@@ -1,0 +1,39 @@
+{
+  "id": "66f19fd593623cfa6563b8a6",
+  "displayName": "Etiquetas",
+  "singularName": "Etiqueta",
+  "slug": "etiquetas",
+  "createdOn": "2024-09-23T17:05:25.309Z",
+  "lastUpdated": "2025-07-13T06:34:01.782Z",
+  "fields": [
+    {
+      "id": "6fba93b3a06787943369adaf34ec7ce3",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "632a76ed9d8191f4d353475d6dd7770b",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/evangelio-de-mateo",
+    "title": "Evangelio de Mateo",
+    "description": "El Evangelio de Mateo revela a Jesús como el Mesías prometido, el Salvador que cumple las profecías del Antiguo Testamento y nos guía hacia el Reino de los Cielos.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Evangelio de Mateo",
+    "canonical": "https://www.labibliaexplicada.com/libro/evangelio-de-mateo"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Evangelio de Mateo",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/mateo-1-genealogia-de-jesucristo",
+        "text": "Genealogía de Jesucristo"
+      },
+      {
+        "href": "/capitulos/mateo-2-la-visita-de-los-magos",
+        "text": "La visita de los magos"
+      },
+      {
+        "href": "/capitulos/mateo-3-predicacion-de-juan-el-bautista",
+        "text": "Predicación de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/mateo-4-tentacion-de-jesus",
+        "text": "Tentación de Jesús"
+      },
+      {
+        "href": "/capitulos/mateo-5-el-sermon-del-monte-las-bienaventuranzas",
+        "text": "El Sermón del monte: Las bienaventuranzas"
+      },
+      {
+        "href": "/capitulos/mateo-6-jesus-y-la-limosna",
+        "text": "Jesús y la limosna"
+      },
+      {
+        "href": "/capitulos/mateo-7-el-juzgar-a-los-demas",
+        "text": "El juzgar a los demás"
+      },
+      {
+        "href": "/capitulos/mateo-8-jesus-sana-a-un-leproso",
+        "text": "Jesús sana a un leproso"
+      },
+      {
+        "href": "/capitulos/mateo-9-jesus-sana-a-un-paralitico",
+        "text": "Jesús sana a un paralítico"
+      },
+      {
+        "href": "/capitulos/mateo-10-eleccion-de-los-doce-apostoles",
+        "text": "Elección de los doce apóstoles"
+      },
+      {
+        "href": "/capitulos/mateo-11-los-mensajeros-de-juan-el-bautista",
+        "text": "Los mensajeros de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/mateo-12-los-discipulos-recogen-espigas-en-el-dia-de-reposo",
+        "text": "Los discípulos recogen espigas en el día de reposo"
+      },
+      {
+        "href": "/capitulos/mateo-13-parabola-del-sembrador",
+        "text": "Parábola del sembrador"
+      },
+      {
+        "href": "/capitulos/mateo-14-muerte-de-juan-el-bautista",
+        "text": "Muerte de Juan el Bautista"
+      },
+      {
+        "href": "/capitulos/mateo-15-lo-que-contamina-al-hombre",
+        "text": "Lo que contamina al hombre"
+      },
+      {
+        "href": "/capitulos/mateo-16-la-demanda-de-una-senal",
+        "text": "La demanda de una señal"
+      },
+      {
+        "href": "/capitulos/mateo-17-la-transfiguracion",
+        "text": "La transfiguración"
+      },
+      {
+        "href": "/capitulos/mateo-18-quien-es-el-mayor",
+        "text": "¿Quién es el mayor?"
+      },
+      {
+        "href": "/capitulos/mateo-19-jesus-ensena-sobre-el-divorcio",
+        "text": "Jesús enseña sobre el divorcio"
+      },
+      {
+        "href": "/capitulos/mateo-20-los-obreros-de-la-vina",
+        "text": "Los obreros de la viña"
+      },
+      {
+        "href": "/capitulos/mateo-21-la-entrada-triunfal-en-jerusalen",
+        "text": "La entrada triunfal en Jerusalén"
+      },
+      {
+        "href": "/capitulos/mateo-22-parabola-de-la-fiesta-de-bodas",
+        "text": "Parábola de la fiesta de bodas"
+      },
+      {
+        "href": "/capitulos/mateo-23-jesus-acusa-a-escribas-y-fariseos",
+        "text": "Jesús acusa a escribas y fariseos"
+      },
+      {
+        "href": "/capitulos/mateo-24-jesus-predice-la-destruccion-del-templo",
+        "text": "Jesús predice la destrucción del templo"
+      },
+      {
+        "href": "/capitulos/mateo-25-parabola-de-las-diez-virgenes",
+        "text": "Parábola de las diez vírgenes"
+      },
+      {
+        "href": "/capitulos/mateo-26-el-complot-para-prender-a-jesus",
+        "text": "El complot para prender a Jesús"
+      },
+      {
+        "href": "/capitulos/mateo-27-jesus-ante-pilato",
+        "text": "Jesús ante Pilato"
+      },
+      {
+        "href": "/capitulos/mateo-28-la-resurreccion",
+        "text": "La resurrección"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosEvangelio de MateoLa BibliaEvangelio de MateoCapítulos del libroGenealogía de JesucristoLa visita de los magosPredicación de Juan el BautistaTentación de JesúsEl Sermón del monte: Las bienaventuranzasJesús y la limosnaEl juzgar a los demásJesús sana a un leprosoJesús sana a un paralíticoElección de los doce apóstolesLos mensajeros de Juan el BautistaLos discípulos recogen espigas en el día de reposoParábola del sembradorMuerte de Juan el BautistaLo que contamina al hombreLa demanda de una señalLa transfiguración¿Quién es el mayor?Jesús enseña sobre el divorcioLos obreros de la viñaLa entrada triunfal en JerusalénParábola de la fiesta de bodasJesús acusa a escribas y fariseosJesús predice la destrucción del temploParábola de las diez vírgenesEl complot para prender a JesúsJesús ante PilatoLa resurrecciónEl Evangelio de Mateo es una de las obras más ricas y significativas del Nuevo Testamento, con un mensaje profundamente ligado a las promesas de Dios reveladas en el Antiguo Testamento. Mateo, también conocido como Leví, fue un recaudador de impuestos, un oficio mal visto en su tiempo. Sin embargo, cuando Jesús lo llamó, Mateo dejó atrás su antigua vida para seguir al Maestro. Es significativo que alguien con este trasfondo haya escrito un evangelio que destaca tanto la misericordia, la justicia y el cumplimiento de la ley.Desde su primer capítulo, Mateo nos lleva de la mano por una genealogía cuidadosamente elaborada, que conecta a Jesús con dos figuras clave de la historia de Israel: Abraham, el padre de la fe, y David, el gran rey. Esta conexión subraya que Jesús es el Mesías prometido, el heredero legítimo del trono de David, y el cumplimiento de las promesas hechas a Abraham, en quien serían bendecidas todas las naciones.Uno de los aspectos únicos de este evangelio es su enfoque en el cumplimiento de las profecías del Antiguo Testamento. Mateo cita el Antiguo Testamento más que cualquier otro evangelista, con más de 60 referencias directas. Esto no es casualidad, ya que Mateo buscaba mostrar a sus lectores judíos que Jesús era el esperado, aquel en quien todas las esperanzas de Israel se cumplían. Desde el nacimiento de Jesús hasta su resurrección, cada evento tiene un trasfondo profético.Un detalle que no encontramos en los otros evangelios es el relato de los Magos y la Estrella de Belén. Solo Mateo nos relata cómo estos sabios de oriente, siguiendo una estrella, llegaron a Belén para adorar al Rey de los judíos recién nacido. Este relato, lleno de misterio y simbolismo, nos muestra cómo Jesús no solo es el Salvador de Israel, sino de todas las naciones.En el Sermón del Monte, Jesús se presenta como un nuevo Moisés. Así como Moisés subió al monte para recibir la ley, ahora Jesús sube a un monte para dar una enseñanza que transformará la vida de quienes la escuchen. Las Bienaventuranzas, en particular, son un reflejo de este nuevo pacto, que no se basa en el mero cumplimiento externo de la ley, sino en la transformación interior del corazón. Jesús nos invita a una vida de humildad, misericordia y pureza de corazón, diciéndonos que el Reino de los Cielos pertenece a los pobres en espíritu y a los que sufren.Es interesante que Mateo sea el único que utiliza consistentemente la expresión “Reino de los Cielos” en lugar de “Reino de Dios”, que es más común en los otros evangelios. Esto refleja el respeto de los judíos por el nombre de Dios, que evitaban pronunciarlo directamente. Al hacerlo, Mateo sigue mostrando su conexión con las tradiciones judías, pero también introduce un concepto que va más allá de las expectativas terrenales. El Reino de los Cielos no es solo un lugar, es una realidad presente que transforma la vida aquí y ahora, aunque su plenitud se alcanzará en el futuro.Otro aspecto fascinante es que la genealogía presentada por Mateo difiere de la que encontramos en el Evangelio de Lucas. Mientras Lucas traza la genealogía de Jesús a través de María, destacando su conexión con toda la humanidad al remontarse hasta Adán, Mateo opta por enfocarse en José, y conecta a Jesús directamente con Abraham y David, subrayando su misión mesiánica. A través de esta genealogía, Mateo deja claro que Jesús es el cumplimiento de las promesas hechas a Israel.El Evangelio de Mateo también se distingue por su uso extenso en la catequesis y enseñanza de los primeros cristianos. En los primeros siglos, este evangelio fue ampliamente utilizado por los catequistas debido a su claridad y estructura. Mateo tiene una habilidad especial para organizar los dichos y enseñanzas de Jesús en bloques temáticos, lo que facilitaba su memorización y transmisión oral en una época en la que no todos tenían acceso a los textos escritos.Al leer el Evangelio de Mateo, podemos sentir cómo Jesús se nos revela no solo como Mesías, sino como un maestro cercano, profundamente comprometido con su pueblo. Nos encontramos con un Jesús que entiende nuestras luchas, que nos invita a seguirlo con un corazón puro y que nos mu"
+}

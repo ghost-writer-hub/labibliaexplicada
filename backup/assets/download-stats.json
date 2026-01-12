@@ -1,0 +1,11 @@
+{
+  "success": 64,
+  "failed": 1,
+  "skipped": 0,
+  "errors": [
+    {
+      "url": "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+      "error": "HTTP 403"
+    }
+  ]
+}

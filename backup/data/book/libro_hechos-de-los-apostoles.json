@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "url": "https://www.labibliaexplicada.com/libro/hechos-de-los-apostoles",
+    "title": "Hechos de los Apóstoles",
+    "description": "El Hechos de los Apóstoles narra el inicio de la Iglesia, guiada por el Espíritu Santo y la expansión del Evangelio a través de los primeros discípulos.",
+    "ogImage": "https://cdn.prod.website-files.com/66cc37c6e520d3205900867a/670bf05c87bbd89e5c75c4f8_la-biblia-explicada.webp",
+    "ogTitle": "Hechos de los Apóstoles",
+    "canonical": "https://www.labibliaexplicada.com/libro/hechos-de-los-apostoles"
+  },
+  "templateType": "book",
+  "templateClasses": {
+    "body": "",
+    "main": ""
+  },
+  "navigation": [
+    {
+      "href": "/conceptos-biblicos",
+      "text": "Conceptos"
+    },
+    {
+      "href": "/libros-de-la-biblia",
+      "text": "Libros"
+    },
+    {
+      "href": "/sobre-nosotros",
+      "text": "Nosotros"
+    },
+    {
+      "href": "/categoria/historia",
+      "text": "Articulos"
+    },
+    {
+      "href": "/categoria/curiosidades",
+      "text": "Curiosidades y conceptos"
+    },
+    {
+      "href": "/categoria/reflexiones-sobre-la-biblia",
+      "text": "Reflexiones sobre La Biblia"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e72d69f63039a95e928cec_chevron-left.svg",
+      "alt": "Volver a explorar el viaje"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/66cc37c5e520d320590085ca/66e720f973f65bd26a78f88b_Image.webp",
+      "alt": "La Biblia Explicada"
+    }
+  ],
+  "structuredContent": {
+    "bookName": "Hechos de los Apóstoles",
+    "description": "",
+    "chapters": [
+      {
+        "href": "/capitulos/hechos-1-la-promesa-del-espiritu-santo",
+        "text": "La promesa del Espíritu Santo"
+      },
+      {
+        "href": "/capitulos/hechos-2-la-venida-del-espiritu-santo",
+        "text": "La venida del Espíritu Santo"
+      },
+      {
+        "href": "/capitulos/hechos-3-curacion-de-un-cojo",
+        "text": "Curación de un cojo"
+      },
+      {
+        "href": "/capitulos/hechos-4-pedro-y-juan-ante-el-concilio",
+        "text": "Pedro y Juan ante el concilio"
+      },
+      {
+        "href": "/capitulos/hechos-5-ananias-y-safira",
+        "text": "Ananías y Safira"
+      },
+      {
+        "href": "/capitulos/hechos-6-eleccion-de-siete-diaconos",
+        "text": "Elección de siete diáconos"
+      },
+      {
+        "href": "/capitulos/hechos-7-defensa-y-muerte-de-esteban",
+        "text": "Defensa y muerte de Esteban"
+      },
+      {
+        "href": "/capitulos/hechos-8-saulo-persigue-a-la-iglesia",
+        "text": "Saulo persigue a la iglesia"
+      },
+      {
+        "href": "/capitulos/hechos-9-conversion-de-saulo",
+        "text": "Conversión de Saulo"
+      },
+      {
+        "href": "/capitulos/hechos-10-pedro-y-cornelio",
+        "text": "Pedro y Cornelio"
+      },
+      {
+        "href": "/capitulos/hechos-11-informe-de-pedro-a-la-iglesia-de-jerusalen",
+        "text": "Informe de Pedro a la iglesia de Jerusalén"
+      },
+      {
+        "href": "/capitulos/hechos-12-jacobo-muerto-pedro-encarcelado",
+        "text": "Jacobo, muerto; Pedro, encarcelado"
+      },
+      {
+        "href": "/capitulos/hechos-13-bernabe-y-saulo-comienzan-su-primer-viaje-misionero",
+        "text": "Bernabé y Saulo comienzan su primer viaje misionero"
+      },
+      {
+        "href": "/capitulos/hechos-14-pablo-y-bernabe-en-iconio",
+        "text": "Pablo y Bernabé en iconio"
+      },
+      {
+        "href": "/capitulos/hechos-15-el-concilio-en-jerusalen",
+        "text": "El concilio en Jerusalén"
+      },
+      {
+        "href": "/capitulos/hechos-16-timoteo-acompana-a-pablo-y-a-silas",
+        "text": "Timoteo acompaña a Pablo y a Silas"
+      },
+      {
+        "href": "/capitulos/hechos-17-el-alboroto-en-tesalonica",
+        "text": "El alboroto en Tesalónica"
+      },
+      {
+        "href": "/capitulos/hechos-18-pablo-en-corinto",
+        "text": "Pablo en Corinto"
+      },
+      {
+        "href": "/capitulos/hechos-19-pablo-en-efeso",
+        "text": "Pablo en Efeso"
+      },
+      {
+        "href": "/capitulos/hechos-20-viaje-de-pablo-a-macedonia-y-grecia",
+        "text": "Viaje de Pablo a Macedonia y Grecia"
+      },
+      {
+        "href": "/capitulos/hechos-21-viaje-de-pablo-a-jerusalen",
+        "text": "Viaje de Pablo a Jerusalén"
+      },
+      {
+        "href": "/capitulos/hechos-22-pablo-relata-su-conversion",
+        "text": "Pablo relata su conversión"
+      },
+      {
+        "href": "/capitulos/hechos-23-complot-contra-pablo",
+        "text": "Complot contra Pablo"
+      },
+      {
+        "href": "/capitulos/hechos-24-defensa-de-pablo-ante-felix",
+        "text": "Defensa de Pablo ante Félix"
+      },
+      {
+        "href": "/capitulos/hechos-25-pablo-apela-a-cesar",
+        "text": "Pablo apela a César"
+      },
+      {
+        "href": "/capitulos/hechos-26-defensa-de-pablo-ante-agripa",
+        "text": "Defensa de Pablo ante Agripa"
+      },
+      {
+        "href": "/capitulos/hechos-27-pablo-es-enviado-a-roma",
+        "text": "Pablo es enviado a Roma"
+      },
+      {
+        "href": "/capitulos/hechos-28-pablo-en-la-isla-de-malta",
+        "text": "Pablo en la isla de Malta"
+      }
+    ]
+  },
+  "cleanText": "ConceptosLibrosNosotrosHechos de los ApóstolesLa BibliaHechos de los ApóstolesCapítulos del libroLa promesa del Espíritu SantoLa venida del Espíritu SantoCuración de un cojoPedro y Juan ante el concilioAnanías y SafiraElección de siete diáconosDefensa y muerte de EstebanSaulo persigue a la iglesiaConversión de SauloPedro y CornelioInforme de Pedro a la iglesia de JerusalénJacobo, muerto; Pedro, encarceladoBernabé y Saulo comienzan su primer viaje misioneroPablo y Bernabé en iconioEl concilio en JerusalénTimoteo acompaña a Pablo y a SilasEl alboroto en TesalónicaPablo en CorintoPablo en EfesoViaje de Pablo a Macedonia y GreciaViaje de Pablo a JerusalénPablo relata su conversiónComplot contra PabloDefensa de Pablo ante FélixPablo apela a CésarDefensa de Pablo ante AgripaPablo es enviado a RomaPablo en la isla de MaltaEl Hechos de los Apóstoles nos invita a un viaje fascinante, en el que vemos cómo el Espíritu Santo guía los primeros pasos de la Iglesia. Es como si el mismo Jesús, a través de su Espíritu, continuara caminando entre sus discípulos, animándolos, guiándolos y dándoles la valentía de predicar a pesar de las adversidades.El autor de este libro, Lucas, el médico y fiel compañero del apóstol Pablo, recoge no solo eventos históricos, sino que también nos muestra cómo el mensaje de Cristo se fue extendiendo, como el agua que se expande por una tierra sedienta. El Espíritu Santo se convierte en el motor, en ese poder que impulsa a hombres y mujeres comunes a hacer cosas extraordinarias.A lo largo de aproximadamente 30 años, el relato de Hechos nos lleva desde la pequeña comunidad en Jerusalén hasta los confines del mundo conocido. Nos encontramos con los discursos apasionados de Pedro, con las luchas de los primeros cristianos para encontrar su lugar entre las antiguas tradiciones judías y el nuevo llamado de Cristo.Pero lo más asombroso es ver cómo Dios trabaja a través de personas tan distintas. No solo los grandes apóstoles como Pedro o Pablo son los protagonistas, sino que mujeres como Lidia o Priscila también desempeñan un papel vital, rompiendo con las normas de la época y mostrando que el Evangelio es para todos.Hechos nos recuerda, en cada página, que la misión de la Iglesia es una tarea que sigue viva hoy. Lo que comenzó con unos pocos pescadores en Galilea, guiados por el poder del Espíritu, se transformó en una revolución de amor que alcanzó a todo el mundo. Ahora, esa misma misión sigue viva en cada uno de nosotros.Cada acción que realizamos, cada palabra que pronunciamos por Cristo, es parte de esta historia continua. El concilio de Jerusalén nos recuerda que la Iglesia debe siempre buscar el equilibrio entre la tradición y la misión, entre lo que ha sido y lo que está por venir.El título de este libro, “Hechos”, refleja ese dinamismo. Porque no se trata solo de palabras, sino de acciones, de hechos heroicos inspirados por el Espíritu de Dios. Este relato nos invita a unirnos a esa historia, a ser parte de la misión que sigue avanzando.ANTERIOREvangelio de JuanSIGUIENTEEpístola a los romanosGénesisÉxodoLevíticoLibro de los NúmerosDeuteronomioLibro de JosuéLibro de los JuecesLibro de RutI SamuelII SamuelI ReyesII ReyesI CrónicasII CrónicasLibro de EsdrasLibro de NehemíasLibro de EsterLibro de JobLibro de los SalmosProverbiosLibro del EclesiastésCantar de los CantaresLibro de IsaíasLibro de JeremíasLibro de las LamentacionesLibro de EzequielLibro de DanielLibro de OseasLibro de JoelLibro de AmósLibro de AbdíasLibro de JonásLibro de MiqueasLibro de NahumLibro de HabacucLibro de SofoníasLibro de HageoLibro de ZacaríasLibro de MalaquíasEvangelio de MateoEvangelio de MarcosEvangelio de LucasHechos de los ApóstolesPrimera epístola a los corintiosSegunda epístola a los corintiosEpístola a los gálatasEpístola a los efesiosEpístola a los filipensesEpístola a los colosensesPrimera epístola a los tesalonicensesSegunda epístola a los tesalonicensesPrimera epístola a TimoteoSegunda epístola a TimoteoEpístola a TitoEpístola a FilemónEpístola a los hebreosEpístola de SantiagoPrimera epístola de PedroSegunda epístola de PedroPrimera epístola de JuanSegunda epístola de JuanTercera epístola de JuanEpístola de JudasApocalipsisMas LIBROsApocalipsisEpístola de JudasTercera epístola de JuanSegunda epístola de JuanPrimera epístola de JuanSegunda epístola de PedroPrimera epístola de PedroEpístola de SantiagoEpístola a los hebreosEpístola a FilemónEpístola a TitoSegunda epístola a TimoteoPrimera epístola a TimoteoSegunda epístola a los tesalonicensesPrimera epístola a los tesalonicensesEpístola a los colosensesEpístola a los filipensesEpístola a los efesiosEpístola a los gálatasSegunda epístola a los corintiosPrimera epístola a los corintiosEpístola a los romanosHechos de los ApóstolesEvangelio de JuanEvangelio de LucasEvangelio de MarcosEvangelio de MateoLibro de MalaquíasLibro de ZacaríasLibro de HageoLibro de SofoníasLibro de HabacucLibro de NahumLibro de MiqueasLibro de JonásLibro de AbdíasLibro de AmósLibro de "
+}

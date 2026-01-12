@@ -1,0 +1,194 @@
+{
+  "id": "66cdf39c5ffa665d1adfec09",
+  "displayName": "Capitulos",
+  "singularName": "Capitulo",
+  "slug": "capitulos",
+  "createdOn": "2024-08-27T15:41:16.926Z",
+  "lastUpdated": "2025-07-13T06:34:01.780Z",
+  "fields": [
+    {
+      "id": "98281ccaafda4bf61edd09b664fdfde6",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Reference",
+      "slug": "libro",
+      "displayName": "book",
+      "helpText": null,
+      "validations": {
+        "collectionId": "66cc37c6e520d3205900867f"
+      }
+    },
+    {
+      "id": "a6cd46405b3c12443e86c78a9cbe6396",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "nombre-del-versiculo",
+      "displayName": "chapter-title",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "ea31844aba8469d420e324f81a423dc6",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Number",
+      "slug": "numero-de-versiculo",
+      "displayName": "chapter-id",
+      "helpText": null,
+      "validations": {
+        "format": "integer",
+        "precision": 1,
+        "allowNegative": false,
+        "minValue": 1
+      }
+    },
+    {
+      "id": "3dd9c4e4dfa03f4525937d03ff1500cf",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "contenido",
+      "displayName": "content",
+      "helpText": "el contenido original del libro",
+      "validations": null
+    },
+    {
+      "id": "6d2839d6ba24503fd30fcabf20520dbf",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "explicacion",
+      "displayName": "explanation",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "3398cd526b1d20ec39cd15f175f53da0",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "RichText",
+      "slug": "json-ld",
+      "displayName": "JSON-LD",
+      "helpText": "surround it by HTML tags",
+      "validations": null
+    },
+    {
+      "id": "ba622ee9664f24a7d1233236a54a5a8a",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "json-ld-plain",
+      "displayName": "JSON-LD_plain",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "b161beb92a4af1d8fc271163e0035f70",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Image",
+      "slug": "main-image-for-the-chapter",
+      "displayName": "chapter-main-image",
+      "helpText": null,
+      "validations": null
+    },
+    {
+      "id": "3f54d067e7650946fb36132b584634fb",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "chapter-image-alt-text",
+      "displayName": "chapter-image-alt-text",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "4fc318474c9f445de26817297be359e7",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "chapter-title-list",
+      "displayName": "chapter-title-list",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "5e4a5c17cb33204bd7c04313b0dcaf3a",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Number",
+      "slug": "chapter-global-id",
+      "displayName": "chapter-global-id",
+      "helpText": "numero de pagina de la biblia en general",
+      "validations": {
+        "format": "integer",
+        "precision": 1,
+        "allowNegative": false
+      }
+    },
+    {
+      "id": "c936b80e444050f1525cb78bf24dc139",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "Number",
+      "slug": "chapter-day",
+      "displayName": "chapter-day",
+      "helpText": "dia del año en que se lee este capitulo",
+      "validations": {
+        "format": "integer",
+        "precision": 1,
+        "allowNegative": false
+      }
+    },
+    {
+      "id": "8de56709896323c9e5ddb75bbbc0e464",
+      "isEditable": true,
+      "isRequired": false,
+      "type": "PlainText",
+      "slug": "chapter-summary",
+      "displayName": "chapter-summary",
+      "helpText": null,
+      "validations": {
+        "singleLine": true
+      }
+    },
+    {
+      "id": "6026ca07d932b1b86265cf04b672c6a7",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "name",
+      "displayName": "Name",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256
+      }
+    },
+    {
+      "id": "97e01575b8b4e97baafd8cfdc9f3a610",
+      "isEditable": true,
+      "isRequired": true,
+      "type": "PlainText",
+      "slug": "slug",
+      "displayName": "Slug",
+      "helpText": null,
+      "validations": {
+        "maxLength": 256,
+        "pattern": {},
+        "messages": {
+          "pattern": "Must be alphanumerical and not contain any spaces or special characters",
+          "maxLength": "Must be less than 256 characters"
+        }
+      }
+    }
+  ]
+}
