@@ -4,7 +4,7 @@ services:
   directus:
     image: directus/directus:10.13
     ports:
-      - "8055:8055"
+      - "8056:8055"
     environment:
       SECRET: "${DIRECTUS_SECRET:-change-me-to-a-random-string}"
       ADMIN_EMAIL: "${DIRECTUS_ADMIN_EMAIL:-admin@labibliaexplicada.com}"
@@ -18,7 +18,7 @@ services:
       CACHE_ENABLED: "true"
       CACHE_STORE: "redis"
       REDIS: "redis://cache:6379"
-      PUBLIC_URL: "${PUBLIC_URL:-http://localhost:8055}"
+      PUBLIC_URL: "${PUBLIC_URL:-http://localhost:8056}"
       CORS_ENABLED: "true"
       CORS_ORIGIN: "*"
     volumes:

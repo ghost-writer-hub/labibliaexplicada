@@ -10,16 +10,22 @@
  */
 
 const fs = require('fs').promises;
+const fsSync = require('fs');
 const path = require('path');
 
-const DIRECTUS_URL = process.env.DIRECTUS_URL || 'http://localhost:8055';
-const DIRECTUS_TOKEN = process.env.DIRECTUS_TOKEN;
+const DIRECTUS_URL = process.env.DIRECTUS_URL || 'http://localhost:8056';
+let DIRECTUS_TOKEN = process.env.DIRECTUS_TOKEN;
 const WEBFLOW_BACKUP_DIR = './webflow-backup';
 
+// Try to read token from file if not in env
 if (!DIRECTUS_TOKEN) {
-  console.error('Error: DIRECTUS_TOKEN environment variable is required');
-  console.log('Get a static token from Directus Admin > Settings > Access Tokens');
-  process.exit(1);
+  try {
+    DIRECTUS_TOKEN = fsSync.readFileSync('/tmp/directus_token.txt', 'utf8').trim();
+  } catch (e) {
+    console.error('Error: DIRECTUS_TOKEN environment variable is required');
+    console.log('Get a static token from Directus Admin > Settings > Access Tokens');
+    process.exit(1);
+  }
 }
 
 // Mapping of Webflow IDs to Directus UUIDs
